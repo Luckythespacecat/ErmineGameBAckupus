@@ -2417,6 +2417,246 @@
         "name": "sellsignoutling.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Non-Hover.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Non-Hover",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NotHover.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NotHover",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Hover.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Hover",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NotHover2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NotHover2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Hover2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Hover2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NotHover3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NotHover3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Non-Hover2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Non-Hover2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Hover3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Hover3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Non-Hover3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Non-Hover3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Hover4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Hover4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/textboxforpig1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "textboxforpig1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/burrow1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "burrow1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/burrow2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "burrow2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/burrow3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "burrow3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/burrow4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "burrow4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow13.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"burrow13.png\",\"extension\":\".png\"}",
+        "name": "burrow13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/burrow13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "burrow13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "MapBorder.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "MapBorder.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2448,7 +2688,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8416428125373216,
+        "zoomFactor": 0.7876290101673871,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -2511,6 +2751,11 @@
           "value": false
         },
         {
+          "name": "ControlsAllowed",
+          "type": "boolean",
+          "value": true
+        },
+        {
           "name": "RandomPhrase",
           "type": "number",
           "value": 0
@@ -2556,8 +2801,8 @@
           "name": "Player",
           "persistentUuid": "331e4479-354a-478a-983e-22d3d1d5dee8",
           "width": 0,
-          "x": 544,
-          "y": 367,
+          "x": 517,
+          "y": 459,
           "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
@@ -3293,6 +3538,22 @@
           "x": 264,
           "y": 609,
           "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Burrow",
+          "persistentUuid": "61b6bb78-4186-4f05-b8d8-9b9c7fd045db",
+          "width": 0,
+          "x": 800,
+          "y": 577,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9590,6 +9851,547 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Burrow",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Animation",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "GoDown",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "burrow12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 21
+                          },
+                          {
+                            "x": 14,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -9656,6 +10458,9 @@
           },
           {
             "objectName": "SlipperyIce"
+          },
+          {
+            "objectName": "Burrow"
           }
         ]
       },
@@ -9665,6 +10470,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Collision",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9912,6 +10718,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Tent",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10002,7 +10809,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"e\""
+                    "\"Space\""
                   ]
                 },
                 {
@@ -10024,7 +10831,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"Base\""
+                    "\"Pig\""
                   ]
                 }
               ]
@@ -10039,6 +10846,171 @@
                   },
                   "parameters": [
                     "Points"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Burrow",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Burrow",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangeSprite"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "=",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Burrow",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "Animation",
+                    "=",
+                    "\"GoDown\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Player"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "False",
+                    ".5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeSprite"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "Animation"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Burrow",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangeSprite"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "=",
+                    "0"
                   ]
                 }
               ]
@@ -10230,6 +11202,15 @@
                 },
                 {
                   "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "HideLayer"
                   },
                   "parameters": [
@@ -10345,7 +11326,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Hunting Sequence",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10401,8 +11381,8 @@
                     "Player",
                     "Tween",
                     "\"Inch\"",
-                    "Prey.CenterX()",
-                    "Prey.CenterY()",
+                    "Prey.X()",
+                    "Prey.Y()-16",
                     "\"linear\"",
                     "Duration",
                     ""
@@ -10450,7 +11430,6 @@
               ]
             },
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -10486,6 +11465,16 @@
                     "",
                     "\"Type\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "False",
+                    ".5"
+                  ]
                 }
               ],
               "events": [
@@ -10494,7 +11483,7 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "AnyKeyReleased"
+                        "value": "AnyKeyPressed"
                       },
                       "parameters": [
                         ""
@@ -10591,7 +11580,6 @@
                   ]
                 },
                 {
-                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -14944,6 +15932,7 @@
                   ]
                 },
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -15920,6 +16909,7 @@
                   ]
                 },
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -16860,6 +17850,18 @@
                   ]
                 },
                 {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "When Sequence starts"
+                },
+                {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -17026,6 +18028,12 @@
                     "False",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -17049,6 +18057,16 @@
                   "parameters": [
                     "",
                     "\"Type\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ".5"
                   ]
                 }
               ]
@@ -17090,12 +18108,6 @@
                 },
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                },
-                {
-                  "type": {
                     "value": "BooleanVariable"
                   },
                   "parameters": [
@@ -17103,6 +18115,12 @@
                     "False",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -17470,7 +18488,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Movement",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -17481,21 +18498,21 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "ControlSequence",
-                        "False",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "KeyFromTextPressed"
                       },
                       "parameters": [
                         "",
                         "\"d\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "ControlsAllowed",
+                        "True",
+                        ""
                       ]
                     }
                   ],
@@ -17546,21 +18563,21 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "ControlSequence",
-                        "False",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "KeyFromTextPressed"
                       },
                       "parameters": [
                         "",
                         "\"a\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "ControlsAllowed",
+                        "True",
+                        ""
                       ]
                     }
                   ],
@@ -17610,21 +18627,21 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "ControlSequence",
-                        "False",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "KeyFromTextPressed"
                       },
                       "parameters": [
                         "",
                         "\"s\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "ControlsAllowed",
+                        "True",
+                        ""
                       ]
                     }
                   ],
@@ -17645,21 +18662,21 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "ControlSequence",
-                        "False",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "KeyFromTextPressed"
                       },
                       "parameters": [
                         "",
                         "\"w\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "ControlsAllowed",
+                        "True",
+                        ""
                       ]
                     }
                   ],
@@ -18257,7 +19274,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.3795564280209014,
+        "zoomFactor": 1.3345547996659977,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -18302,15 +19319,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 360,
+          "height": 80,
           "keepRatio": true,
           "layer": "",
           "name": "Back",
-          "persistentUuid": "1da93db7-5cc2-4214-acbc-6278bb950bb5",
-          "width": 640,
+          "persistentUuid": "845952bb-d0b0-4887-8f30-e66fbdc3c7ee",
+          "width": 122,
           "x": 0,
           "y": 0,
-          "zOrder": 3,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18319,15 +19336,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 360,
+          "height": 90,
           "keepRatio": true,
           "layer": "",
           "name": "TalkSign",
-          "persistentUuid": "6f62cb4f-39ba-45a1-856c-f19d0265d521",
-          "width": 640,
-          "x": 0,
-          "y": 0,
-          "zOrder": 4,
+          "persistentUuid": "a05ccff9-829c-4fbb-b279-6817a621ee91",
+          "width": 150,
+          "x": 1,
+          "y": 121,
+          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18336,15 +19353,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 360,
+          "height": 80,
           "keepRatio": true,
           "layer": "",
           "name": "SellSign",
-          "persistentUuid": "1e2bc3ca-efa8-4c1b-9a59-57796e34e443",
-          "width": 640,
-          "x": 0,
-          "y": 0,
-          "zOrder": 5,
+          "persistentUuid": "77e65a3a-0be1-41da-b26a-28139c3a5423",
+          "width": 144,
+          "x": -1,
+          "y": 207,
+          "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18353,15 +19370,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 360,
+          "height": 120,
           "keepRatio": true,
           "layer": "",
           "name": "TextBox",
-          "persistentUuid": "6ffc8057-d480-4854-a9dc-8ff65d461cd6",
-          "width": 640,
-          "x": 0,
-          "y": 0,
-          "zOrder": 6,
+          "persistentUuid": "d3c23275-d50a-4801-9a4c-4ef580c0df52",
+          "width": 400,
+          "x": 139,
+          "y": 259,
+          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18497,11 +19514,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "backsing1.png",
+                      "image": "NotHover3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18517,19 +19535,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 4,
+                            "x": 0,
                             "y": 0
                           },
                           {
-                            "x": 64,
+                            "x": 60,
                             "y": 0
                           },
                           {
-                            "x": 64,
+                            "x": 60,
                             "y": 38
                           },
                           {
-                            "x": 4,
+                            "x": 0,
                             "y": 38
                           }
                         ]
@@ -18550,7 +19568,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "backsignoutline.png",
+                      "image": "Hover2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18566,19 +19584,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 4,
+                            "x": 0,
                             "y": 0
                           },
                           {
-                            "x": 64,
+                            "x": 60,
                             "y": 0
                           },
                           {
-                            "x": 64,
+                            "x": 60,
                             "y": 38
                           },
                           {
-                            "x": 4,
+                            "x": 0,
                             "y": 38
                           }
                         ]
@@ -18606,11 +19624,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "talksing1.png",
+                      "image": "Non-Hover2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18627,19 +19646,19 @@
                         [
                           {
                             "x": 1,
-                            "y": 42
+                            "y": 1
                           },
                           {
                             "x": 72,
-                            "y": 42
+                            "y": 1
                           },
                           {
                             "x": 72,
-                            "y": 84
+                            "y": 43
                           },
                           {
                             "x": 1,
-                            "y": 84
+                            "y": 43
                           }
                         ]
                       ]
@@ -18654,11 +19673,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "talksignoutline.png",
+                      "image": "Hover3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18675,19 +19695,19 @@
                         [
                           {
                             "x": 1,
-                            "y": 42
+                            "y": 1
                           },
                           {
                             "x": 72,
-                            "y": 42
+                            "y": 1
                           },
                           {
                             "x": 72,
-                            "y": 84
+                            "y": 43
                           },
                           {
                             "x": 1,
-                            "y": 84
+                            "y": 43
                           }
                         ]
                       ]
@@ -18714,11 +19734,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "sellsign.png",
+                      "image": "Non-Hover3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18734,20 +19755,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 90
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 70,
-                            "y": 90
+                            "x": 71,
+                            "y": 1
                           },
                           {
-                            "x": 70,
-                            "y": 128
+                            "x": 71,
+                            "y": 39
                           },
                           {
-                            "x": 0,
-                            "y": 128
+                            "x": 1,
+                            "y": 39
                           }
                         ]
                       ]
@@ -18762,11 +19783,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "sellsignoutling.png",
+                      "image": "Hover4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18782,20 +19804,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 90
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 70,
-                            "y": 90
+                            "x": 71,
+                            "y": 1
                           },
                           {
-                            "x": 70,
-                            "y": 128
+                            "x": 71,
+                            "y": 39
                           },
                           {
-                            "x": 0,
-                            "y": 128
+                            "x": 1,
+                            "y": 39
                           }
                         ]
                       ]
@@ -18817,16 +19839,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "textboxforpig1",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "textboxforpig1.png",
+                      "image": "textboxforpig1",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18842,20 +19865,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 70,
-                            "y": 131
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 248,
-                            "y": 131
+                            "x": 179,
+                            "y": 1
                           },
                           {
-                            "x": 248,
-                            "y": 180
+                            "x": 179,
+                            "y": 50
                           },
                           {
-                            "x": 70,
-                            "y": 180
+                            "x": 1,
+                            "y": 50
                           }
                         ]
                       ]
@@ -19253,6 +20276,288 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
+    },
+    {
+      "b": 251,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Map",
+      "name": "Map",
+      "r": 251,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 236,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.5824517733822226,
+        "windowMask": false,
+        "selectedLayer": ""
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 360,
+          "keepRatio": true,
+          "layer": "Border",
+          "name": "Border",
+          "persistentUuid": "549f038d-d0dc-417f-8e80-d72b0ab1b46d",
+          "width": 640,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Border",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "MapBorder.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 320,
+                            "y": 0
+                          },
+                          {
+                            "x": 320,
+                            "y": 180
+                          },
+                          {
+                            "x": 0,
+                            "y": 180
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Border"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "DragCameraWithPointer::DragCameraWithPointer"
+              },
+              "parameters": [
+                "",
+                "0",
+                "",
+                "\"both\"",
+                "Left",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": true,
+          "name": "Border",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
         }
       ]
     }
@@ -30066,6 +31371,242 @@
           "sharedPropertyDescriptors": []
         }
       ],
+      "eventsBasedObjects": []
+    },
+    {
+      "author": "@ddabrahim",
+      "category": "Camera",
+      "extensionNamespace": "",
+      "fullName": "Drag camera with the mouse (or touchscreen)",
+      "gdevelopVersion": ">=5.5.222",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWRyYWctdmFyaWFudCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMi42NywxMkwxOC4xOCwxNi41TDE1LjY3LDE0TDE3LjY1LDEyTDE1LjY3LDEwLjA0TDE4LjE4LDcuNTNMMjIuNjcsMTJNMTIsMS4zM0wxNi40Nyw1LjgyTDEzLjk2LDguMzNMMTIsNi4zNUwxMCw4LjMzTDcuNSw1LjgyTDEyLDEuMzNNMTIsMjIuNjdMNy41MywxOC4xOEwxMC4wNCwxNS42N0wxMiwxNy42NUwxNCwxNS42N0wxNi41LDE4LjE4TDEyLDIyLjY3TTEuMzMsMTJMNS44Miw3LjVMOC4zMywxMEw2LjM1LDEyTDguMzMsMTMuOTZMNS44MiwxNi40N0wxLjMzLDEyTTEyLDEwQTIsMiAwIDAsMSAxNCwxMkEyLDIgMCAwLDEgMTIsMTRBMiwyIDAgMCwxIDEwLDEyQTIsMiAwIDAsMSAxMiwxMFoiIC8+PC9zdmc+",
+      "name": "DragCameraWithPointer",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/drag-variant.svg",
+      "shortDescription": "Move a camera by dragging the mouse (or touchscreen).",
+      "version": "1.2.0",
+      "description": [
+        "Move a camera by dragging the mouse (or touchscreen). ",
+        "",
+        "How to use:",
+        "- Run this action on every frame that you want the camera to be movable by the mouse (or touchscreen)",
+        "- Select the mouse button to use (choose \"left\" for touchscreen)",
+        "- Select which directions the camera will move (vertical, horizontal, or both) ",
+        "- Select the layer that will be moved",
+        "",
+        "Tips:",
+        "- If no parameters are selected, the camera will move in both directions when the left mouse button (or touchscreen) are dragged."
+      ],
+      "origin": {
+        "identifier": "DragCameraWithPointer",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "mouse",
+        "cursor",
+        "pointer",
+        "touch",
+        "drag",
+        "camera",
+        "scroll",
+        "gestures"
+      ],
+      "authorIds": [
+        "GfzRsieyUFVnsRR8OZThsPR29oq2",
+        "gqDaZjCfevOOxBYkK6zlhtZnXCg1"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [
+        {
+          "name": "ScrollStartX",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "ScrollStartY",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "eventsFunctions": [
+        {
+          "description": "Move a camera by dragging the mouse (or touchscreen).",
+          "fullName": "Drag camera with the mouse",
+          "functionType": "Action",
+          "name": "DragCameraWithPointer",
+          "sentence": "Drag camera on layer _PARAM2_ in _PARAM3_ directions using _PARAM4_ mouse button",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "InputButton"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "MouseButtonPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Left"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "GetArgumentAsBoolean"
+                          },
+                          "parameters": [
+                            "\"InputButton\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "ScrollStartX",
+                        "=",
+                        "CursorX(Layer, Camera)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "ScrollStartY",
+                        "=",
+                        "CursorY(Layer, Camera)"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StrEqual"
+                      },
+                      "parameters": [
+                        "Direction",
+                        "!=",
+                        "\"vertical\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetCameraCenterX"
+                      },
+                      "parameters": [
+                        "",
+                        "-",
+                        "CursorX(Layer, Camera) - ScrollStartX",
+                        "Layer",
+                        "Camera"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StrEqual"
+                      },
+                      "parameters": [
+                        "Direction",
+                        "!=",
+                        "\"horizontal\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetCameraCenterY"
+                      },
+                      "parameters": [
+                        "",
+                        "-",
+                        "CursorY(Layer, Camera) - ScrollStartY",
+                        "Layer",
+                        "Camera"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": [
+            {
+              "description": "Camera number (default: 0)",
+              "name": "Camera",
+              "type": "expression"
+            },
+            {
+              "description": "Camera layer (default: \"\")",
+              "name": "Layer",
+              "type": "layer"
+            },
+            {
+              "description": "Directions that the camera can move (horizontal, vertical, both)",
+              "name": "Direction",
+              "supplementaryInformation": "[\"vertical\",\"horizontal\",\"both\"]",
+              "type": "stringWithSelector"
+            },
+            {
+              "description": "Mouse button (use \"Left\" for touchscreen)",
+              "name": "InputButton",
+              "type": "mouse"
+            }
+          ],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": [],
       "eventsBasedObjects": []
     }
   ],
