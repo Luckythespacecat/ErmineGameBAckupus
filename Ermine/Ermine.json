@@ -3068,6 +3068,14 @@
         "name": "stump4.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite12",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -3106,7 +3114,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.30104611971825085,
+        "zoomFactor": 2.8710512809970603,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -3229,8 +3237,8 @@
           "name": "Player",
           "persistentUuid": "331e4479-354a-478a-983e-22d3d1d5dee8",
           "width": 0,
-          "x": 512,
-          "y": 458,
+          "x": 515,
+          "y": 420,
           "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
@@ -3728,8 +3736,8 @@
           "name": "TallTree",
           "persistentUuid": "e5cd7bd2-669a-41b4-b846-1eff70b63402",
           "width": 0,
-          "x": 449,
-          "y": 410,
+          "x": 467,
+          "y": 503,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -3897,6 +3905,74 @@
           "x": 497,
           "y": 650,
           "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "3270e73b-9431-4d90-a4c7-87273612ac08",
+          "width": 287,
+          "x": 564,
+          "y": 474,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "1277ed0f-6cb4-48b6-a637-10a904c6d4fd",
+          "width": 302,
+          "x": 198,
+          "y": 472,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 44,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "3247d6dd-5cc7-4ca1-b7c0-4da755dc0fa6",
+          "width": 3,
+          "x": 563,
+          "y": 447,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 44,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "2427a810-9b60-4585-9e79-b921370e77d0",
+          "width": 3,
+          "x": 497,
+          "y": 445,
+          "zOrder": 60,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11657,6 +11733,67 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Collision",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -11707,6 +11844,9 @@
             "objectName": "Rabbit"
           },
           {
+            "objectName": "Collision"
+          },
+          {
             "objectName": "NewShapePainter"
           },
           {
@@ -11738,11 +11878,26 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Collision",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Collision",
+                    ""
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -12126,6 +12281,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Axe",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -12347,6 +12503,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Prey",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -12741,7 +12898,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "On Start",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -12951,6 +13107,14 @@
                   },
                   "parameters": [
                     "SlipperyIce"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Collision"
                   ]
                 }
               ]
