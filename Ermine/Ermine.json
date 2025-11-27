@@ -81,6 +81,7 @@
     "authorUsernames": [],
     "categories": [],
     "playableDevices": [
+      "mobile",
       "mobile"
     ],
     "extensionProperties": [],
@@ -2883,6 +2884,190 @@
         "name": "Borrowup12.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "stump1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stump1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "stump2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stump2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "stump3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stump3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "swing19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "swing19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "stump4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stump4.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -2921,7 +3106,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 5.573167571145247,
+        "zoomFactor": 0.30104611971825085,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -2989,6 +3174,16 @@
           "value": true
         },
         {
+          "name": "SwingingAxe",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Grabbing",
+          "type": "boolean",
+          "value": false
+        },
+        {
           "name": "RandomPhrase",
           "type": "number",
           "value": 0
@@ -3034,8 +3229,8 @@
           "name": "Player",
           "persistentUuid": "331e4479-354a-478a-983e-22d3d1d5dee8",
           "width": 0,
-          "x": 789,
-          "y": 575,
+          "x": 512,
+          "y": 458,
           "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
@@ -3561,107 +3756,6 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Draw",
-          "name": "NewShapePainter",
-          "persistentUuid": "a7aac69c-51cf-4051-8f74-e0011b1bb68a",
-          "width": 0,
-          "x": 217,
-          "y": 129,
-          "zOrder": 51,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 13,
-          "keepRatio": true,
-          "layer": "Draw",
-          "name": "Point1",
-          "persistentUuid": "4100377b-a23c-4b5c-97f6-c2ea85326576",
-          "width": 16,
-          "x": 324,
-          "y": 178,
-          "zOrder": 52,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 15,
-          "keepRatio": true,
-          "layer": "Draw",
-          "name": "Point2",
-          "persistentUuid": "4190b3e0-811e-43be-afd0-a87194783d05",
-          "width": 20,
-          "x": 262,
-          "y": 245,
-          "zOrder": 53,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 19,
-          "keepRatio": true,
-          "layer": "Draw",
-          "name": "Point3",
-          "persistentUuid": "af7eea72-3672-4b5e-9057-4c504b8844ae",
-          "width": 20,
-          "x": 310,
-          "y": 211,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 12,
-          "keepRatio": true,
-          "layer": "Draw",
-          "name": "Point4",
-          "persistentUuid": "d9944a48-0c9b-4b07-84d2-59bb188e8428",
-          "width": 15,
-          "x": 385,
-          "y": 228,
-          "zOrder": 55,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 11,
-          "keepRatio": true,
-          "layer": "Draw",
-          "name": "Point5",
-          "persistentUuid": "016dea0d-d977-4582-8db0-e30425e246bc",
-          "width": 17,
-          "x": 359,
-          "y": 204,
-          "zOrder": 56,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
           "layer": "",
           "name": "PigTent",
           "persistentUuid": "e5b87965-2db0-425b-aa51-719e9a93821e",
@@ -3787,6 +3881,22 @@
           "x": 800,
           "y": 577,
           "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Axe_Stump",
+          "persistentUuid": "b7874442-054e-4eea-a2d2-96224011f42d",
+          "width": 0,
+          "x": 497,
+          "y": 650,
+          "zOrder": 58,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8000,6 +8110,378 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "AxeSwing",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "swing11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "swing12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "swing12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "swing13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "swing14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "swing15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "swing16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "swing17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "swing18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "swing19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -8070,7 +8552,13 @@
           "name": "Rabbit",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Health",
+              "type": "number",
+              "value": 5
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
@@ -8088,6 +8576,10 @@
               "maxSpeed": 200,
               "rotateObject": false,
               "smoothingMaxCellGap": 1
+            },
+            {
+              "name": "ShakeObject_PositionAngle",
+              "type": "ShakeObject::ShakeObject_PositionAngle"
             }
           ],
           "animations": [
@@ -11069,6 +11561,102 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Axe_Stump",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "stump1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 17
+                          },
+                          {
+                            "x": 26,
+                            "y": 17
+                          },
+                          {
+                            "x": 26,
+                            "y": 32
+                          },
+                          {
+                            "x": 10,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "stump2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 17
+                          },
+                          {
+                            "x": 26,
+                            "y": 17
+                          },
+                          {
+                            "x": 26,
+                            "y": 32
+                          },
+                          {
+                            "x": 10,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -11138,6 +11726,9 @@
           },
           {
             "objectName": "Burrow"
+          },
+          {
+            "objectName": "Axe_Stump"
           }
         ]
       },
@@ -11535,6 +12126,278 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "name": "Axe",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Grabbing",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Axe_Stump",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "SwingingAxe",
+                    "True",
+                    "="
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "False",
+                    "="
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"AxeSwing\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeSprite"
+                  },
+                  "parameters": [
+                    "Axe_Stump",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    ".72"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeSprite"
+                  },
+                  "parameters": [
+                    "Axe_Stump",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"Idle\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    "="
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "SwingingAxe",
+                    "False",
+                    "="
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PickNearest"
+                      },
+                      "parameters": [
+                        "Prey",
+                        "Player.X()",
+                        "Player.Y()",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Rabbit",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
+                      },
+                      "parameters": [
+                        "Rabbit",
+                        "ShakeObject_PositionAngle",
+                        ".2",
+                        "4",
+                        "4",
+                        "4",
+                        ".06",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "Prey",
+                        "Health",
+                        "-",
+                        "1"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Prey",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "Prey",
+                    "Player.X()",
+                    "Player.Y()",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Prey",
+                    "Health",
+                    "<=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Prey",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
           "name": "Burrow",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -11542,6 +12405,17 @@
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "Player.X()",
+                    "Player.Y()",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "CollisionNP"
@@ -11579,6 +12453,17 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "Player.X()",
+                    "Player.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SceneJustResumed"
                   },
                   "parameters": [
@@ -11597,6 +12482,16 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "Player.X()",
+                    "Player.Y()"
+                  ]
+                },
                 {
                   "type": {
                     "value": "ChangeSprite"
@@ -11684,6 +12579,17 @@
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "Player.X()",
+                    "Player.Y()",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "CollisionNP"
@@ -11783,6 +12689,17 @@
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "Player.X()",
+                    "Player.Y()",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "inverted": true,
@@ -12007,6 +12924,15 @@
                   },
                   "parameters": [
                     "Burrow",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
+                  },
+                  "parameters": [
+                    "Axe_Stump",
                     "Animation"
                   ]
                 },
@@ -18752,16 +19678,6 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "ControlSequence",
-                        "False",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "AnimatableCapability::AnimatableBehavior::SetName"
                       },
                       "parameters": [
@@ -18808,6 +19724,16 @@
                         "Animation",
                         "=",
                         "\"Dead\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "ControlSequence",
+                        "False",
+                        ""
                       ]
                     }
                   ]
@@ -18887,6 +19813,16 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "inverted": true,
                     "value": "KeyFromTextPressed"
                   },
@@ -18949,6 +19885,16 @@
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "inverted": true,
@@ -19072,7 +20018,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    ".5"
+                    "2"
                   ]
                 },
                 {
@@ -19094,16 +20040,6 @@
                 {
                   "type": {
                     "inverted": true,
-                    "value": "KeyFromTextPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Space\""
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
                     "value": "TopDownMovementBehavior::IsMoving"
                   },
                   "parameters": [
@@ -19113,9 +20049,13 @@
                 },
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::Once"
+                    "value": "BooleanVariable"
                   },
-                  "parameters": []
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ""
+                  ]
                 },
                 {
                   "type": {
@@ -19126,6 +20066,12 @@
                     "False",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -19145,6 +20091,16 @@
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "inverted": true,
@@ -19277,6 +20233,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Controls",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -19530,6 +20487,16 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Grabbing",
+                        "False",
+                        "="
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "TopDownMovementBehavior::MaxSpeed"
                       },
                       "parameters": [
@@ -19543,12 +20510,17 @@
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": []
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "SwingingAxe",
+                        "False",
+                        ""
+                      ]
+                    },
                     {
                       "type": {
                         "value": "CollisionNP"
@@ -19582,6 +20554,16 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Grabbing",
+                        "True",
+                        "="
+                      ]
+                    },
                     {
                       "type": {
                         "value": "PickNearest"
