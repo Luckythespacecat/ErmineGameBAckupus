@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 245,
+    "build": 246,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -80,7 +80,9 @@
     "authorIds": [],
     "authorUsernames": [],
     "categories": [],
-    "playableDevices": [],
+    "playableDevices": [
+      "mobile"
+    ],
     "extensionProperties": [],
     "platforms": [
       {
@@ -2657,16 +2659,245 @@
         "name": "MapBorder.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "MapBorder2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "MapBorder2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow21.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow22.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow23.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow24.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "burrow25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "burrow25.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "sellsignoutling2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sellsignoutling2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "talksignoutline2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "talksignoutline2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "backsignoutline2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "backsignoutline2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Borrowup1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Borrowup1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Borrowup2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Borrowup2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Borrowup3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Borrowup3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Borrowup4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Borrowup4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Borrowup5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Borrowup5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Borrowup6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Borrowup6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Borrowup7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Borrowup7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Borrowup8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Borrowup8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Borrowup9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Borrowup9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Borrowup10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Borrowup10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Borrowup11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Borrowup11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Borrowup12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Borrowup12.png",
+        "smoothed": false,
+        "userAdded": false
       }
-    ],
-    "resourceFolders": []
+    ]
   },
   "objects": [],
   "objectsFolderStructure": {
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "ReturnFromMap",
+      "type": "boolean",
+      "value": false
+    }
+  ],
   "layouts": [
     {
       "b": 255,
@@ -2683,12 +2914,14 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
+        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
+        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7876290101673871,
+        "zoomFactor": 5.573167571145247,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -2801,8 +3034,8 @@
           "name": "Player",
           "persistentUuid": "331e4479-354a-478a-983e-22d3d1d5dee8",
           "width": 0,
-          "x": 517,
-          "y": 459,
+          "x": 789,
+          "y": 575,
           "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
@@ -3622,9 +3855,9 @@
               "IsCalledManually": false
             },
             {
-              "deceleration": 1200,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "deceleration": 1200,
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -7323,6 +7556,450 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "UpFromBurrow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Borrowup12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Borrowup11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Borrowup10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Borrowup9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Borrowup8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Borrowup7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Borrowup6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Borrowup5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Borrowup4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Borrowup3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Borrowup2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Borrowup1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -10902,6 +11579,113 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "SceneJustResumed"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ReturnFromMap",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangeSprite"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Player",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "Animation",
+                    "=",
+                    "\"Animation\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"UpFromBurrow\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ".5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ReturnFromMap",
+                    "False",
+                    ".5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "Burrow.CenterX()",
+                    "=",
+                    "Burrow.Y()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
+                  },
+                  "parameters": [
+                    "Burrow",
+                    "Animation"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
                     "value": "CollisionNP"
                   },
                   "parameters": [
@@ -10975,6 +11759,23 @@
                   "parameters": [
                     "Burrow",
                     "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Map\""
                   ]
                 }
               ]
@@ -11326,6 +12127,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Hunting Sequence",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -11631,7 +12433,6 @@
                       ]
                     },
                     {
-                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -11842,7 +12643,6 @@
                       ]
                     },
                     {
-                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -12053,7 +12853,6 @@
                       ]
                     },
                     {
-                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -12264,7 +13063,6 @@
                       ]
                     },
                     {
-                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -18488,6 +19286,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Movement",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -18700,7 +19499,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Grabbing",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -18742,6 +19540,11 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": []
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -18837,6 +19640,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -18908,6 +19712,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -18984,6 +19789,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -19051,6 +19857,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -19104,6 +19911,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -19157,6 +19965,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -19269,8 +20078,10 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
+        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
+        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
@@ -20183,6 +20994,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -20294,17 +21106,25 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
+        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
+        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5824517733822226,
+        "zoomFactor": 0.7106869117633973,
         "windowMask": false,
         "selectedLayer": ""
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "Unnamed",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -20413,6 +21233,40 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Escape\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "ReturnFromMap",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PopScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -20420,6 +21274,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -20484,6 +21339,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
