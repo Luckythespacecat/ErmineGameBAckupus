@@ -13223,69 +13223,88 @@
                     "="
                   ]
                 }
-              ],
-              "events": [
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PickNearest"
-                      },
-                      "parameters": [
-                        "Prey",
-                        "Player.X()",
-                        "Player.Y()",
-                        "0"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Rabbit",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
-                      },
-                      "parameters": [
-                        "Rabbit",
-                        "ShakeObject_PositionAngle",
-                        ".2",
-                        "6",
-                        "6",
-                        "6",
-                        ".06",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberObjectVariable"
-                      },
-                      "parameters": [
-                        "Prey",
-                        "Health",
-                        "-",
-                        "1"
-                      ]
-                    }
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"AxeSwing\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Sprite"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "Prey",
+                    "Player.X()",
+                    "Player.Y()",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Rabbit",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
+                  },
+                  "parameters": [
+                    "Rabbit",
+                    "ShakeObject_PositionAngle",
+                    ".2",
+                    "6",
+                    "6",
+                    "6",
+                    ".06",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Prey",
+                    "Health",
+                    "-",
+                    "1"
                   ]
                 }
               ]
@@ -13342,6 +13361,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -13726,6 +13746,55 @@
                         }
                       ]
                     }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "RabbitOrgans",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Player",
+                    "RabbitOrgans",
+                    "16",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+                  },
+                  "parameters": [
+                    "RabbitOrgans",
+                    "Tween",
+                    "\"Tween\"",
+                    "Player.CenterX()",
+                    "Player.CenterY()",
+                    "\"linear\"",
+                    ".6",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectScaleTween3"
+                  },
+                  "parameters": [
+                    "RabbitOrgans",
+                    "Tween",
+                    "\"TweenScale\"",
+                    ".1",
+                    "\"easeInQuint\"",
+                    ".5",
+                    ".5",
+                    "yes"
                   ]
                 }
               ]
