@@ -3202,7 +3202,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.686796875000042,
+        "zoomFactor": 2.967864077869578,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -4309,10 +4309,10 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16,
+                        "y": 16
                       },
                       "customCollisionMask": [
                         [
@@ -4351,10 +4351,10 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16,
+                        "y": 16
                       },
                       "customCollisionMask": [
                         [
@@ -4393,10 +4393,10 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16,
+                        "y": 16
                       },
                       "customCollisionMask": [
                         [
@@ -4435,10 +4435,10 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16,
+                        "y": 16
                       },
                       "customCollisionMask": [
                         [
@@ -4629,10 +4629,10 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16,
+                        "y": 16
                       },
                       "customCollisionMask": [
                         [
@@ -4671,10 +4671,10 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16,
+                        "y": 16
                       },
                       "customCollisionMask": [
                         [
@@ -4713,10 +4713,10 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16,
+                        "y": 16
                       },
                       "customCollisionMask": [
                         [
@@ -12137,7 +12137,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "RabbitHeart",
           "type": "Sprite",
@@ -12177,20 +12177,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 2
+                            "x": 7,
+                            "y": 5
                           },
                           {
-                            "x": 16,
-                            "y": 2
+                            "x": 11,
+                            "y": 5
                           },
                           {
-                            "x": 16,
-                            "y": 16
+                            "x": 11.5,
+                            "y": 12.5
                           },
                           {
-                            "x": 1,
-                            "y": 16
+                            "x": 5.5,
+                            "y": 10.5
                           }
                         ]
                       ]
@@ -12213,20 +12213,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 2
+                            "x": 7,
+                            "y": 5
                           },
                           {
-                            "x": 16,
-                            "y": 2
+                            "x": 11,
+                            "y": 5
                           },
                           {
-                            "x": 16,
-                            "y": 16
+                            "x": 11.5,
+                            "y": 12.5
                           },
                           {
-                            "x": 1,
-                            "y": 16
+                            "x": 5.5,
+                            "y": 10.5
                           }
                         ]
                       ]
@@ -12249,20 +12249,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 2
+                            "x": 7,
+                            "y": 5
                           },
                           {
-                            "x": 16,
-                            "y": 2
+                            "x": 11,
+                            "y": 5
                           },
                           {
-                            "x": 16,
-                            "y": 16
+                            "x": 11.5,
+                            "y": 12.5
                           },
                           {
-                            "x": 1,
-                            "y": 16
+                            "x": 5.5,
+                            "y": 10.5
                           }
                         ]
                       ]
@@ -12285,20 +12285,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 2
+                            "x": 7,
+                            "y": 5
                           },
                           {
-                            "x": 16,
-                            "y": 2
+                            "x": 11,
+                            "y": 5
                           },
                           {
-                            "x": 16,
-                            "y": 16
+                            "x": 11.5,
+                            "y": 12.5
                           },
                           {
-                            "x": 1,
-                            "y": 16
+                            "x": 5.5,
+                            "y": 10.5
                           }
                         ]
                       ]
@@ -12321,20 +12321,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 2
+                            "x": 7,
+                            "y": 5
                           },
                           {
-                            "x": 16,
-                            "y": 2
+                            "x": 11,
+                            "y": 5
                           },
                           {
-                            "x": 16,
-                            "y": 16
+                            "x": 11.5,
+                            "y": 12.5
                           },
                           {
-                            "x": 1,
-                            "y": 16
+                            "x": 5.5,
+                            "y": 10.5
                           }
                         ]
                       ]
@@ -12357,20 +12357,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 2
+                            "x": 7,
+                            "y": 5
                           },
                           {
-                            "x": 16,
-                            "y": 2
+                            "x": 11,
+                            "y": 5
                           },
                           {
-                            "x": 16,
-                            "y": 16
+                            "x": 11.5,
+                            "y": 12.5
                           },
                           {
-                            "x": 1,
-                            "y": 16
+                            "x": 5.5,
+                            "y": 10.5
                           }
                         ]
                       ]
@@ -12382,7 +12382,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "RabbitHide",
           "type": "Sprite",
@@ -12422,20 +12422,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 4.5,
+                            "y": 4.5
                           },
                           {
-                            "x": 16,
-                            "y": 0
+                            "x": 12,
+                            "y": 4.5
                           },
                           {
-                            "x": 16,
-                            "y": 16
+                            "x": 11.5,
+                            "y": 11
                           },
                           {
-                            "x": 0,
-                            "y": 16
+                            "x": 4,
+                            "y": 10.5
                           }
                         ]
                       ]
@@ -12447,7 +12447,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "RabbitGuts",
           "type": "Sprite",
@@ -12487,20 +12487,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 5,
+                            "y": 5
                           },
                           {
-                            "x": 15,
-                            "y": 0
+                            "x": 12,
+                            "y": 4.5
                           },
                           {
-                            "x": 15,
-                            "y": 16
+                            "x": 12,
+                            "y": 11
                           },
                           {
-                            "x": 0,
-                            "y": 16
+                            "x": 4,
+                            "y": 10.5
                           }
                         ]
                       ]
@@ -12512,7 +12512,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "RabbitsFoot",
           "type": "Sprite",
@@ -12552,20 +12552,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 3
+                            "x": 5,
+                            "y": 5.5
                           },
                           {
-                            "x": 15,
-                            "y": 3
+                            "x": 10,
+                            "y": 8
                           },
                           {
-                            "x": 15,
-                            "y": 16
+                            "x": 11,
+                            "y": 12.5
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 4.5,
+                            "y": 8.5
                           }
                         ]
                       ]
@@ -13086,6 +13086,19 @@
               "conditions": [
                 {
                   "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "RabbitOrgans",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "BooleanVariable"
                   },
                   "parameters": [
@@ -13500,7 +13513,7 @@
                           "parameters": [
                             "RabbitGuts",
                             "Tween",
-                            "\"Hop1\"",
+                            "\"Hop2\"",
                             "RabbitGuts.Y()-RandomInRange(4,12)",
                             "\"easeInCubic\"",
                             ".1",
@@ -13579,7 +13592,7 @@
                           "parameters": [
                             "RabbitGuts",
                             "Tween",
-                            "\"Hop1\"",
+                            "\"Hop2\"",
                             "RabbitGuts.Y()-RandomInRange(4,12)",
                             "\"easeInCubic\"",
                             ".1",
@@ -13658,7 +13671,7 @@
                           "parameters": [
                             "RabbitHide",
                             "Tween",
-                            "\"Hop1\"",
+                            "\"Hop2\"",
                             "RabbitHide.Y()-RandomInRange(4,12)",
                             "\"easeInCubic\"",
                             ".1",
@@ -13737,7 +13750,7 @@
                           "parameters": [
                             "RabbitHeart",
                             "Tween",
-                            "\"Hop1\"",
+                            "\"Hop2\"",
                             "RabbitHeart.Y()-RandomInRange(4,12)",
                             "\"easeInCubic\"",
                             ".1",
@@ -13761,27 +13774,58 @@
                   "parameters": [
                     "Player",
                     "RabbitOrgans",
-                    "16",
+                    "25",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "RabbitOrgans",
+                    "Tween",
+                    "\"Hop2\""
+                  ]
+                }
+              ],
+              "actions": []
+            },
+            {
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "RabbitOrgans",
+                    "RabbitOrgans",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "RabbitOrgans",
+                    "",
+                    "",
                     ""
                   ]
                 }
               ],
               "actions": [
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionTween2"
-                  },
-                  "parameters": [
-                    "RabbitOrgans",
-                    "Tween",
-                    "\"Tween\"",
-                    "Player.CenterX()",
-                    "Player.CenterY()",
-                    "\"linear\"",
-                    ".6",
-                    "yes"
-                  ]
-                },
                 {
                   "type": {
                     "value": "Tween::TweenBehavior::AddObjectScaleTween3"
@@ -13790,7 +13834,141 @@
                     "RabbitOrgans",
                     "Tween",
                     "\"TweenScale\"",
-                    ".1",
+                    "1.25",
+                    "\"easeInQuint\"",
+                    ".5",
+                    ".5",
+                    "yes"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "SwingingAxe",
+                        "!=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "ControlsAllowed",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Space\""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+                          },
+                          "parameters": [
+                            "RabbitOrgans",
+                            "Tween",
+                            "\"Tween\"",
+                            "Player.X()",
+                            "Player.Y()+32",
+                            "\"linear\"",
+                            ".5",
+                            "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Tween::TweenBehavior::AddObjectScaleTween3"
+                          },
+                          "parameters": [
+                            "RabbitOrgans",
+                            "Tween",
+                            "\"tweenscaleee2\"",
+                            "2",
+                            "\"easeInQuint\"",
+                            ".5",
+                            ".5",
+                            "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "RabbitOrgans",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "RabbitOrgans",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectScaleTween3"
+                  },
+                  "parameters": [
+                    "RabbitOrgans",
+                    "Tween",
+                    "\"tweeen\"",
+                    "1",
                     "\"easeInQuint\"",
                     ".5",
                     ".5",
@@ -22175,7 +22353,7 @@
               "effectType": "ColorReplace",
               "name": "Effect",
               "doubleParameters": {
-                "epsilon": 0.4
+                "epsilon": 0.7
               },
               "stringParameters": {
                 "newColor": "24;40;74",
