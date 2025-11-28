@@ -3616,6 +3616,597 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "Sign1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign1.png\"}",
+        "name": "Sign1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign2.png\"}",
+        "name": "Sign2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign3.png\"}",
+        "name": "Sign3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign4.png\"}",
+        "name": "Sign4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign5.png\"}",
+        "name": "Sign5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign6.png\"}",
+        "name": "Sign6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign7.png\"}",
+        "name": "Sign7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign8.png\"}",
+        "name": "Sign8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign9.png\"}",
+        "name": "Sign9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign10.png\"}",
+        "name": "Sign10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign11.png\"}",
+        "name": "Sign11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign12.png\"}",
+        "name": "Sign12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign13.png\"}",
+        "name": "Sign13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign14.png\"}",
+        "name": "Sign14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sign15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sign15.png\"}",
+        "name": "Sign15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign21.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign22.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign23.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign24.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign25.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign26.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign27.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign28.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign29.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign30.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign31.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign32.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign33.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign34.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign35.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign36.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign37.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign38.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign39.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sign40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sign40.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SignReturn2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SignReturn2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SignReturn3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SignReturn3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SignReturn4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SignReturn4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SignReturn5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SignReturn5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SignReturn6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SignReturn6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SignReturn7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SignReturn7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SignReturn8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SignReturn8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SignReturn9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SignReturn9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SignReturn10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SignReturn10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SignReturn11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SignReturn11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SignReturn1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SignReturn1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Drop.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Drop",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "StepalangeShort-p7GZd.otf",
+        "kind": "font",
+        "metadata": "",
+        "name": "StepalangeShort-p7GZd.otf",
+        "userAdded": false
+      },
+      {
+        "file": "indicatortrufflenutsback.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "indicatortrufflenutsback.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "BIgTruffleNut2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BIgTruffleNut2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "HearPink1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "HearPink1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "HearPink2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "HearPink2.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -3636,7 +4227,7 @@
       "value": false
     },
     {
-      "name": "Trufflenuts2",
+      "name": "TrufflenutsValue",
       "type": "number",
       "value": 0
     },
@@ -3679,7 +4270,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.1726229638177899,
+        "zoomFactor": 2.6867968750000566,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -4674,7 +5265,7 @@
           "depth": 0,
           "height": 360,
           "keepRatio": true,
-          "layer": "UI",
+          "layer": "TextTutorial",
           "name": "TextBox",
           "persistentUuid": "621fd73c-a527-4c81-9cd4-df5bc6562eb5",
           "width": 640,
@@ -4691,7 +5282,7 @@
           "depth": 1,
           "height": 26,
           "keepRatio": true,
-          "layer": "UI",
+          "layer": "TextTutorial",
           "name": "Font",
           "persistentUuid": "02a6b12f-6f1c-4cb2-82d5-7628957a8cfc",
           "width": 306,
@@ -5146,6 +5737,87 @@
           "x": 385,
           "y": 346,
           "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GUI",
+          "name": "Trufflenutstext",
+          "persistentUuid": "6b27acae-495f-430f-8603-20860130132e",
+          "width": 0,
+          "x": 542,
+          "y": 12,
+          "zOrder": 65,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 102,
+          "keepRatio": true,
+          "layer": "GUI",
+          "name": "NewPanelSprite",
+          "persistentUuid": "e1b01313-2306-46b6-a578-95d1c57a588e",
+          "width": 134,
+          "x": 505,
+          "y": 7,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GUI",
+          "name": "BigNuts",
+          "persistentUuid": "54f85609-0c50-4ac1-9cae-c5e0e906d67f",
+          "width": 0,
+          "x": 514,
+          "y": 21,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GUI",
+          "name": "Organs",
+          "persistentUuid": "9507d0d8-daee-4225-9ffd-06f53913708c",
+          "width": 0,
+          "x": 542,
+          "y": 52,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GUI",
+          "name": "Heart",
+          "persistentUuid": "56104c6d-cb51-4368-a425-3e8c49f1e17e",
+          "width": 0,
+          "x": 513,
+          "y": 60,
+          "zOrder": 68,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14229,6 +14901,516 @@
             "lineHeight": 0,
             "color": "235;249;255"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Trufflenutstext",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "000",
+          "font": "StepalangeShort-p7GZd.otf",
+          "textAlignment": "left",
+          "characterSize": 60,
+          "color": {
+            "b": 246,
+            "g": 214,
+            "r": 172
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "000",
+            "font": "StepalangeShort-p7GZd.otf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 60,
+            "lineHeight": 0,
+            "color": "172;214;246"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 16,
+          "height": 64,
+          "leftMargin": 32,
+          "name": "NewPanelSprite",
+          "rightMargin": 32,
+          "texture": "indicatortrufflenutsback.png",
+          "tiled": false,
+          "topMargin": 16,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 128,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "BigNuts",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "BIgTruffleNut2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 29,
+                            "y": 0
+                          },
+                          {
+                            "x": 29,
+                            "y": 30
+                          },
+                          {
+                            "x": 3,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Organs",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "000",
+          "font": "StepalangeShort-p7GZd.otf",
+          "textAlignment": "left",
+          "characterSize": 60,
+          "color": {
+            "b": 246,
+            "g": 214,
+            "r": 172
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "000",
+            "font": "StepalangeShort-p7GZd.otf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 60,
+            "lineHeight": 0,
+            "color": "172;214;246"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Heart",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "HearPink1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "HearPink1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "HearPink1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "HearPink1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "HearPink1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "HearPink1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "HearPink1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "HearPink1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "HearPink2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -14270,6 +15452,15 @@
             "objectName": "Font"
           },
           {
+            "objectName": "Trufflenutstext"
+          },
+          {
+            "objectName": "Organs"
+          },
+          {
+            "objectName": "NewPanelSprite"
+          },
+          {
             "objectName": "NewSprite2"
           },
           {
@@ -14292,6 +15483,9 @@
           },
           {
             "objectName": "TruffleNuts"
+          },
+          {
+            "objectName": "BigNuts"
           },
           {
             "objectName": "Type"
@@ -14340,6 +15534,9 @@
           },
           {
             "objectName": "TextBox"
+          },
+          {
+            "objectName": "Heart"
           }
         ]
       },
@@ -14753,6 +15950,231 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "name": "GUI",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Trufflenuts Value"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "TrufflenutsValue",
+                    "<",
+                    "10"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Trufflenutstext",
+                    "Text",
+                    "=",
+                    "\"00\"+ToString(TrufflenutsValue)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "TrufflenutsValue",
+                    ">=",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "TrufflenutsValue",
+                    "<",
+                    "100"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Trufflenutstext",
+                    "Text",
+                    "=",
+                    "\"0\"+ToString(TrufflenutsValue)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "TrufflenutsValue",
+                    ">=",
+                    "100"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Trufflenutstext",
+                    "Text",
+                    "=",
+                    "ToString(TrufflenutsValue)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Organ Value DIsplay"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "OrgansValue",
+                    "<",
+                    "10"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Organs",
+                    "Text",
+                    "=",
+                    "\"00\"+ToString(OrgansValue/3)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "OrgansValue",
+                    ">=",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "OrgansValue",
+                    "<",
+                    "100"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Organs",
+                    "Text",
+                    "=",
+                    "\"0\"+ToString(OrgansValue/3)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "OrgansValue",
+                    ">=",
+                    "100"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Organs",
+                    "Text",
+                    "=",
+                    "ToString(OrgansValue/3)"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
           "name": "Bird",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14798,7 +16220,7 @@
                   },
                   "parameters": [
                     "Font",
-                    "\"UI\""
+                    "\"TextTutorial\""
                   ]
                 },
                 {
@@ -14908,7 +16330,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"UI\""
+                    "\"TextTutorial\""
                   ]
                 },
                 {
@@ -14936,7 +16358,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"UI\""
+                    "\"TextTutorial\""
                   ]
                 }
               ]
@@ -15033,7 +16455,7 @@
                       },
                       "parameters": [
                         "",
-                        "\"UI\""
+                        "\"TextTutorial\""
                       ]
                     },
                     {
@@ -15080,7 +16502,7 @@
                       },
                       "parameters": [
                         "",
-                        "\"UI\""
+                        "\"TextTutorial\""
                       ]
                     }
                   ]
@@ -15174,7 +16596,7 @@
                       },
                       "parameters": [
                         "",
-                        "\"UI\""
+                        "\"TextTutorial\""
                       ]
                     },
                     {
@@ -15221,7 +16643,7 @@
                       },
                       "parameters": [
                         "",
-                        "\"UI\""
+                        "\"TextTutorial\""
                       ]
                     }
                   ]
@@ -15315,7 +16737,7 @@
                       },
                       "parameters": [
                         "",
-                        "\"UI\""
+                        "\"TextTutorial\""
                       ]
                     },
                     {
@@ -15362,7 +16784,7 @@
                       },
                       "parameters": [
                         "",
-                        "\"UI\""
+                        "\"TextTutorial\""
                       ]
                     }
                   ]
@@ -15456,7 +16878,7 @@
                       },
                       "parameters": [
                         "",
-                        "\"UI\""
+                        "\"TextTutorial\""
                       ]
                     },
                     {
@@ -15484,10 +16906,15 @@
                       },
                       "parameters": [
                         "",
-                        "\"UI\""
+                        "\"TextTutorial\""
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": []
                 }
               ]
             },
@@ -15908,7 +17335,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Prey",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16526,21 +17952,21 @@
                         },
                         {
                           "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "OrgansValue",
-                            "+",
-                            "5"
-                          ]
-                        },
-                        {
-                          "type": {
                             "value": "Delete"
                           },
                           "parameters": [
                             "RabbitOrgans",
                             ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "OrgansValue",
+                            "+",
+                            "3"
                           ]
                         }
                       ],
@@ -26413,9 +27839,63 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "isLocked": true,
-          "name": "UI",
+          "name": "TextTutorial",
           "renderingType": "",
           "visibility": false,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "GUI",
+          "renderingType": "",
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
@@ -26533,12 +28013,23 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.575258020334757,
+        "zoomFactor": 2.268743159432199,
         "windowMask": false,
         "selectedLayer": ""
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "SignReady",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "tr",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -26672,6 +28163,57 @@
           "x": 448,
           "y": 112,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 360,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ConfirmSign",
+          "persistentUuid": "ca857132-9149-44ae-b331-414f7692a21d",
+          "width": 640,
+          "x": 0,
+          "y": 0,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 88,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ConfirmColliusion",
+          "persistentUuid": "ce4cd883-6bff-4f48-9623-5943c1ff37b3",
+          "width": 280,
+          "x": 176,
+          "y": 160,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NopeCollision",
+          "persistentUuid": "304a1ab0-e681-47db-83ab-a4e4d6443344",
+          "width": 76,
+          "x": 268,
+          "y": 272,
+          "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -27457,6 +28999,1233 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ConfirmSign",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Return",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07142857142857142,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SignReturn1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SignReturn2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SignReturn3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SignReturn4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SignReturn5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SignReturn6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SignReturn7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SignReturn8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SignReturn9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SignReturn10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SignReturn11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Drop",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.07142857142857142,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Drop",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "ConfirmHover",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "NopeHover",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sign21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 0
+                          },
+                          {
+                            "x": 229,
+                            "y": 150
+                          },
+                          {
+                            "x": 88,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NopeCollision",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ConfirmColliusion",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -27485,6 +30254,15 @@
           },
           {
             "objectName": "TextBox"
+          },
+          {
+            "objectName": "ConfirmSign"
+          },
+          {
+            "objectName": "NopeCollision"
+          },
+          {
+            "objectName": "ConfirmColliusion"
           }
         ]
       },
@@ -27847,7 +30625,7 @@
                         "Font",
                         "Text",
                         "=",
-                        "\"Alrighty, I'll buy it all for \"+ OrgansValue + \" TruffleNuts. Deal?\""
+                        "\"Alrighty, I'll buy it all for \"+ ToString(OrgansValue) + \" TruffleNuts. Deal?\""
                       ]
                     },
                     {
@@ -27861,6 +30639,89 @@
                         "no",
                         "60",
                         "1"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "AutoTyping::AutoTyping::IsFinished"
+                          },
+                          "parameters": [
+                            "Font",
+                            "AutoTyping",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                          },
+                          "parameters": [
+                            "ConfirmSign",
+                            "Animation"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "SignReady",
+                            "=",
+                            "1"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "AutoTyping::AutoTyping::IsFinished"
+                          },
+                          "parameters": [
+                            "Font",
+                            "AutoTyping",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                          },
+                          "parameters": [
+                            "ConfirmSign",
+                            "Animation"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "SignReady",
+                            "=",
+                            "1"
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -27993,6 +30854,472 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "NopeCollision"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "ConfirmColliusion"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "ConfirmSign",
+                "Animation",
+                "=",
+                "\"Drop\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
+              },
+              "parameters": [
+                "ConfirmSign",
+                "Animation"
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "ConfirmSign",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "ConfirmSign",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "ConfirmSign",
+                    "Animation",
+                    "=",
+                    "\"Drop\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SignReady",
+                    "=",
+                    "2"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "ConfirmSign",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "ConfirmSign",
+                    "Animation",
+                    "=",
+                    "\"Return\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SignReady",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
+                  },
+                  "parameters": [
+                    "ConfirmSign",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "ConfirmSign",
+                    "Animation",
+                    "=",
+                    "\"Drop\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SignReady",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "NopeCollision",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "ConfirmSign",
+                        "Animation",
+                        "=",
+                        "\"NopeHover\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "MouseButtonFromTextPressed"
+                          },
+                          "parameters": [
+                            "Back",
+                            "\"Left\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "SignReady",
+                            "=",
+                            "3"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "ConfirmColliusion",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "ConfirmSign",
+                        "Animation",
+                        "=",
+                        "\"ConfirmHover\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "MouseButtonFromTextPressed"
+                          },
+                          "parameters": [
+                            "Back",
+                            "\"Left\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "SignReady",
+                            "=",
+                            "4"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "4 Is confirmed"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SignReady",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "ConfirmSign",
+                    "Animation",
+                    "=",
+                    "\"Return\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "TrufflenutsValue",
+                    "=",
+                    "OrgansValue*3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "OrgansValue",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "trufflenutPig_1.wav",
+                    "4",
+                    "no",
+                    "60",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Font",
+                    "Text",
+                    "=",
+                    "\"Great doin business with you!\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "3 is not confirmed"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SignReady",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "trufflenutPig_2.wav",
+                    "4",
+                    "no",
+                    "60",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "ConfirmSign",
+                    "Animation",
+                    "=",
+                    "\"Return\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Font",
+                    "Text",
+                    "=",
+                    "\"Maybe Later then...\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
