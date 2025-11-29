@@ -4344,7 +4344,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7370816317994288,
+        "zoomFactor": 1.3389693172845842,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -4537,6 +4537,11 @@
           "name": "RabbitOrgans",
           "type": "number",
           "value": 0
+        },
+        {
+          "name": "DoneTutorialIntroLine",
+          "type": "boolean",
+          "value": false
         }
       ],
       "instances": [
@@ -6450,14 +6455,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 298,
+          "height": 225,
           "keepRatio": true,
           "layer": "",
           "name": "BottomScreenCollision",
           "persistentUuid": "09451d9f-6122-4d8e-8166-2453ccd4ab16",
           "width": 425,
           "x": -559,
-          "y": -132,
+          "y": -59,
           "zOrder": 84,
           "numberProperties": [],
           "stringProperties": [],
@@ -17364,7 +17369,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Bird",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -17452,11 +17456,22 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "DoneTutorialIntroLine",
+                    "=",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
                     "value": "CollisionNP"
                   },
                   "parameters": [
                     "Player",
-                    "CaveOutside",
+                    "Cave",
                     "",
                     "",
                     ""
@@ -17498,6 +17513,16 @@
                   "parameters": [
                     "ClosestTreeY",
                     "=",
+                    "TallTree.Y()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "DoneTutorialIntroLine",
+                    "True",
                     "TallTree.Y()"
                   ]
                 },
@@ -17550,11 +17575,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -18245,6 +18265,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Axe",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -18532,6 +18553,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Prey",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -27941,6 +27963,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Weather",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -28298,6 +28321,16 @@
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ReturnFromMap",
+                    "=",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "inverted": true,
