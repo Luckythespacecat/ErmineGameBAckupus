@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 246,
+    "build": 247,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -4281,6 +4281,246 @@
         "name": "NewSprite15",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "pumpkinHead.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pumpkinHead.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TabTHings1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TabTHings1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TabTHings2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TabTHings2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TabTHings3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TabTHings3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation21.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation22.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation23.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation24.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TrufflePlantANimation25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TrufflePlantANimation25.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Cake.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cake.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -4303,7 +4543,7 @@
     {
       "name": "TrufflenutsValue",
       "type": "number",
-      "value": 0
+      "value": 50
     },
     {
       "name": "OrgansValue",
@@ -4344,9 +4584,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.3389693172845842,
+        "zoomFactor": 1.0269425874981466,
         "windowMask": false,
-        "selectedLayer": ""
+        "selectedLayer": "GUI"
       },
       "objectsGroups": [
         {
@@ -4413,6 +4653,20 @@
             },
             {
               "name": "RabbitsFoot"
+            }
+          ]
+        },
+        {
+          "name": "TabBar",
+          "objects": [
+            {
+              "name": "AxeStation"
+            },
+            {
+              "name": "Bait"
+            },
+            {
+              "name": "StealthMode"
             }
           ]
         }
@@ -4542,6 +4796,21 @@
           "name": "DoneTutorialIntroLine",
           "type": "boolean",
           "value": false
+        },
+        {
+          "name": "TabBarVisible",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "WearPumkinHead",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "pickNum",
+          "type": "number",
+          "value": 0
         }
       ],
       "instances": [
@@ -6437,22 +6706,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Axe_Stump",
-          "persistentUuid": "ababf7bb-e47e-43ec-bfb2-86bf457d270d",
-          "width": 0,
-          "x": -428,
-          "y": -66,
-          "zOrder": 58,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 1,
           "height": 225,
@@ -6461,8 +6714,8 @@
           "name": "BottomScreenCollision",
           "persistentUuid": "09451d9f-6122-4d8e-8166-2453ccd4ab16",
           "width": 425,
-          "x": -559,
-          "y": -59,
+          "x": -551,
+          "y": -69,
           "zOrder": 84,
           "numberProperties": [],
           "stringProperties": [],
@@ -6515,6 +6768,86 @@
           "x": -304,
           "y": -237,
           "zOrder": 87,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Pumpkin",
+          "persistentUuid": "a92d7eef-fba6-4c5f-aaa6-5d98758c8fd4",
+          "width": 0,
+          "x": -65,
+          "y": 293,
+          "zOrder": 88,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GUI",
+          "name": "AxeStation",
+          "persistentUuid": "15fe6b7b-aff3-4894-a792-5bc8134468ed",
+          "width": 0,
+          "x": 10,
+          "y": 87,
+          "zOrder": 89,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GUI",
+          "name": "Bait",
+          "persistentUuid": "45ab299c-43d7-409f-8037-1e86013f1d83",
+          "width": 0,
+          "x": 10,
+          "y": 146,
+          "zOrder": 90,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GUI",
+          "name": "StealthMode",
+          "persistentUuid": "7a983a4a-d478-4ca5-a7d8-ee8e861aef1f",
+          "width": 0,
+          "x": 10,
+          "y": 206,
+          "zOrder": 91,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GUI",
+          "name": "Price",
+          "persistentUuid": "27974ab2-3455-41e7-9cf6-dc5008d60e0d",
+          "width": 0,
+          "x": -94,
+          "y": 15,
+          "zOrder": 92,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6621,6 +6954,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 6
                         }
                       ],
                       "originPoint": {
@@ -6663,6 +7001,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -6718,6 +7061,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 9.5,
+                          "y": 13.5
                         }
                       ],
                       "originPoint": {
@@ -6760,6 +7108,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 9.5,
+                          "y": 12.5
                         }
                       ],
                       "originPoint": {
@@ -6802,6 +7155,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 9.5,
+                          "y": 13.5
                         }
                       ],
                       "originPoint": {
@@ -6844,6 +7202,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 11.5,
+                          "y": 14.5
                         }
                       ],
                       "originPoint": {
@@ -6899,6 +7262,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 13.5,
+                          "y": 10.5
                         }
                       ],
                       "originPoint": {
@@ -6941,6 +7309,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 13.5,
+                          "y": 12.5
                         }
                       ],
                       "originPoint": {
@@ -6983,6 +7356,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 11.5,
+                          "y": 14.5
                         }
                       ],
                       "originPoint": {
@@ -7038,6 +7416,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 11.5,
+                          "y": 14.5
                         }
                       ],
                       "originPoint": {
@@ -7080,6 +7463,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 13.5,
+                          "y": 12.5
                         }
                       ],
                       "originPoint": {
@@ -7122,6 +7510,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 13.5,
+                          "y": 10.5
                         }
                       ],
                       "originPoint": {
@@ -7176,6 +7569,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -7218,6 +7616,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 15.5,
+                          "y": 12.5
                         }
                       ],
                       "originPoint": {
@@ -7260,6 +7663,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 17.5
                         }
                       ],
                       "originPoint": {
@@ -7302,6 +7710,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 15.5,
+                          "y": 19.5
                         }
                       ],
                       "originPoint": {
@@ -7344,6 +7757,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 14,
+                          "y": 22
                         }
                       ],
                       "originPoint": {
@@ -7386,6 +7804,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 23.5
                         }
                       ],
                       "originPoint": {
@@ -7428,6 +7851,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 24.5
                         }
                       ],
                       "originPoint": {
@@ -7470,6 +7898,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 24.5
                         }
                       ],
                       "originPoint": {
@@ -7512,6 +7945,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 23.5
                         }
                       ],
                       "originPoint": {
@@ -7554,6 +7992,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 24.5
                         }
                       ],
                       "originPoint": {
@@ -7596,6 +8039,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 23.5
                         }
                       ],
                       "originPoint": {
@@ -7638,6 +8086,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 23.5
                         }
                       ],
                       "originPoint": {
@@ -7680,6 +8133,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 23.5
                         }
                       ],
                       "originPoint": {
@@ -7722,6 +8180,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 15,
+                          "y": 22.5
                         }
                       ],
                       "originPoint": {
@@ -7764,6 +8227,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 15.5,
+                          "y": 19.5
                         }
                       ],
                       "originPoint": {
@@ -7806,6 +8274,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 17.5
                         }
                       ],
                       "originPoint": {
@@ -7848,6 +8321,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -7903,6 +8381,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -7945,6 +8428,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -7987,6 +8475,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8029,6 +8522,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8071,6 +8569,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8113,6 +8616,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8155,6 +8663,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8197,6 +8710,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8252,6 +8770,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8294,6 +8817,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8336,6 +8864,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 18.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8378,6 +8911,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 20.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8420,6 +8958,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 20.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8462,6 +9005,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8504,6 +9052,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8559,6 +9112,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8601,6 +9159,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8643,6 +9206,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8685,6 +9253,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 9.5
                         }
                       ],
                       "originPoint": {
@@ -8727,6 +9300,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 12.5
                         }
                       ],
                       "originPoint": {
@@ -8769,6 +9347,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 14.5
                         }
                       ],
                       "originPoint": {
@@ -8811,6 +9394,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 12.5
                         }
                       ],
                       "originPoint": {
@@ -8853,6 +9441,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 9.5
                         }
                       ],
                       "originPoint": {
@@ -8895,6 +9488,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8937,6 +9535,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -8979,6 +9582,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -9034,6 +9642,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 9.5
                         }
                       ],
                       "originPoint": {
@@ -9076,6 +9689,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 8.5
                         }
                       ],
                       "originPoint": {
@@ -9118,6 +9736,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -9160,6 +9783,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 8.5
                         }
                       ],
                       "originPoint": {
@@ -9202,6 +9830,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 15.5,
+                          "y": 9.5
                         }
                       ],
                       "originPoint": {
@@ -9244,6 +9877,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 8.5
                         }
                       ],
                       "originPoint": {
@@ -9286,6 +9924,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -9328,6 +9971,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 8.5
                         }
                       ],
                       "originPoint": {
@@ -9383,6 +10031,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 18.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -9425,6 +10078,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -9467,6 +10125,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 20,
+                          "y": 7
                         }
                       ],
                       "originPoint": {
@@ -9509,6 +10172,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 22.5,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -9563,6 +10231,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 5.5
                         }
                       ],
                       "originPoint": {
@@ -9605,6 +10278,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 5.5
                         }
                       ],
                       "originPoint": {
@@ -9647,6 +10325,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 20,
+                          "y": 5.5
                         }
                       ],
                       "originPoint": {
@@ -9689,6 +10372,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 13,
+                          "y": 7.5
                         }
                       ],
                       "originPoint": {
@@ -9731,6 +10419,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 11.5,
+                          "y": 12.5
                         }
                       ],
                       "originPoint": {
@@ -9773,6 +10466,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 14,
+                          "y": 17.5
                         }
                       ],
                       "originPoint": {
@@ -9815,6 +10513,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 14,
+                          "y": 17.5
                         }
                       ],
                       "originPoint": {
@@ -9857,6 +10560,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 14,
+                          "y": 17.5
                         }
                       ],
                       "originPoint": {
@@ -9899,6 +10607,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 14,
+                          "y": 17.5
                         }
                       ],
                       "originPoint": {
@@ -9941,6 +10654,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 14,
+                          "y": 17.5
                         }
                       ],
                       "originPoint": {
@@ -9983,6 +10701,11 @@
                           "name": "Pull",
                           "x": 5.5,
                           "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 14,
+                          "y": 17.5
                         }
                       ],
                       "originPoint": {
@@ -10037,6 +10760,11 @@
                           "name": "Pull",
                           "x": 9,
                           "y": 25
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 12,
+                          "y": 13.5
                         }
                       ],
                       "originPoint": {
@@ -10079,6 +10807,11 @@
                           "name": "Pull",
                           "x": 9,
                           "y": 25
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 14,
+                          "y": 11.5
                         }
                       ],
                       "originPoint": {
@@ -10121,6 +10854,11 @@
                           "name": "Pull",
                           "x": 9,
                           "y": 25
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 14,
+                          "y": 12.5
                         }
                       ],
                       "originPoint": {
@@ -10163,6 +10901,11 @@
                           "name": "Pull",
                           "x": 9,
                           "y": 25
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 14,
+                          "y": 11.5
                         }
                       ],
                       "originPoint": {
@@ -10205,6 +10948,11 @@
                           "name": "Pull",
                           "x": 9,
                           "y": 25
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 12,
+                          "y": 13.5
                         }
                       ],
                       "originPoint": {
@@ -10247,6 +10995,11 @@
                           "name": "Pull",
                           "x": 9,
                           "y": 25
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 14,
+                          "y": 11.5
                         }
                       ],
                       "originPoint": {
@@ -10296,7 +11049,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Borrowup12.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 6.5,
+                          "y": 24.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10332,7 +11091,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Borrowup11.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 6.5,
+                          "y": 24.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10368,7 +11133,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Borrowup10.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 6.5,
+                          "y": 24.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10404,7 +11175,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Borrowup9.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 6.5,
+                          "y": 18.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10440,7 +11217,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Borrowup8.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 6.5,
+                          "y": 13
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10476,7 +11259,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Borrowup7.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 5.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10512,7 +11301,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Borrowup6.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 7.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10548,7 +11343,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Borrowup5.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 8.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10584,7 +11385,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Borrowup4.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 14.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10620,7 +11427,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Borrowup3.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 12.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10656,7 +11469,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Borrowup2.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 8.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10692,7 +11511,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Borrowup1.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 6.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10740,7 +11565,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "swing11.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 17,
+                          "y": 7.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10776,7 +11607,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "swing12.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 19.5,
+                          "y": 5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10812,7 +11649,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "swing12.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 17,
+                          "y": 7.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10848,7 +11691,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "swing13.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 14.5,
+                          "y": 7.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10884,7 +11733,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "swing14.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 13,
+                          "y": 10.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10920,7 +11775,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "swing15.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 13,
+                          "y": 12.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10956,7 +11817,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "swing16.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 14,
+                          "y": 12.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10992,7 +11859,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "swing17.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 15,
+                          "y": 12.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -11028,7 +11901,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "swing18.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 16,
+                          "y": 11.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -11064,7 +11943,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "swing19.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 16,
+                          "y": 7.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -11175,14 +12060,20 @@
               "name": "Health",
               "type": "number",
               "value": 5
+            },
+            {
+              "name": "Dead",
+              "type": "boolean",
+              "value": false
             }
           ],
           "effects": [],
           "behaviors": [
             {
+              "acceleration": 400,
+              "maxSpeed": 50,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
-              "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
@@ -11191,7 +12082,6 @@
               "extraBorder": 0,
               "gridOffsetX": 0,
               "gridOffsetY": 0,
-              "maxSpeed": 200,
               "rotateObject": false,
               "smoothingMaxCellGap": 1
             },
@@ -13661,17 +14551,23 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow13",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 10,
+                        "y": 15
                       },
                       "customCollisionMask": [
                         [
@@ -13697,17 +14593,23 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow13.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 10,
+                        "y": 15
                       },
                       "customCollisionMask": [
                         [
@@ -13745,7 +14647,18 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow3.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 12.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -13781,7 +14694,18 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow3.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 12.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -13817,7 +14741,18 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow3.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 12.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -13853,7 +14788,18 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow4.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 14.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -13889,7 +14835,18 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow5.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 8.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -13925,7 +14882,18 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow6.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 7.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -13961,7 +14929,18 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow7.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 6,
+                          "y": 5.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -13997,7 +14976,18 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow8.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 6.5,
+                          "y": 13
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -14033,7 +15023,18 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow9.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 6.5,
+                          "y": 18.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -14069,7 +15070,18 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow10.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 6.5,
+                          "y": 24.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -14105,7 +15117,18 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow11.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 7.5,
+                          "y": 27.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -14141,7 +15164,18 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "burrow12.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 0,
+                          "y": 0
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 7.5,
+                          "y": 26.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -16364,6 +17398,1293 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Pumpkin",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pumpkinHead.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 1,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "AxeStation",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TabTHings1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Bait",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TabTHings2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "StealthMode",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TabTHings3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Price",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "string": "-15",
+          "font": "StepalangeShort-p7GZd.otf",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 103,
+            "g": 49,
+            "r": 91
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "-15",
+            "font": "StepalangeShort-p7GZd.otf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 40,
+            "lineHeight": 0,
+            "color": "91;49;103"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "VineAnimation",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TrufflePlantANimation25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 1
+                          },
+                          {
+                            "x": 21,
+                            "y": 15
+                          },
+                          {
+                            "x": 10,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "BaitFood",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cake.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 15
+                          },
+                          {
+                            "x": 23,
+                            "y": 15
+                          },
+                          {
+                            "x": 23,
+                            "y": 29
+                          },
+                          {
+                            "x": 9,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -16393,6 +18714,9 @@
             "objectName": "Player"
           },
           {
+            "objectName": "Pumpkin"
+          },
+          {
             "objectName": "Tree"
           },
           {
@@ -16409,6 +18733,9 @@
           },
           {
             "objectName": "Organs"
+          },
+          {
+            "objectName": "Price"
           },
           {
             "objectName": "NewPanelSprite"
@@ -16502,6 +18829,21 @@
           },
           {
             "objectName": "BottomScreenCollision"
+          },
+          {
+            "objectName": "AxeStation"
+          },
+          {
+            "objectName": "Bait"
+          },
+          {
+            "objectName": "StealthMode"
+          },
+          {
+            "objectName": "VineAnimation"
+          },
+          {
+            "objectName": "BaitFood"
           }
         ]
       },
@@ -17056,11 +19398,746 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
+          "name": "Giant Carrot/ Cake/ Pumpkin Pie/ Chicken Pot pie (take your pick)",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "BaitFood",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlSequence",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "RepeatEveryXSeconds::Repeat"
+                  },
+                  "parameters": [
+                    "",
+                    "\"RepeatBait\"",
+                    "5",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "pickNum",
+                    "=",
+                    "RandomInRange(0,3)"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "pickNum",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "pickNum",
+                        "=",
+                        "1"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Prey",
+                        "BaitFood.X()-50",
+                        "Rabbit.Y()",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PathfindingBehavior::SetDestination"
+                      },
+                      "parameters": [
+                        "Prey",
+                        "Pathfinding",
+                        "",
+                        "BaitFood.X()",
+                        "BaitFood.Y()"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
           "name": "GUI",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "TabBar",
+                    "=",
+                    "-64"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Tab\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "TabBarVisible",
+                    "Toggle",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "TabBar",
+              "conditions": [],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "TabBar",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectScaleTween3"
+                      },
+                      "parameters": [
+                        "TabBar",
+                        "Tween",
+                        "\"ScaleUp\"",
+                        "1.25",
+                        "\"linear\"",
+                        ".5",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "TabBar",
+                        "=",
+                        "4"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Price",
+                        "=",
+                        "TabBar.X()+80",
+                        "=",
+                        "TabBar.Y()+20"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "SourisSurObjet"
+                          },
+                          "parameters": [
+                            "AxeStation",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "Price",
+                            "Text",
+                            "=",
+                            "\"-50\""
+                          ]
+                        }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "MouseButtonFromTextPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "\"Left\""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "TrufflenutsValue",
+                                ">=",
+                                "50"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::Once"
+                              },
+                              "parameters": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "VineAnimation",
+                                "Player.X()",
+                                "Player.Y()",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "1.8"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "Axe_Stump",
+                                "VineAnimation.X()",
+                                "VineAnimation.Y()",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "ChangePlan"
+                              },
+                              "parameters": [
+                                "VineAnimation",
+                                "+",
+                                "5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
+                              },
+                              "parameters": [
+                                "Axe_Stump",
+                                "Animation"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
+                              },
+                              "parameters": [
+                                "Axe_Stump",
+                                "Animation"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "TrufflenutsValue",
+                                "-",
+                                "50"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "SourisSurObjet"
+                          },
+                          "parameters": [
+                            "StealthMode",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "Price",
+                            "Text",
+                            "=",
+                            "\"-25\""
+                          ]
+                        }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "MouseButtonFromTextPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "\"Left\""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "TrufflenutsValue",
+                                ">=",
+                                "25"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::Once"
+                              },
+                              "parameters": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "VineAnimation",
+                                "Player.X()",
+                                "Player.Y()",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "1.8"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "ChangePlan"
+                              },
+                              "parameters": [
+                                "VineAnimation",
+                                "+",
+                                "5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "Pumpkin",
+                                "VineAnimation.X()+8",
+                                "VineAnimation.Y()+10",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "TrufflenutsValue",
+                                "-",
+                                "25"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "SourisSurObjet"
+                          },
+                          "parameters": [
+                            "Bait",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "Price",
+                            "Text",
+                            "=",
+                            "\"-5\""
+                          ]
+                        }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "MouseButtonFromTextPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "\"Left\""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "TrufflenutsValue",
+                                ">=",
+                                "5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::Once"
+                              },
+                              "parameters": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "VineAnimation",
+                                "Player.X()",
+                                "Player.Y()",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "1.8"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "ChangePlan"
+                              },
+                              "parameters": [
+                                "VineAnimation",
+                                "+",
+                                "5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "BaitFood",
+                                "VineAnimation.X()",
+                                "VineAnimation.Y()",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "TrufflenutsValue",
+                                "-",
+                                "5"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "TabBar",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectScaleTween3"
+                      },
+                      "parameters": [
+                        "TabBar",
+                        "Tween",
+                        "\"SCaleDown\"",
+                        "1",
+                        "\"linear\"",
+                        "1",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "TabBar",
+                        "=",
+                        "3"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "TabBarVisible",
+                    "<",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+                  },
+                  "parameters": [
+                    "TabBar",
+                    "Tween",
+                    "\"MoveLeft\"",
+                    "-64",
+                    "\"easeInExpo\"",
+                    ".5",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Price"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "TabBarVisible",
+                    "True",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+                  },
+                  "parameters": [
+                    "TabBar",
+                    "Tween",
+                    "\"MoveRight\"",
+                    "10",
+                    "\"easeInExpo\"",
+                    ".5",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Price",
+                    ""
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::Comment",
               "color": {
@@ -20070,7 +23147,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Hunting Sequence",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -20102,6 +23178,17 @@
                 },
                 {
                   "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Prey",
+                    "Dead",
+                    "Player.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "PickNearest"
                   },
                   "parameters": [
@@ -20119,6 +23206,17 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Prey",
+                    "Animation",
+                    "=",
+                    "\"Startled\""
+                  ]
+                },
                 {
                   "type": {
                     "value": "Tween::TweenBehavior::AddObjectPositionTween2"
@@ -20441,7 +23539,6 @@
               ]
             },
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -26195,6 +29292,7 @@
                   ]
                 },
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -27257,19 +30355,9 @@
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Prey",
                   "conditions": [
-                    {
-                      "type": {
-                        "value": "PickNearest"
-                      },
-                      "parameters": [
-                        "Prey",
-                        "Player.X()",
-                        "Player.Y()",
-                        ""
-                      ]
-                    },
                     {
                       "type": {
                         "value": "CollisionNP"
@@ -27280,6 +30368,17 @@
                         "",
                         "",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Prey",
+                        "Dead",
+                        ">",
+                        "0"
                       ]
                     }
                   ],
@@ -27374,6 +30473,17 @@
                         "=",
                         "5"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Prey",
+                        "Dead",
+                        "True",
+                        ""
+                      ]
                     }
                   ],
                   "events": [
@@ -27402,21 +30512,13 @@
                         },
                         {
                           "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "1.125"
-                          ]
-                        },
-                        {
-                          "type": {
                             "value": "PlaySound"
                           },
                           "parameters": [
                             "",
                             "rabbit_dies2.wav",
                             "",
-                            "80",
+                            "35",
                             "1"
                           ]
                         }
@@ -27495,6 +30597,132 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "Headwear",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Visible"
+                      },
+                      "parameters": [
+                        "Player"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "WearPumkinHead",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetCenter"
+                      },
+                      "parameters": [
+                        "Pumpkin",
+                        "=",
+                        "Player.PointX(\"Headwear\")",
+                        "=",
+                        "Player.PointY(\"Headwear\")-2"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Space\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Pumpkin",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "WearPumkinHead",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Visible"
+                      },
+                      "parameters": [
+                        "Player"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "WearPumkinHead",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetCenter"
+                      },
+                      "parameters": [
+                        "Pumpkin",
+                        "=",
+                        "Burrow.PointX(\"Headwear\")",
+                        "=",
+                        "Burrow.PointY(\"Headwear\")"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -27564,6 +30792,31 @@
                     "TopDownMovement",
                     "=",
                     ".001"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "VineAnimation",
+                    "Animation"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "VineAnimation",
+                    ""
                   ]
                 }
               ]
@@ -27675,6 +30928,27 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Rabbit",
+                    "Dead",
+                    ">",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "WearPumkinHead",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Distance"
                   },
                   "parameters": [
@@ -27716,12 +30990,164 @@
                 },
                 {
                   "type": {
+                    "value": "PathfindingBehavior::Speed"
+                  },
+                  "parameters": [
+                    "Rabbit",
+                    "Pathfinding",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetBooleanVariable"
                   },
                   "parameters": [
                     "ControlSequence",
                     "True",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "Prey",
+                    "Pathfinding",
+                    "",
+                    "Rabbit.X()",
+                    "Rabbit.Y()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Rabbit",
+                    "Animation",
+                    "=",
+                    "\"Confused\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Rabbit",
+                    "Dead",
+                    ">",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "WearPumkinHead",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Prey",
+                    "50",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Prey",
+                    "Animation",
+                    "!=",
+                    "\"Dead\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::Speed"
+                  },
+                  "parameters": [
+                    "Rabbit",
+                    "Pathfinding",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Rabbit",
+                    "Animation",
+                    "=",
+                    "\"Startled\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlSequence",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Duration",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "Prey",
+                    "Pathfinding",
+                    "",
+                    "Rabbit.X()",
+                    "Rabbit.Y()"
                   ]
                 },
                 {
@@ -27904,6 +31330,17 @@
                 },
                 {
                   "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Rabbit",
+                    "Dead",
+                    ">",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "BuiltinCommonInstructions::Once"
                   },
                   "parameters": []
@@ -27926,6 +31363,17 @@
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Rabbit",
+                    "Dead",
+                    ">",
+                    "0"
+                  ]
+                },
                 {
                   "type": {
                     "value": "PathfindingBehavior::Speed"
@@ -28793,6 +32241,21 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextJustPressed"
+              },
+              "parameters": [
+                "",
+                "\"Tab\""
+              ]
+            }
+          ],
+          "actions": []
         }
       ],
       "layers": [
