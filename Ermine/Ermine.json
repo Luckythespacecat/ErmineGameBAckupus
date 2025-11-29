@@ -3364,7 +3364,7 @@
       {
         "file": "assets/Drawww.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Drawww.png\"}",
         "name": "Drawww",
         "smoothed": false,
         "userAdded": false
@@ -3372,7 +3372,7 @@
       {
         "file": "assets/Drawww2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Drawww2.png\"}",
         "name": "Drawww2",
         "smoothed": false,
         "userAdded": false
@@ -4207,6 +4207,80 @@
         "name": "HearPink2.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "correct_spell_7.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "correct_spell_7.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Drawww3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Drawww3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Drawww4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Drawww4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "CaveTiled.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CaveTiled.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "mapCaveNew.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mapCaveNew.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "CaveOutside.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CaveOutside.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "mapSnow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mapSnow.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "cave.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cave.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite15",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -4249,15 +4323,15 @@
   ],
   "layouts": [
     {
-      "b": 255,
+      "b": 103,
       "disableInputWhenNotFocused": true,
       "mangledName": "Base",
       "name": "Base",
-      "r": 255,
+      "r": 91,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 255,
+      "v": 49,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -4270,7 +4344,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.6867968750000566,
+        "zoomFactor": 0.7370816317994288,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -4400,6 +4474,11 @@
           "value": false
         },
         {
+          "name": "InchTowardsSound",
+          "type": "number",
+          "value": 0
+        },
+        {
           "name": "typecheck",
           "type": "boolean",
           "value": false
@@ -4412,7 +4491,7 @@
         {
           "name": "Duration",
           "type": "number",
-          "value": 5
+          "value": 4
         },
         {
           "name": "ShouldFlip",
@@ -4470,8 +4549,8 @@
           "name": "Player",
           "persistentUuid": "331e4479-354a-478a-983e-22d3d1d5dee8",
           "width": 0,
-          "x": 515,
-          "y": 420,
+          "x": -388,
+          "y": -564,
           "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
@@ -4535,9 +4614,9 @@
           "name": "Rabbit",
           "persistentUuid": "8ec68121-b7a2-4efc-bdfa-3d29982c7013",
           "width": 0,
-          "x": 761,
-          "y": 645,
-          "zOrder": 3,
+          "x": -351,
+          "y": -91,
+          "zOrder": 52,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5270,7 +5349,7 @@
           "persistentUuid": "621fd73c-a527-4c81-9cd4-df5bc6562eb5",
           "width": 640,
           "x": 0,
-          "y": 0,
+          "y": -1,
           "zOrder": 63,
           "numberProperties": [],
           "stringProperties": [],
@@ -5526,9 +5605,9 @@
           "name": "TallTree",
           "persistentUuid": "6c28660b-d726-4573-a032-9e4b9ba28887",
           "width": 0,
-          "x": -32,
-          "y": -64,
-          "zOrder": 1,
+          "x": -523,
+          "y": -381,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5818,6 +5897,619 @@
           "x": 513,
           "y": 60,
           "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave",
+          "persistentUuid": "20db0383-5926-4096-8246-e92a7b88c75a",
+          "width": 0,
+          "x": -430,
+          "y": -592,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "CaveOutside",
+          "persistentUuid": "ed009dea-ab52-4285-8078-57f0daea6740",
+          "width": 0,
+          "x": -510,
+          "y": -336,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Burrow",
+          "persistentUuid": "4dcacd5e-f61f-4aa4-97a0-13a68e5713e5",
+          "width": 0,
+          "x": -252,
+          "y": -83,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TallTree",
+          "persistentUuid": "b3c05cda-269f-4e22-832a-84397ae4c653",
+          "width": 0,
+          "x": -484,
+          "y": -325,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TallTree",
+          "persistentUuid": "1c1e03b6-d9f3-47a2-9b1c-31c7dc2f9b0b",
+          "width": 0,
+          "x": -268,
+          "y": -385,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TallTree",
+          "persistentUuid": "2a3f006b-ecc6-42fe-ba5e-d19a1f5df8ec",
+          "width": 0,
+          "x": -339,
+          "y": -306,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TallTree",
+          "persistentUuid": "6b643973-89ca-41ed-9ca9-8331f54cf37b",
+          "width": 0,
+          "x": -467,
+          "y": -250,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TallTree",
+          "persistentUuid": "77726325-1d9d-404c-a8d2-27cf021dcb56",
+          "width": 0,
+          "x": -511,
+          "y": -304,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TallTree",
+          "persistentUuid": "f4e07561-19be-4996-9faa-647cb775d2da",
+          "width": 0,
+          "x": -521,
+          "y": -240,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TallTree",
+          "persistentUuid": "38725c27-4c1e-4452-ac07-8369e0ea64c1",
+          "width": 0,
+          "x": -492,
+          "y": -193,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TallTree",
+          "persistentUuid": "1d6ab8f9-ba83-4bb2-81f9-8d54b8fe3898",
+          "width": 0,
+          "x": -288,
+          "y": -225,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TallTree",
+          "persistentUuid": "b8fc3753-aa19-4e4e-b2d3-5a9cdd4da25d",
+          "width": 0,
+          "x": -233,
+          "y": -280,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TallTree",
+          "persistentUuid": "b1485a8b-a105-49bc-803b-d55e43f3990b",
+          "width": 0,
+          "x": -196,
+          "y": -19,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TallTree",
+          "persistentUuid": "158ff53b-3a75-44b8-9b88-98402e1a7393",
+          "width": 0,
+          "x": -362,
+          "y": -78,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 821,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "6d7efbb7-8484-4667-82a7-9c4a923dbe38",
+          "width": 68,
+          "x": 143,
+          "y": -24,
+          "zOrder": 72,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 72,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "a12a2676-0c89-4802-bfc4-e08d3cf835b0",
+          "width": 694,
+          "x": 198,
+          "y": 763,
+          "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 727,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "68046751-cffd-4b1c-8969-7a133efbf10e",
+          "width": 64,
+          "x": 853,
+          "y": 57,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "167a6796-adbe-447d-b1af-5430fbc88868",
+          "width": 731,
+          "x": 147,
+          "y": 60,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "7b23e565-f1e7-4b5c-bd6b-eaf1a23e95db",
+          "width": 396,
+          "x": -535,
+          "y": -16,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "6840f379-77f8-4e1f-b073-1517911065d4",
+          "width": 181,
+          "x": -444,
+          "y": -624,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 335,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "e5d56db4-f6e4-42d9-8ff4-6b373c633a17",
+          "width": 181,
+          "x": -270,
+          "y": -606,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 324,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "0c9e71a7-dde7-4d9c-a941-9ac2066aea7f",
+          "width": 116,
+          "x": -546,
+          "y": -596,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 367,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "7434af67-9532-4071-9bb6-42855cfc4b18",
+          "width": 64,
+          "x": -573,
+          "y": -360,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 417,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "746be755-e3fb-4238-bdd5-fa930959369f",
+          "width": 64,
+          "x": -191,
+          "y": -393,
+          "zOrder": 81,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "CaveCover",
+          "persistentUuid": "73facdeb-fc29-4f5d-bca5-0524b04609c1",
+          "width": 0,
+          "x": -510,
+          "y": -336,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 6,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "72937d4b-f1fc-421b-9524-b683aca22f87",
+          "width": 102,
+          "x": -371,
+          "y": -278,
+          "zOrder": 82,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 7,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "f26d13d6-0601-498b-a4d0-9106a899c11c",
+          "width": 102,
+          "x": -505,
+          "y": -279,
+          "zOrder": 82,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "95afd285-eeb2-4ea9-852c-5cfa51cdfcad",
+          "width": 103,
+          "x": -437,
+          "y": -371,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "8bdaa190-bafe-4f34-be6f-9d684e21f8f6",
+          "width": 103,
+          "x": -302,
+          "y": -371,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "dc857237-2916-41f0-ab70-4bb1c0e05706",
+          "width": 103,
+          "x": -334,
+          "y": -453,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "f5309e70-28c8-449e-822d-5a46c2ecb0a5",
+          "width": 103,
+          "x": -469,
+          "y": -452,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "flippedX": true,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Rabbit",
+          "persistentUuid": "1bec5aa1-f118-4fc5-b34a-3465733d9d85",
+          "width": 0,
+          "x": 764,
+          "y": 644,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Axe_Stump",
+          "persistentUuid": "ababf7bb-e47e-43ec-bfb2-86bf457d270d",
+          "width": 0,
+          "x": -428,
+          "y": -66,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 298,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BottomScreenCollision",
+          "persistentUuid": "09451d9f-6122-4d8e-8166-2453ccd4ab16",
+          "width": 425,
+          "x": -559,
+          "y": -132,
+          "zOrder": 84,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 205,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BottomScreenCollision",
+          "persistentUuid": "f2e6b3c3-53d4-4757-ae84-efe72ed904f9",
+          "width": 785,
+          "x": 163,
+          "y": 686,
+          "zOrder": 85,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 37,
+          "keepRatio": true,
+          "layer": "",
+          "name": "SlipperyIce",
+          "persistentUuid": "ad0db274-c918-4854-a1ca-331c60c7b508",
+          "width": 54,
+          "x": -312,
+          "y": -251,
+          "zOrder": 86,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "",
+          "name": "SlipperyIce",
+          "persistentUuid": "3695fb88-5daf-4343-b5f7-78f39d83d5fd",
+          "width": 64,
+          "x": -304,
+          "y": -237,
+          "zOrder": 87,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15411,6 +16103,262 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Cave",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "mapCaveNew.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 160,
+                            "y": 0
+                          },
+                          {
+                            "x": 160,
+                            "y": 320
+                          },
+                          {
+                            "x": 0,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "CaveOutside",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "CaveOutside.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 320,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 320,
+                            "y": 320
+                          },
+                          {
+                            "x": 0,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "CaveCover",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "mapSnow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 320,
+                            "y": 0
+                          },
+                          {
+                            "x": 320,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "BottomScreenCollision",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -15537,6 +16485,18 @@
           },
           {
             "objectName": "Heart"
+          },
+          {
+            "objectName": "Cave"
+          },
+          {
+            "objectName": "CaveOutside"
+          },
+          {
+            "objectName": "CaveCover"
+          },
+          {
+            "objectName": "BottomScreenCollision"
           }
         ]
       },
@@ -15546,7 +16506,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Collision",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15563,6 +16522,147 @@
                     "Player",
                     "Collision",
                     ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Cave",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "CaveCover"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "CaveOutside"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "TallTree"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Bird"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Cave",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SceneBackground"
+                  },
+                  "parameters": [
+                    "",
+                    "\"91;49;103\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "CaveOutside",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "CaveCover",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Cave"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "TallTree",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Bird",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "CaveOutside",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SceneBackground"
+                  },
+                  "parameters": [
+                    "",
+                    "\"235;249;255\""
                   ]
                 }
               ]
@@ -15971,6 +17071,86 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "BottomScreenCollision",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "Font",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "TextBox",
+                    "=",
+                    "-261"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "BottomScreenCollision",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "Font",
+                    "=",
+                    "271"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "TextBox",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
                     "value": "NumberVariable"
                   },
                   "parameters": [
@@ -15995,6 +17175,7 @@
               ]
             },
             {
+              "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -16027,12 +17208,24 @@
                     "Trufflenutstext",
                     "Text",
                     "=",
+                    "ToString(Prey.Health)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Trufflenutstext",
+                    "Text",
+                    "=",
                     "\"0\"+ToString(TrufflenutsValue)"
                   ]
                 }
               ]
             },
             {
+              "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -16056,6 +17249,35 @@
                     "Text",
                     "=",
                     "ToString(TrufflenutsValue)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "Prey",
+                    "Player.X()",
+                    "Player.Y()",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Trufflenutstext",
+                    "Text",
+                    "=",
+                    "ToString(Prey.Health)"
                   ]
                 }
               ]
@@ -16251,7 +17473,7 @@
                     "BirdChirpSound",
                     "3",
                     "yes",
-                    "20",
+                    "1",
                     ".8"
                   ]
                 }
@@ -16262,10 +17484,14 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "DepartScene"
+                    "value": "CollisionNP"
                   },
                   "parameters": [
-                    "TallTree"
+                    "Player",
+                    "CaveOutside",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -16278,6 +17504,12 @@
                     "Player.Y()+100",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -16303,17 +17535,14 @@
                 },
                 {
                   "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+                    "value": "MettreXY"
                   },
                   "parameters": [
                     "Bird",
-                    "Tween",
-                    "\"TweenFlyToTree\"",
+                    "=",
                     "ClosestTreeX+16",
-                    "ClosestTreeY",
-                    "\"linear\"",
-                    "3",
-                    ""
+                    "=",
+                    "ClosestTreeY"
                   ]
                 },
                 {
@@ -16321,7 +17550,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "3"
+                    "1.5"
                   ]
                 },
                 {
@@ -16351,15 +17580,6 @@
                   "parameters": [
                     "4"
                   ]
-                },
-                {
-                  "type": {
-                    "value": "HideLayer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"TextTutorial\""
-                  ]
                 }
               ]
             },
@@ -16388,7 +17608,17 @@
                   "parameters": []
                 }
               ],
-              "actions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"TextTutorial\""
+                  ]
+                }
+              ],
               "events": [
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -17047,7 +18277,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Axe",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -17363,6 +18592,12 @@
                     "<=",
                     "0"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -17389,9 +18624,19 @@
               ]
             },
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "Prey",
+                    "Player.X()",
+                    "Player.Y()",
+                    "0"
+                  ]
+                },
                 {
                   "type": {
                     "value": "NumberVariable"
@@ -17454,9 +18699,22 @@
               ],
               "events": [
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Repeat",
                   "repeatExpression": "OrgansGenerated",
-                  "conditions": [],
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PickNearest"
+                      },
+                      "parameters": [
+                        "Prey",
+                        "Player.X()",
+                        "Player.Y()",
+                        ""
+                      ]
+                    }
+                  ],
                   "actions": [
                     {
                       "type": {
@@ -17792,52 +19050,7 @@
             },
             {
               "type": "BuiltinCommonInstructions::ForEach",
-              "object": "RabbitOrgans",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Distance"
-                  },
-                  "parameters": [
-                    "Player",
-                    "RabbitOrgans",
-                    "25",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "Tween::HasFinished"
-                  },
-                  "parameters": [
-                    "RabbitOrgans",
-                    "Tween",
-                    "\"Hop2\""
-                  ]
-                }
-              ],
-              "actions": []
-            },
-            {
-              "disabled": true,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SeparateFromObjects"
-                  },
-                  "parameters": [
-                    "RabbitOrgans",
-                    "RabbitOrgans",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
+              "object": "Organs",
               "conditions": [
                 {
                   "type": {
@@ -17850,134 +19063,114 @@
                     "",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "SwingingAxe",
+                    "!=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "RabbitOrgans",
+                    "Player.X()",
+                    "Player.Y()",
+                    ""
+                  ]
                 }
               ],
-              "actions": [],
-              "events": [
+              "actions": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "SwingingAxe",
-                        "!=",
-                        "0"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "ControlsAllowed",
-                        "True",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyFromTextPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Space\""
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Tween::TweenBehavior::AddObjectPositionTween2"
-                          },
-                          "parameters": [
-                            "RabbitOrgans",
-                            "Tween",
-                            "\"Tween\"",
-                            "Player.X()",
-                            "Player.Y()-32",
-                            "\"linear\"",
-                            ".5",
-                            "no"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Tween::TweenBehavior::AddObjectScaleTween3"
-                          },
-                          "parameters": [
-                            "RabbitOrgans",
-                            "Tween",
-                            "\"tweeen\"",
-                            ".5",
-                            "\"easeInQuint\"",
-                            ".5",
-                            ".5",
-                            "yes"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            ".5"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "PlaySound"
-                          },
-                          "parameters": [
-                            "",
-                            "OrganCollected",
-                            "",
-                            "20",
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "RabbitOrgans",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "OrgansValue",
-                            "+",
-                            "3"
-                          ]
-                        }
-                      ],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [],
-                          "actions": []
-                        }
-                      ]
-                    }
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+                  },
+                  "parameters": [
+                    "RabbitOrgans",
+                    "Tween",
+                    "\"Tween\"",
+                    "Player.X()",
+                    "Player.Y()-32",
+                    "\"linear\"",
+                    ".5",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectScaleTween3"
+                  },
+                  "parameters": [
+                    "RabbitOrgans",
+                    "Tween",
+                    "\"tweeen\"",
+                    ".5",
+                    "\"easeInQuint\"",
+                    ".5",
+                    ".5",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    ".5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "RabbitOrgans",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "OrgansValue",
+                    "+",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "OrgansGenerated",
+                    "=",
+                    "0"
                   ]
                 }
               ]
@@ -18458,6 +19651,39 @@
                     "",
                     ""
                   ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Map",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "212",
+                    "125",
+                    "850",
+                    "760",
+                    "\"PinkGlow\"",
+                    ""
+                  ]
                 },
                 {
                   "type": {
@@ -18469,7 +19695,7 @@
                     "125",
                     "850",
                     "760",
-                    "",
+                    "\"Background\"",
                     ""
                   ]
                 },
@@ -18497,6 +19723,67 @@
                     "125",
                     "850",
                     "760",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Cave",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "-510",
+                    "-592",
+                    "-196",
+                    "-19",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "-510",
+                    "-592",
+                    "-196",
+                    "-19",
+                    "\"Background\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "-510",
+                    "-592",
+                    "-196",
+                    "-19",
                     "\"PinkGlow\"",
                     ""
                   ]
@@ -18507,11 +19794,86 @@
                   },
                   "parameters": [
                     "",
-                    "212",
-                    "125",
-                    "850",
-                    "760",
+                    "-510",
+                    "-592",
+                    "-196",
+                    "-19",
+                    "\"Draw\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "CaveOutside",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "-510",
+                    "-592",
+                    "-196",
+                    "-19",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "-510",
+                    "-592",
+                    "-196",
+                    "-19",
                     "\"Background\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "-510",
+                    "-592",
+                    "-196",
+                    "-19",
+                    "\"PinkGlow\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "-510",
+                    "-592",
+                    "-196",
+                    "-19",
+                    "\"Draw\"",
                     ""
                   ]
                 }
@@ -18589,6 +19951,14 @@
                   "parameters": [
                     "",
                     "\"Type\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "BottomScreenCollision"
                   ]
                 },
                 {
@@ -18739,22 +20109,23 @@
                 },
                 {
                   "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "Prey",
+                    "Player.X()",
+                    "Player.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "BuiltinCommonInstructions::Once"
                   },
                   "parameters": []
                 }
               ],
               "actions": [
-                {
-                  "type": {
-                    "value": "PickNearest"
-                  },
-                  "parameters": [
-                    "Prey",
-                    "Player.X()",
-                    "Player.Y()"
-                  ]
-                },
                 {
                   "type": {
                     "value": "Tween::TweenBehavior::AddObjectPositionTween2"
@@ -18768,6 +20139,16 @@
                     "\"linear\"",
                     "Duration",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "+",
+                    "1"
                   ]
                 },
                 {
@@ -18807,6 +20188,261 @@
                     "InchTowards",
                     "False",
                     ".5"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "7"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_7.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "6"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_6.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_5.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_4.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_2.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_3.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_1.wav",
+                    "",
+                    "60",
+                    "1"
                   ]
                 }
               ]
@@ -19123,18 +20759,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_1.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -19356,18 +20980,6 @@
                                 "CharacterTyped",
                                 "=",
                                 "\"\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_2.wav",
-                                "",
-                                "40",
-                                "1"
                               ]
                             }
                           ]
@@ -19591,18 +21203,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_3.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -19824,18 +21424,6 @@
                                 "CharacterTyped",
                                 "=",
                                 "\"\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_4.wav",
-                                "",
-                                "40",
-                                "1"
                               ]
                             }
                           ]
@@ -20059,18 +21647,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_5.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -20292,18 +21868,6 @@
                                 "CharacterTyped",
                                 "=",
                                 "\"\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_6.wav",
-                                "",
-                                "40",
-                                "1"
                               ]
                             }
                           ]
@@ -20664,18 +22228,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_1.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -20897,18 +22449,6 @@
                                 "CharacterTyped",
                                 "=",
                                 "\"\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_2.wav",
-                                "",
-                                "40",
-                                "1"
                               ]
                             }
                           ]
@@ -21132,18 +22672,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_3.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -21365,18 +22893,6 @@
                                 "CharacterTyped",
                                 "=",
                                 "\"\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_4.wav",
-                                "",
-                                "40",
-                                "1"
                               ]
                             }
                           ]
@@ -21747,18 +23263,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_1.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -21980,18 +23484,6 @@
                                 "CharacterTyped",
                                 "=",
                                 "\"\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_2.wav",
-                                "",
-                                "40",
-                                "1"
                               ]
                             }
                           ]
@@ -22215,18 +23707,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_3.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -22448,18 +23928,6 @@
                                 "CharacterTyped",
                                 "=",
                                 "\"\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_4.wav",
-                                "",
-                                "40",
-                                "1"
                               ]
                             }
                           ]
@@ -22825,18 +24293,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_1.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -23058,18 +24514,6 @@
                                 "CharacterTyped",
                                 "=",
                                 "\"\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_2.wav",
-                                "",
-                                "40",
-                                "1"
                               ]
                             }
                           ]
@@ -23293,18 +24737,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_3.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -23526,18 +24958,6 @@
                                 "CharacterTyped",
                                 "=",
                                 "\"\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_4.wav",
-                                "",
-                                "40",
-                                "1"
                               ]
                             }
                           ]
@@ -23898,18 +25318,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_1.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -24132,18 +25540,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_2.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -24366,18 +25762,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_3.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -24599,18 +25983,6 @@
                                 "CharacterTyped",
                                 "=",
                                 "\"\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_4.wav",
-                                "",
-                                "40",
-                                "1"
                               ]
                             }
                           ]
@@ -24830,7 +26202,6 @@
                   ]
                 },
                 {
-                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -24971,18 +26342,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_1.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -25106,6 +26465,7 @@
                       ]
                     },
                     {
+                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -25195,18 +26555,6 @@
                                 "=",
                                 "\"\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_2.wav",
-                                "",
-                                "40",
-                                "1"
-                              ]
                             }
                           ]
                         },
@@ -25330,6 +26678,7 @@
                       ]
                     },
                     {
+                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -25418,18 +26767,6 @@
                                 "CharacterTyped",
                                 "=",
                                 "\"\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_3.wav",
-                                "",
-                                "40",
-                                "1"
                               ]
                             }
                           ]
@@ -25554,6 +26891,7 @@
                       ]
                     },
                     {
+                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -25642,18 +26980,6 @@
                                 "CharacterTyped",
                                 "=",
                                 "\"\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "correct_spell_4.wav",
-                                "",
-                                "40",
-                                "1"
                               ]
                             }
                           ]
@@ -25967,6 +27293,16 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Duration",
+                        "=",
+                        "4"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "AnimatableCapability::AnimatableBehavior::SetName"
                       },
                       "parameters": [
@@ -26033,6 +27369,17 @@
                         "KilledSuccessFirst",
                         "True",
                         ".5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "Prey",
+                        "Health",
+                        "=",
+                        "5"
                       ]
                     }
                   ],
@@ -26319,6 +27666,18 @@
               ]
             },
             {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Hunting scene is triggered here"
+            },
+            {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -26328,7 +27687,7 @@
                   "parameters": [
                     "Player",
                     "Prey",
-                    "100",
+                    "85",
                     ""
                   ]
                 },
@@ -26973,9 +28332,20 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "DepartScene"
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
                   },
                   "parameters": [
+                    "Player",
+                    "Cave",
+                    "",
+                    "",
                     ""
                   ]
                 }
@@ -30459,7 +31829,7 @@
                   },
                   "parameters": [
                     "",
-                    "trufflenutPig_1.wav",
+                    "trufflenutPig_2.wav",
                     "4",
                     "no",
                     "60",
@@ -30817,7 +32187,7 @@
                 "trufflenutPig_character_sound.wav",
                 "3",
                 "yes",
-                "60",
+                "30",
                 "1"
               ]
             }
@@ -30868,6 +32238,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "trufflenutPig_1.wav",
+                "4",
+                "no",
+                "60",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "Cache"
@@ -31446,7 +32829,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9578683769070512,
+        "zoomFactor": 0.4321479464775102,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -31565,6 +32948,40 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 128,
+          "keepRatio": true,
+          "layer": "",
+          "name": "HomeBurrow",
+          "persistentUuid": "26bca7a4-4105-4ae6-b5b2-03995e571d17",
+          "width": 128,
+          "x": -252,
+          "y": -83,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "CaveIcon",
+          "persistentUuid": "30c3b89a-c05b-47ec-b3f3-3e4563955477",
+          "width": 192,
+          "x": -348,
+          "y": -169,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -31649,7 +33066,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Drawww",
+                      "image": "Drawww3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -31685,7 +33102,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Drawww2",
+                      "image": "Drawww4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -31807,7 +33224,7 @@
               "TypedText": ""
             }
           ],
-          "string": "Use burrows to fast travel to other borrows on the map. Drag to move around map.",
+          "string": "Use burrows to fast travel to other burrows on the map. Drag to move around map.",
           "font": "SuperPixel-m2L8j.ttf",
           "textAlignment": "left",
           "characterSize": 20,
@@ -31830,7 +33247,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Use burrows to fast travel to other borrows on the map. Drag to move around map.",
+            "text": "Use burrows to fast travel to other burrows on the map. Drag to move around map.",
             "font": "SuperPixel-m2L8j.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
@@ -31838,6 +33255,163 @@
             "lineHeight": 0,
             "color": "91;49;103"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "HomeBurrow",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Drawww",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Drawww",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 4
+                          },
+                          {
+                            "x": 15,
+                            "y": 4
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Drawww2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 4
+                          },
+                          {
+                            "x": 15,
+                            "y": 4
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "CaveIcon",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "cave.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 30,
+                            "y": 2
+                          },
+                          {
+                            "x": 30,
+                            "y": 15
+                          },
+                          {
+                            "x": 2,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -31853,7 +33427,13 @@
             "objectName": "Burrow"
           },
           {
+            "objectName": "HomeBurrow"
+          },
+          {
             "objectName": "PigTent"
+          },
+          {
+            "objectName": "CaveIcon"
           }
         ]
       },
@@ -31881,7 +33461,7 @@
               },
               "parameters": [
                 "",
-                ".5",
+                ".25",
                 "",
                 ""
               ]
@@ -31892,6 +33472,15 @@
               },
               "parameters": [
                 "Burrow",
+                "Animation"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
+              },
+              "parameters": [
+                "HomeBurrow",
                 "Animation"
               ]
             }
@@ -32122,6 +33711,119 @@
               },
               "parameters": [
                 "Burrow",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "HomeBurrow",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeSprite"
+              },
+              "parameters": [
+                "HomeBurrow",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "BurrowX",
+                "=",
+                "HomeBurrow.X()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "BurrowY",
+                "=",
+                "HomeBurrow.Y()"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MouseButtonFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ReturnFromMap",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PopScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "HomeBurrow",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeSprite"
+              },
+              "parameters": [
+                "HomeBurrow",
                 "=",
                 "0"
               ]
