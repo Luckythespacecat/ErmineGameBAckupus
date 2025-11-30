@@ -95,338 +95,10 @@
   "resources": {
     "resources": [
       {
-        "file": "assets/NewSprite.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite2.png\"}",
-        "name": "NewSprite2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite3.png\"}",
-        "name": "NewSprite3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Run.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Run2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/NewSprite5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite5",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite6",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite7",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite8",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite9.png\"}",
-        "name": "NewSprite9",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Rabbit.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Rabbit",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Rabbit2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Rabbit2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine9.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine10.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine11.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine12.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine13.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine13.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "pola5-32x.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "pola5-32x.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player5",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player6",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player7",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player8",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player9",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player10",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player11",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player12",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player13",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player14.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player14",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player15.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player15",
         "smoothed": false,
         "userAdded": false
       },
@@ -495,582 +167,6 @@
         "userAdded": false
       },
       {
-        "file": "ermine14.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine14.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine15.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine16.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/ermine4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\ermine4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine17.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine17.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine18.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine18.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine19.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"ermine19.png\",\"extension\":\".png\"}",
-        "name": "ermine19.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine20.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"ermine20.png\",\"extension\":\".png\"}",
-        "name": "ermine20.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine21.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"ermine21.png\",\"extension\":\".png\"}",
-        "name": "ermine21.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine22.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"ermine22.png\",\"extension\":\".png\"}",
-        "name": "ermine22.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine23.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"ermine23.png\",\"extension\":\".png\"}",
-        "name": "ermine23.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine24.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"ermine24.png\",\"extension\":\".png\"}",
-        "name": "ermine24.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine25.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"ermine25.png\",\"extension\":\".png\"}",
-        "name": "ermine25.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bunnydead2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bunnydead2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine26.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine26.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine27.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine27.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine28.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine28.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine29.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"ermine29.png\",\"extension\":\".png\"}",
-        "name": "ermine29.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine30.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"ermine30.png\",\"extension\":\".png\"}",
-        "name": "ermine30.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine31.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"ermine31.png\",\"extension\":\".png\"}",
-        "name": "ermine31.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine32.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine32.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine33.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine33.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine34.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine34.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine35.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine35.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine36.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine36.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine37.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine37.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine38.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine38.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bunnydead3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bunnydead3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine39.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine39.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine40.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine40.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine41.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine41.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine42.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine42.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine43.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine43.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine44.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine44.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine45.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine45.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine46.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine46.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine47.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine47.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine48.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine48.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine49.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine49.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine50.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine50.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine51.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine51.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine52.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine52.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine53.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine53.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bunnydead4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bunnydead4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine54.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine54.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine55.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine55.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine56.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine56.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine57.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine57.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine58.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine58.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine59.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine59.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine60.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine60.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine61.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine61.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine62.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine62.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine63.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine63.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine64.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine64.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine65.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine65.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine66.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine66.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bunnydead5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bunnydead5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine67.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine67.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine68.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine68.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine69.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine69.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine70.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine70.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine71.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine71.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine72.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine72.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine73.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine73.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine74.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine74.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine75.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine75.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine76.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine76.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine77.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine77.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine78.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine78.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "ermine79.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine79.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bunnydead6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bunnydead6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "mapSnow1.png",
         "kind": "image",
         "metadata": "",
@@ -1079,321 +175,9 @@
         "userAdded": false
       },
       {
-        "file": "erminedance1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance9.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance10.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance11.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance12.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance13.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance13.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance14.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance14.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance15.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance16.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance17.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance17.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance18.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance18.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance19.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance19.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance20.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance20.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance21.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance21.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance22.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance22.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance23.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance23.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance24.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance24.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance25.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance25.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance26.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance26.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance27.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance27.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance28.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance28.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance29.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance29.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance30.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance30.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance31.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance31.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance32.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance32.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance33.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance33.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance34.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance34.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance35.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance35.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance36.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance36.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance37.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance37.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance38.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance38.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "erminedance39.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "erminedance39.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/Player16.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player16.png\"}",
         "name": "Player16",
         "smoothed": false,
         "userAdded": false
@@ -1401,7 +185,7 @@
       {
         "file": "assets/Player17.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player17.png\"}",
         "name": "Player17",
         "smoothed": false,
         "userAdded": false
@@ -1409,7 +193,7 @@
       {
         "file": "assets/Player18.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player18.png\"}",
         "name": "Player18",
         "smoothed": false,
         "userAdded": false
@@ -1417,7 +201,7 @@
       {
         "file": "assets/Player19.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player19.png\"}",
         "name": "Player19",
         "smoothed": false,
         "userAdded": false
@@ -1425,7 +209,7 @@
       {
         "file": "assets/Player20.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player20.png\"}",
         "name": "Player20",
         "smoothed": false,
         "userAdded": false
@@ -1433,7 +217,7 @@
       {
         "file": "assets/Player21.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player21.png\"}",
         "name": "Player21",
         "smoothed": false,
         "userAdded": false
@@ -1441,7 +225,7 @@
       {
         "file": "assets/Player22.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player22.png\"}",
         "name": "Player22",
         "smoothed": false,
         "userAdded": false
@@ -1449,7 +233,7 @@
       {
         "file": "assets/Player23.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player23.png\"}",
         "name": "Player23",
         "smoothed": false,
         "userAdded": false
@@ -1457,7 +241,7 @@
       {
         "file": "assets/Player24.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player24.png\"}",
         "name": "Player24",
         "smoothed": false,
         "userAdded": false
@@ -1465,7 +249,7 @@
       {
         "file": "assets/Player25.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player25.png\"}",
         "name": "Player25",
         "smoothed": false,
         "userAdded": false
@@ -1473,7 +257,7 @@
       {
         "file": "assets/Player26.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player26.png\"}",
         "name": "Player26",
         "smoothed": false,
         "userAdded": false
@@ -1481,7 +265,7 @@
       {
         "file": "assets/Player27.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player27.png\"}",
         "name": "Player27",
         "smoothed": false,
         "userAdded": false
@@ -1489,7 +273,7 @@
       {
         "file": "assets/Player28.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player28.png\"}",
         "name": "Player28",
         "smoothed": false,
         "userAdded": false
@@ -1497,7 +281,7 @@
       {
         "file": "assets/Player29.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player29.png\"}",
         "name": "Player29",
         "smoothed": false,
         "userAdded": false
@@ -1505,7 +289,7 @@
       {
         "file": "assets/Player30.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player30.png\"}",
         "name": "Player30",
         "smoothed": false,
         "userAdded": false
@@ -1513,7 +297,7 @@
       {
         "file": "assets/Player31.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player31.png\"}",
         "name": "Player31",
         "smoothed": false,
         "userAdded": false
@@ -1521,7 +305,7 @@
       {
         "file": "assets/Player32.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player32.png\"}",
         "name": "Player32",
         "smoothed": false,
         "userAdded": false
@@ -1529,7 +313,7 @@
       {
         "file": "assets/Player33.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player33.png\"}",
         "name": "Player33",
         "smoothed": false,
         "userAdded": false
@@ -1537,7 +321,7 @@
       {
         "file": "assets/Player34.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player34.png\"}",
         "name": "Player34",
         "smoothed": false,
         "userAdded": false
@@ -1545,7 +329,7 @@
       {
         "file": "assets/Player35.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player35.png\"}",
         "name": "Player35",
         "smoothed": false,
         "userAdded": false
@@ -1553,88 +337,8 @@
       {
         "file": "assets/Player36.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Player36.png\"}",
         "name": "Player36",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player37.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player37",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player38.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player38",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player39.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player39",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player40.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player40",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player41.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player41",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Sway.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Sway",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Sway2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Sway2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Sway3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Sway3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Sway4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Sway4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Sway5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Sway5",
         "smoothed": false,
         "userAdded": false
       },
@@ -1667,78 +371,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Player45",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "words1.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"words1.png\",\"extension\":\".png\"}",
-        "name": "words1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "words2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "words2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "words3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "words3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "words4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "words4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "words5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "words5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "words6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "words6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Swoosh.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Swoosh",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Swoosh2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Swoosh2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "words7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "words7.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -1919,14 +551,6 @@
         "userAdded": false
       },
       {
-        "file": "words11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "words11.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/words22.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2015,14 +639,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/Rabbit3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Rabbit3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "Branch1.png",
         "kind": "image",
         "metadata": "",
@@ -2039,25 +655,9 @@
         "userAdded": false
       },
       {
-        "file": "NewTrees2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewTrees2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "NewTrees3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewTrees3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "bite1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"bite1.png\",\"extension\":\".png\"}",
         "name": "bite1.png",
         "smoothed": false,
         "userAdded": false
@@ -2065,7 +665,7 @@
       {
         "file": "bite2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"bite2.png\",\"extension\":\".png\"}",
         "name": "bite2.png",
         "smoothed": false,
         "userAdded": false
@@ -2073,7 +673,7 @@
       {
         "file": "bite3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"bite3.png\",\"extension\":\".png\"}",
         "name": "bite3.png",
         "smoothed": false,
         "userAdded": false
@@ -2081,7 +681,7 @@
       {
         "file": "bite4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"bite4.png\",\"extension\":\".png\"}",
         "name": "bite4.png",
         "smoothed": false,
         "userAdded": false
@@ -2089,7 +689,7 @@
       {
         "file": "bite5.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"bite5.png\",\"extension\":\".png\"}",
         "name": "bite5.png",
         "smoothed": false,
         "userAdded": false
@@ -2097,7 +697,7 @@
       {
         "file": "bite6.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"bite6.png\",\"extension\":\".png\"}",
         "name": "bite6.png",
         "smoothed": false,
         "userAdded": false
@@ -2105,32 +705,8 @@
       {
         "file": "bite7.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"bite7.png\",\"extension\":\".png\"}",
         "name": "bite7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "NewTrees1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewTrees1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Idle.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Idle",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Idle2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Idle2",
         "smoothed": false,
         "userAdded": false
       },
@@ -2151,94 +727,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/Run3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Run4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Run5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run5",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Run6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run6",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Run7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run7",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Run8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run8",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Run9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run9",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Run10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run10",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Run11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run11",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Run12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run12",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Run13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Run13",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "NewTrees4.png",
         "kind": "image",
         "metadata": "",
@@ -2249,7 +737,7 @@
       {
         "file": "assets/OutofRun.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/OutofRun.png\"}",
         "name": "OutofRun",
         "smoothed": false,
         "userAdded": false
@@ -2257,7 +745,7 @@
       {
         "file": "assets/OutofRun2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/OutofRun2.png\"}",
         "name": "OutofRun2",
         "smoothed": false,
         "userAdded": false
@@ -2265,7 +753,7 @@
       {
         "file": "assets/OutofRun3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/OutofRun3.png\"}",
         "name": "OutofRun3",
         "smoothed": false,
         "userAdded": false
@@ -2273,7 +761,7 @@
       {
         "file": "FerretPull1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"FerretPull1.png\",\"extension\":\".png\"}",
         "name": "FerretPull1.png",
         "smoothed": false,
         "userAdded": false
@@ -2281,7 +769,7 @@
       {
         "file": "FerretPull2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"FerretPull2.png\",\"extension\":\".png\"}",
         "name": "FerretPull2.png",
         "smoothed": false,
         "userAdded": false
@@ -2289,7 +777,7 @@
       {
         "file": "FerretPull3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"FerretPull3.png\",\"extension\":\".png\"}",
         "name": "FerretPull3.png",
         "smoothed": false,
         "userAdded": false
@@ -2297,7 +785,7 @@
       {
         "file": "FerretPull4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"FerretPull4.png\",\"extension\":\".png\"}",
         "name": "FerretPull4.png",
         "smoothed": false,
         "userAdded": false
@@ -2305,7 +793,7 @@
       {
         "file": "FerretPull5.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"FerretPull5.png\",\"extension\":\".png\"}",
         "name": "FerretPull5.png",
         "smoothed": false,
         "userAdded": false
@@ -2313,16 +801,8 @@
       {
         "file": "FerretPull6.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"FerretPull6.png\",\"extension\":\".png\"}",
         "name": "FerretPull6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "NewTrees5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewTrees5.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -2363,94 +843,6 @@
         "kind": "font",
         "metadata": "",
         "name": "SuperPixel-m2L8j.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "backsing1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "backsing1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "talksing1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "talksing1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "sellsign.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "sellsign.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "textboxforpig1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "textboxforpig1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "backsignoutline.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"backsignoutline.png\",\"extension\":\".png\"}",
-        "name": "backsignoutline.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "talksignoutline.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "talksignoutline.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "sellsignoutling.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "sellsignoutling.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Non-Hover.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Non-Hover",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NotHover.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NotHover",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Hover.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Hover",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NotHover2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NotHover2",
-        "smoothed": false,
         "userAdded": false
       },
       {
@@ -2506,54 +898,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "textboxforpig1",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/burrow1.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "burrow1",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/burrow2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "burrow2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/burrow3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "burrow3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/burrow4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "burrow4",
         "smoothed": false,
         "userAdded": false
       },
@@ -2658,134 +1002,6 @@
         "kind": "image",
         "metadata": "",
         "name": "MapBorder.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "MapBorder2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "MapBorder2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow14.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow14.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow15.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow16.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow17.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow17.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow18.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow18.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow19.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow19.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow20.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow20.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow21.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow21.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow22.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow22.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow23.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow23.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow24.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow24.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow25.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow25.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "sellsignoutling2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "sellsignoutling2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "talksignoutline2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "talksignoutline2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "backsignoutline2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "backsignoutline2.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -2902,97 +1118,9 @@
         "userAdded": false
       },
       {
-        "file": "swing1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "swing1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "swing2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "swing2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "swing3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "swing3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "swing4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "swing4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "swing5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "swing5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "swing6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "swing6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "swing7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "swing7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "swing8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "swing8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "swing9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "swing9.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "swing10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "swing10.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "stump3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "stump3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "swing11.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"swing11.png\",\"extension\":\".png\"}",
         "name": "swing11.png",
         "smoothed": false,
         "userAdded": false
@@ -3000,7 +1128,7 @@
       {
         "file": "swing12.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"swing12.png\",\"extension\":\".png\"}",
         "name": "swing12.png",
         "smoothed": false,
         "userAdded": false
@@ -3008,7 +1136,7 @@
       {
         "file": "swing13.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"swing13.png\",\"extension\":\".png\"}",
         "name": "swing13.png",
         "smoothed": false,
         "userAdded": false
@@ -3016,7 +1144,7 @@
       {
         "file": "swing14.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"swing14.png\",\"extension\":\".png\"}",
         "name": "swing14.png",
         "smoothed": false,
         "userAdded": false
@@ -3024,7 +1152,7 @@
       {
         "file": "swing15.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"swing15.png\",\"extension\":\".png\"}",
         "name": "swing15.png",
         "smoothed": false,
         "userAdded": false
@@ -3032,7 +1160,7 @@
       {
         "file": "swing16.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"swing16.png\",\"extension\":\".png\"}",
         "name": "swing16.png",
         "smoothed": false,
         "userAdded": false
@@ -3040,7 +1168,7 @@
       {
         "file": "swing17.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"swing17.png\",\"extension\":\".png\"}",
         "name": "swing17.png",
         "smoothed": false,
         "userAdded": false
@@ -3048,7 +1176,7 @@
       {
         "file": "swing18.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"swing18.png\",\"extension\":\".png\"}",
         "name": "swing18.png",
         "smoothed": false,
         "userAdded": false
@@ -3056,16 +1184,8 @@
       {
         "file": "swing19.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"swing19.png\",\"extension\":\".png\"}",
         "name": "swing19.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "stump4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "stump4.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -3074,14 +1194,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite12",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "trufflenuts1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "trufflenuts1.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -3174,62 +1286,6 @@
         "userAdded": false
       },
       {
-        "file": "Bird2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Bird2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Bird3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Bird3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Bird4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Bird4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Bird5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Bird5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "RabbitGuts2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "RabbitGuts2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "RabbitHide2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "RabbitHide2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "RabbitFOot2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "RabbitFOot2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "Bird6.png",
         "kind": "image",
         "metadata": "",
@@ -3304,16 +1360,6 @@
         "userAdded": false
       },
       {
-        "file": "a lonely ermine fade intro.ogg",
-        "kind": "audio",
-        "metadata": "",
-        "name": "a lonely ermine fade intro.ogg",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
         "file": "textboxbird.png",
         "kind": "image",
         "metadata": "",
@@ -3326,30 +1372,6 @@
         "kind": "image",
         "metadata": "",
         "name": "BIgTruffleNut.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "burrow26.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "burrow26.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Animation.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".wav\",\"localFilePath\":\"assets/Animation.png\",\"jfxr\":{\"data\":\"{\\\"_version\\\":1,\\\"_name\\\":\\\"Explosion 39\\\",\\\"_locked\\\":[],\\\"sampleRate\\\":44100,\\\"attack\\\":0,\\\"sustain\\\":0,\\\"sustainPunch\\\":0,\\\"decay\\\":0.06486208680275451,\\\"tremoloDepth\\\":6,\\\"tremoloFrequency\\\":65,\\\"frequency\\\":10000,\\\"frequencySweep\\\":-3700,\\\"frequencyDeltaSweep\\\":-1600,\\\"repeatFrequency\\\":0,\\\"frequencyJump1Onset\\\":33,\\\"frequencyJump1Amount\\\":0,\\\"frequencyJump2Onset\\\":66,\\\"frequencyJump2Amount\\\":0,\\\"harmonics\\\":0,\\\"harmonicsFalloff\\\":0.5,\\\"waveform\\\":\\\"brownnoise\\\",\\\"interpolateNoise\\\":true,\\\"vibratoDepth\\\":0,\\\"vibratoFrequency\\\":10,\\\"squareDuty\\\":50,\\\"squareDutySweep\\\":0,\\\"flangerOffset\\\":0,\\\"flangerOffsetSweep\\\":0,\\\"bitCrush\\\":16,\\\"bitCrushSweep\\\":0,\\\"lowPassCutoff\\\":22050,\\\"lowPassCutoffSweep\\\":0,\\\"highPassCutoff\\\":0,\\\"highPassCutoffSweep\\\":0,\\\"compression\\\":1,\\\"normalization\\\":true,\\\"amplification\\\":100}\",\"name\":\"Animation\"}}",
-        "name": "Animation",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "boartent2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "boartent2.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -3528,16 +1550,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/OrganCollected.wav",
-        "kind": "audio",
-        "metadata": "{\"extension\":\".wav\",\"jfxr\":{\"data\":\"{\\\"_version\\\":1,\\\"_name\\\":\\\"Pickup/coin 20\\\",\\\"_locked\\\":[],\\\"sampleRate\\\":44100,\\\"attack\\\":0.042148044149925123,\\\"sustain\\\":0.14765966515755746,\\\"sustainPunch\\\":50,\\\"decay\\\":0.22,\\\"tremoloDepth\\\":0,\\\"tremoloFrequency\\\":10,\\\"frequency\\\":220.826867182657,\\\"frequencySweep\\\":8.129735351718159,\\\"frequencyDeltaSweep\\\":-79.39787411620388,\\\"repeatFrequency\\\":0,\\\"frequencyJump1Onset\\\":33,\\\"frequencyJump1Amount\\\":0,\\\"frequencyJump2Onset\\\":66,\\\"frequencyJump2Amount\\\":0,\\\"harmonics\\\":0,\\\"harmonicsFalloff\\\":0.5,\\\"waveform\\\":\\\"sine\\\",\\\"interpolateNoise\\\":true,\\\"vibratoDepth\\\":0,\\\"vibratoFrequency\\\":0,\\\"squareDuty\\\":25,\\\"squareDutySweep\\\":-5,\\\"flangerOffset\\\":3,\\\"flangerOffsetSweep\\\":-7,\\\"bitCrush\\\":16,\\\"bitCrushSweep\\\":0,\\\"lowPassCutoff\\\":22050,\\\"lowPassCutoffSweep\\\":0,\\\"highPassCutoff\\\":0,\\\"highPassCutoffSweep\\\":0,\\\"compression\\\":1,\\\"normalization\\\":true,\\\"amplification\\\":100}\",\"name\":\"OrganCollected\"}}",
-        "name": "OrganCollected",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
         "file": "trufflenutPig_character_sound.wav",
         "kind": "audio",
         "metadata": "",
@@ -3605,168 +1617,6 @@
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/BirdChirpSound2.wav",
-        "kind": "audio",
-        "metadata": "{\"extension\":\".wav\",\"jfxr\":{\"data\":\"{\\\"_version\\\":1,\\\"_name\\\":\\\"Laser/shoot 21\\\",\\\"_locked\\\":[],\\\"sampleRate\\\":44100,\\\"attack\\\":0,\\\"sustain\\\":0.07,\\\"sustainPunch\\\":0,\\\"decay\\\":0.09,\\\"tremoloDepth\\\":0,\\\"tremoloFrequency\\\":10,\\\"frequency\\\":600,\\\"frequencySweep\\\":-400,\\\"frequencyDeltaSweep\\\":-600,\\\"repeatFrequency\\\":0,\\\"frequencyJump1Onset\\\":33,\\\"frequencyJump1Amount\\\":0,\\\"frequencyJump2Onset\\\":66,\\\"frequencyJump2Amount\\\":0,\\\"harmonics\\\":0,\\\"harmonicsFalloff\\\":0.5,\\\"waveform\\\":\\\"sine\\\",\\\"interpolateNoise\\\":true,\\\"vibratoDepth\\\":0,\\\"vibratoFrequency\\\":10,\\\"squareDuty\\\":45,\\\"squareDutySweep\\\":55,\\\"flangerOffset\\\":1,\\\"flangerOffsetSweep\\\":1,\\\"bitCrush\\\":16,\\\"bitCrushSweep\\\":0,\\\"lowPassCutoff\\\":22050,\\\"lowPassCutoffSweep\\\":0,\\\"highPassCutoff\\\":0,\\\"highPassCutoffSweep\\\":0,\\\"compression\\\":1,\\\"normalization\\\":true,\\\"amplification\\\":100}\",\"name\":\"BirdChirpSound2\"}}",
-        "name": "BirdChirpSound2",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign9.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign10.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign11.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign12.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign13.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign13.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign14.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign14.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign15.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign16.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign17.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign17.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign18.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign18.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign19.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign19.png",
-        "smoothed": false,
         "userAdded": false
       },
       {
@@ -3902,158 +1752,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Sign21.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign22.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign22.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign23.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign23.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign24.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign24.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign25.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign25.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign26.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign26.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign27.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign27.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign28.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign28.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign29.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign29.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign30.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign30.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign31.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign31.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign32.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign32.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign33.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign33.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign34.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign34.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign35.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign35.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign36.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign36.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign37.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign37.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign38.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign38.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign39.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign39.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Sign40.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sign40.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -4231,14 +1929,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Drawww4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "CaveTiled.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "CaveTiled.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -4523,118 +2213,6 @@
         "userAdded": false
       },
       {
-        "file": "emineslowwalk1.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"emineslowwalk1.png\",\"extension\":\".png\"}",
-        "name": "emineslowwalk1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk2.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"emineslowwalk2.png\",\"extension\":\".png\"}",
-        "name": "emineslowwalk2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk3.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"emineslowwalk3.png\",\"extension\":\".png\"}",
-        "name": "emineslowwalk3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk4.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"emineslowwalk4.png\",\"extension\":\".png\"}",
-        "name": "emineslowwalk4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "emineslowwalk5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "emineslowwalk6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "emineslowwalk7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "emineslowwalk8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "emineslowwalk9.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "emineslowwalk10.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "emineslowwalk11.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "emineslowwalk12.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk13.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "emineslowwalk13.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "emineslowwalk14.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "emineslowwalk14.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/Walk.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4715,34 +2293,10 @@
         "userAdded": false
       },
       {
-        "file": "emineslowwalk15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "emineslowwalk15.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/Confused.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Confused",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "treesrepeatesprite.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "treesrepeatesprite.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/treesrepeatesprite.png2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "treesrepeatesprite.png2",
         "smoothed": false,
         "userAdded": false
       },
@@ -4779,34 +2333,10 @@
         "userAdded": false
       },
       {
-        "file": "ermine80.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ermine80.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/NewErmine.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewErmine",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite16.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite16",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite17.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite17",
         "smoothed": false,
         "userAdded": false
       },
@@ -4847,14 +2377,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewColor5ig.png\"}",
         "name": "NewColor5ig",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "TileSnow.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "TileSnow.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -4993,14 +2515,6 @@
         "userAdded": false
       },
       {
-        "file": "Shopbutton2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Shopbutton2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "Shopbutton3.png",
         "kind": "image",
         "metadata": "",
@@ -5113,22 +2627,6 @@
         "userAdded": false
       },
       {
-        "file": "textforgate.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "textforgate.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "textforgate2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "textforgate2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "textforgate3.png",
         "kind": "image",
         "metadata": "",
@@ -5161,6 +2659,262 @@
         "kind": "image",
         "metadata": "",
         "name": "Heavengatemini.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Run14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run14.png\"}",
+        "name": "Run14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Run15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run15.png\"}",
+        "name": "Run15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Run16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run16.png\"}",
+        "name": "Run16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Run17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run17.png\"}",
+        "name": "Run17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/IntoRun.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/IntoRun.png\"}",
+        "name": "IntoRun",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/IntoRun2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/IntoRun2.png\"}",
+        "name": "IntoRun2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/IntoRun3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/IntoRun3.png\"}",
+        "name": "IntoRun3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll.png\"}",
+        "name": "Roll",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll2.png\"}",
+        "name": "Roll2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll3.png\"}",
+        "name": "Roll3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll4.png\"}",
+        "name": "Roll4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll5.png\"}",
+        "name": "Roll5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll6.png\"}",
+        "name": "Roll6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll7.png\"}",
+        "name": "Roll7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll8.png\"}",
+        "name": "Roll8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll9.png\"}",
+        "name": "Roll9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll10.png\"}",
+        "name": "Roll10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll11.png\"}",
+        "name": "Roll11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll12.png\"}",
+        "name": "Roll12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll13.png\"}",
+        "name": "Roll13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll14.png\"}",
+        "name": "Roll14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll15.png\"}",
+        "name": "Roll15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll16.png\"}",
+        "name": "Roll16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Roll17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Roll17.png\"}",
+        "name": "Roll17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sway6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sway6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sway7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sway7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sway8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sway8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sway9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sway9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sway10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sway10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sway11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sway11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sway12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sway12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sway13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sway13",
         "smoothed": false,
         "userAdded": false
       }
@@ -5246,7 +3000,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.0269425874981577,
+        "zoomFactor": 0.8141881203710318,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -7767,29 +5521,18 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Run10",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 9.5,
-                          "y": 13.5
-                        }
-                      ],
+                      "image": "Run14",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "customCollisionMask": [
                         [
@@ -7814,29 +5557,18 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Run11",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 9.5,
-                          "y": 12.5
-                        }
-                      ],
+                      "image": "Run15",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "customCollisionMask": [
                         [
@@ -7861,29 +5593,18 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Run12",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 9.5,
-                          "y": 13.5
-                        }
-                      ],
+                      "image": "Run16",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "customCollisionMask": [
                         [
@@ -7908,29 +5629,18 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Run13",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 11.5,
-                          "y": 14.5
-                        }
-                      ],
+                      "image": "Run17",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "customCollisionMask": [
                         [
@@ -7968,19 +5678,8 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ermine29.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 13.5,
-                          "y": 10.5
-                        }
-                      ],
+                      "image": "IntoRun",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8015,19 +5714,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ermine30.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 13.5,
-                          "y": 12.5
-                        }
-                      ],
+                      "image": "IntoRun2",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8062,19 +5750,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ermine31.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 11.5,
-                          "y": 14.5
-                        }
-                      ],
+                      "image": "IntoRun3",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8271,23 +5948,13 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance1.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
+                      "image": "Roll",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8322,19 +5989,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance2.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 15.5,
-                          "y": 12.5
-                        }
-                      ],
+                      "image": "Roll2",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8369,19 +6025,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance3.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 17.5
-                        }
-                      ],
+                      "image": "Roll3",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8416,19 +6061,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance4.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 15.5,
-                          "y": 19.5
-                        }
-                      ],
+                      "image": "Roll4",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8463,19 +6097,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance5.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 14,
-                          "y": 22
-                        }
-                      ],
+                      "image": "Roll5",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8510,19 +6133,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance6.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 17.5,
-                          "y": 23.5
-                        }
-                      ],
+                      "image": "Roll6",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8557,19 +6169,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance6.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 17.5,
-                          "y": 24.5
-                        }
-                      ],
+                      "image": "Roll7",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8604,19 +6205,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance8.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 17.5,
-                          "y": 24.5
-                        }
-                      ],
+                      "image": "Roll8",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8651,19 +6241,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance9.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 17.5,
-                          "y": 23.5
-                        }
-                      ],
+                      "image": "Roll9",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8698,19 +6277,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance8.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 17.5,
-                          "y": 24.5
-                        }
-                      ],
+                      "image": "Roll10",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8745,19 +6313,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance7.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 17.5,
-                          "y": 23.5
-                        }
-                      ],
+                      "image": "Roll11",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8792,19 +6349,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance7.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 17.5,
-                          "y": 23.5
-                        }
-                      ],
+                      "image": "Roll12",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8839,19 +6385,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance7.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 17.5,
-                          "y": 23.5
-                        }
-                      ],
+                      "image": "Roll13",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8886,19 +6421,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance5.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 15,
-                          "y": 22.5
-                        }
-                      ],
+                      "image": "Roll14",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8933,19 +6457,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance4.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 15.5,
-                          "y": 19.5
-                        }
-                      ],
+                      "image": "Roll15",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -8980,19 +6493,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance3.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 17.5
-                        }
-                      ],
+                      "image": "Roll16",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -9027,19 +6529,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "erminedance1.png",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
+                      "image": "Roll17",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10348,19 +7839,8 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Sway",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 17.5,
-                          "y": 9.5
-                        }
-                      ],
+                      "image": "Sway6",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10395,19 +7875,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Sway2",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 8.5
-                        }
-                      ],
+                      "image": "Sway7",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10442,19 +7911,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Sway3",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
+                      "image": "Sway8",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10489,19 +7947,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Sway4",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 8.5
-                        }
-                      ],
+                      "image": "Sway9",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10536,19 +7983,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Sway5",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 15.5,
-                          "y": 9.5
-                        }
-                      ],
+                      "image": "Sway10",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10583,19 +8019,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Sway4",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 8.5
-                        }
-                      ],
+                      "image": "Sway11",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10630,19 +8055,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Sway3",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
+                      "image": "Sway12",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10677,19 +8091,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Sway2",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 8.5
-                        }
-                      ],
+                      "image": "Sway13",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10933,6 +8336,7 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
@@ -11462,6 +8866,7 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
@@ -12272,6 +9677,7 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
