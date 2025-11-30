@@ -481,7 +481,7 @@
       {
         "file": "bunny2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"bunny2.png\",\"extension\":\".png\"}",
         "name": "bunny2.png",
         "smoothed": false,
         "userAdded": false
@@ -4521,6 +4521,214 @@
         "name": "Cake.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "emineslowwalk1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"emineslowwalk1.png\",\"extension\":\".png\"}",
+        "name": "emineslowwalk1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"emineslowwalk2.png\",\"extension\":\".png\"}",
+        "name": "emineslowwalk2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"emineslowwalk3.png\",\"extension\":\".png\"}",
+        "name": "emineslowwalk3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"emineslowwalk4.png\",\"extension\":\".png\"}",
+        "name": "emineslowwalk4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "emineslowwalk5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "emineslowwalk6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "emineslowwalk7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "emineslowwalk8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "emineslowwalk9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "emineslowwalk10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "emineslowwalk11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "emineslowwalk12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "emineslowwalk13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "emineslowwalk14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Walk3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Walk4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pumkinheaddisintegrant1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pumkinheaddisintegrant1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pumkinheaddisintegrant2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pumkinheaddisintegrant2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pumkinheaddisintegrant3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pumkinheaddisintegrant3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pumkinheaddisintegrant4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pumkinheaddisintegrant4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pumkinheaddisintegrant5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pumkinheaddisintegrant5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pumkinheaddisintegrant6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pumkinheaddisintegrant6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "emineslowwalk15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "emineslowwalk15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Confused.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Confused",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -4584,7 +4792,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.0269425874981466,
+        "zoomFactor": 0.5653158055126546,
         "windowMask": false,
         "selectedLayer": "GUI"
       },
@@ -4667,6 +4875,38 @@
             },
             {
               "name": "StealthMode"
+            }
+          ]
+        },
+        {
+          "name": "Objects",
+          "objects": [
+            {
+              "name": "Rabbit"
+            },
+            {
+              "name": "RabbitHeart"
+            },
+            {
+              "name": "RabbitHide"
+            },
+            {
+              "name": "RabbitsFoot"
+            },
+            {
+              "name": "RabbitGuts"
+            },
+            {
+              "name": "BaitFood"
+            },
+            {
+              "name": "Axe_Stump"
+            },
+            {
+              "name": "NewSprite"
+            },
+            {
+              "name": "VineAnimation"
             }
           ]
         }
@@ -4811,6 +5051,11 @@
           "name": "pickNum",
           "type": "number",
           "value": 0
+        },
+        {
+          "name": "IntoDone",
+          "type": "boolean",
+          "value": false
         }
       ],
       "instances": [
@@ -4825,55 +5070,7 @@
           "width": 0,
           "x": -388,
           "y": -564,
-          "zOrder": 50,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Log",
-          "persistentUuid": "3fbee188-3076-47cc-9409-cc2805e1dc6c",
-          "width": 0,
-          "x": 1193,
-          "y": 22,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Log",
-          "persistentUuid": "8af68e00-4e8c-4661-95a1-4217b1199f75",
-          "width": 0,
-          "x": 1362,
-          "y": 360,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Log",
-          "persistentUuid": "d0feca98-1d90-4298-88ed-2a4c635345b6",
-          "width": 0,
-          "x": 1144,
-          "y": 663,
-          "zOrder": 2,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5591,23 +5788,6 @@
           "x": 544,
           "y": 643,
           "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 4,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Collision",
-          "persistentUuid": "f26d835f-3634-4763-936f-6d7341455048",
-          "width": 12,
-          "x": 507,
-          "y": 678,
-          "zOrder": 62,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6611,7 +6791,7 @@
           "layer": "",
           "name": "Collision",
           "persistentUuid": "f26d13d6-0601-498b-a4d0-9106a899c11c",
-          "width": 102,
+          "width": 95,
           "x": -505,
           "y": -279,
           "zOrder": 82,
@@ -6916,13 +7096,13 @@
               "IsCalledManually": false
             },
             {
-              "acceleration": 800,
-              "allowDiagonals": true,
-              "deceleration": 1200,
-              "ignoreDefaultControls": true,
+              "acceleration": 2000,
+              "deceleration": 2000,
               "maxSpeed": 1,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "allowDiagonals": true,
+              "ignoreDefaultControls": true,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
               "customIsometryAngle": 30,
@@ -7252,7 +7432,7 @@
                 {
                   "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.05555555555555555,
+                  "timeBetweenFrames": 0.0625,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -11985,6 +12165,187 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Walk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk",
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 10.5,
+                          "y": 16.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk2",
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 10.5,
+                          "y": 16.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk3",
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 10.5,
+                          "y": 16.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk4",
+                      "points": [
+                        {
+                          "name": "Headwear",
+                          "x": 10.5,
+                          "y": 16.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -12071,7 +12432,7 @@
           "behaviors": [
             {
               "acceleration": 400,
-              "maxSpeed": 50,
+              "maxSpeed": 25,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
               "allowDiagonals": true,
@@ -12442,7 +12803,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Rabbit3",
+                      "image": "Confused",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17410,7 +17771,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Idle",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -17420,6 +17781,234 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "pumpkinHead.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 1,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Melt",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pumkinheaddisintegrant1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 1,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pumkinheaddisintegrant2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 1,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pumkinheaddisintegrant3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 1,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pumkinheaddisintegrant4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 1,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pumkinheaddisintegrant5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 1,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pumkinheaddisintegrant6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18632,7 +19221,13 @@
           "name": "BaitFood",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "SpawnMax",
+              "type": "number",
+              "value": 3
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -19158,7 +19753,7 @@
                   "parameters": [
                     "PigTent",
                     "=",
-                    "Player.ZOrder()-11"
+                    "Player.ZOrder()-1"
                   ]
                 }
               ]
@@ -19245,7 +19840,7 @@
                   "parameters": [
                     "TallTree",
                     "=",
-                    "Player.ZOrder()-11"
+                    "Player.ZOrder()-1"
                   ]
                 }
               ]
@@ -19404,11 +19999,6 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
-            },
-            {
               "type": "BuiltinCommonInstructions::ForEach",
               "object": "BaitFood",
               "conditions": [
@@ -19501,6 +20091,44 @@
                         "BaitFood.X()",
                         "BaitFood.Y()"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "BaitFood",
+                        "SpawnMax",
+                        "-",
+                        "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberObjectVariable"
+                      },
+                      "parameters": [
+                        "BaitFood",
+                        "SpawnMax",
+                        "<=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "BaitFood",
+                        ""
+                      ]
                     }
                   ]
                 }
@@ -19576,13 +20204,13 @@
               ]
             },
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::ForEach",
               "object": "TabBar",
               "conditions": [],
               "actions": [],
               "events": [
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -19598,6 +20226,15 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"TabBarGoAway\""
+                      ]
+                    },
                     {
                       "type": {
                         "value": "Tween::TweenBehavior::AddObjectScaleTween3"
@@ -19734,8 +20371,8 @@
                               },
                               "parameters": [
                                 "VineAnimation",
-                                "+",
-                                "5"
+                                "=",
+                                "4"
                               ]
                             },
                             {
@@ -19855,8 +20492,8 @@
                               },
                               "parameters": [
                                 "VineAnimation",
-                                "+",
-                                "5"
+                                "=",
+                                "4"
                               ]
                             },
                             {
@@ -19970,8 +20607,8 @@
                               },
                               "parameters": [
                                 "VineAnimation",
-                                "+",
-                                "5"
+                                "=",
+                                "4"
                               ]
                             },
                             {
@@ -20043,6 +20680,25 @@
                         "=",
                         "3"
                       ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CompareTimer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"TabBarGoAway\"",
+                            ">=",
+                            "10"
+                          ]
+                        }
+                      ],
+                      "actions": []
                     }
                   ]
                 }
@@ -20482,6 +21138,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "disabled": true,
           "folded": true,
           "name": "Bird",
           "source": "",
@@ -22308,25 +22965,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Player",
-                    "RabbitOrgans",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": []
             }
           ],
           "parameters": []
@@ -30696,6 +31334,67 @@
                     "Player.PointY(\"Headwear\")-2"
                   ]
                 }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "60"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Pumpkin",
+                        "Animation",
+                        "=",
+                        "\"Melt\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "4"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "WearPumkinHead",
+                        "False",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Pumpkin",
+                        ""
+                      ]
+                    }
+                  ]
+                }
               ]
             },
             {
@@ -30782,6 +31481,99 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "name": "Z-Orders/Z-index",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AjoutObjConcern"
+                  },
+                  "parameters": [
+                    "",
+                    "Objects"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "Objects",
+                    "=",
+                    "3"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "WearPumkinHead",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "Pumpkin",
+                    "=",
+                    "Player.ZOrder()+1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "WearPumkinHead",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "Pumpkin",
+                    "=",
+                    "3"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
           "name": "Animations",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -30796,6 +31588,16 @@
                   "parameters": [
                     "ControlsAllowed",
                     "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlSequence",
+                    "False",
                     ""
                   ]
                 },
@@ -30820,12 +31622,11 @@
                 },
                 {
                   "type": {
-                    "value": "BooleanVariable"
+                    "value": "TopDownMovementBehavior::IsMoving"
                   },
                   "parameters": [
-                    "ControlSequence",
-                    "False",
-                    ""
+                    "Player",
+                    "TopDownMovement"
                   ]
                 },
                 {
@@ -30838,6 +31639,17 @@
               "actions": [
                 {
                   "type": {
+                    "value": "FadeSoundVolume"
+                  },
+                  "parameters": [
+                    "",
+                    "1",
+                    "0",
+                    ".1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
@@ -30845,6 +31657,141 @@
                     "Animation",
                     "=",
                     "\"IntoRun\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "IntoDone",
+                    "True",
+                    "2"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Wait to run"
+            },
+            {
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlSequence",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FadeSoundVolume"
+                  },
+                  "parameters": [
+                    "",
+                    "1",
+                    "0",
+                    ".1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"IntoRun\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::MaxSpeed"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "=",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.1775"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "IntoDone",
+                    "True",
+                    "2"
                   ]
                 }
               ]
@@ -30879,23 +31826,44 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Cave",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "BooleanVariable"
                   },
                   "parameters": [
-                    "ControlsAllowed",
+                    "IntoDone",
                     "True",
                     ""
                   ]
                 },
                 {
                   "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                    "value": "BooleanVariable"
                   },
                   "parameters": [
-                    "Player",
-                    "Animation",
-                    "=",
-                    "\"IntoRun\""
+                    "ControlSequence",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ""
                   ]
                 },
                 {
@@ -30919,11 +31887,71 @@
                 },
                 {
                   "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
                     "Player",
-                    "Animation"
+                    "Animation",
+                    "=",
+                    "\"Run\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::MaxSpeed"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "=",
+                    "100"
+                  ]
+                }
+              ]
+            },
+            {
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"LShift\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Cave",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "IntoDone",
+                    "True",
+                    ""
                   ]
                 },
                 {
@@ -30935,6 +31963,140 @@
                     "False",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"Walk\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "liminal stuff_2 sfx - 2025-Nov-28_14(1).wav",
+                    "1",
+                    "yes",
+                    "30",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Cave",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "IntoDone",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlSequence",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -30975,6 +32137,71 @@
                 "textR": 0
               },
               "comment": "Hunting scene is triggered here"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "TopDownMovementBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlSequence",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"OutofRun\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FadeSoundVolume"
+                  },
+                  "parameters": [
+                    "",
+                    "1",
+                    "0",
+                    ".1"
+                  ]
+                }
+              ]
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -31229,71 +32456,6 @@
               "conditions": [
                 {
                   "type": {
-                    "inverted": true,
-                    "value": "TopDownMovementBehavior::IsMoving"
-                  },
-                  "parameters": [
-                    "Player",
-                    "TopDownMovement"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "ControlsAllowed",
-                    "True",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "ControlSequence",
-                    "False",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Animation",
-                    "=",
-                    "\"OutofRun\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "FadeSoundVolume"
-                  },
-                  "parameters": [
-                    "",
-                    "1",
-                    "0",
-                    ".1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
                     "value": "BooleanVariable"
                   },
                   "parameters": [
@@ -31345,6 +32507,17 @@
               "actions": [
                 {
                   "type": {
+                    "value": "FadeSoundVolume"
+                  },
+                  "parameters": [
+                    "",
+                    "1",
+                    "0",
+                    ".1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
@@ -31356,13 +32529,12 @@
                 },
                 {
                   "type": {
-                    "value": "FadeSoundVolume"
+                    "value": "SetBooleanVariable"
                   },
                   "parameters": [
-                    "",
-                    "1",
-                    "0",
-                    ".1"
+                    "IntoDone",
+                    "False",
+                    "2"
                   ]
                 }
               ]
@@ -31544,6 +32716,113 @@
                     "10",
                     "=",
                     "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Cave",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Snow3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Snow2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Snow1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Snow4"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Cave",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Snow3",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Snow2",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Snow1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Snow4",
+                    ""
                   ]
                 }
               ]
@@ -31912,6 +33191,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Controls",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -31926,7 +33206,6 @@
               "type": "BuiltinCommonInstructions::Group",
               "events": [
                 {
-                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -31986,6 +33265,61 @@
                             "yes"
                           ]
                         }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"LShift\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TopDownMovementBehavior::MaxSpeed"
+                      },
+                      "parameters": [
+                        "Player",
+                        "TopDownMovement",
+                        "=",
+                        "200"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"LShift\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TopDownMovementBehavior::MaxSpeed"
+                      },
+                      "parameters": [
+                        "Player",
+                        "TopDownMovement",
+                        "=",
+                        "100"
                       ]
                     }
                   ]
@@ -32331,7 +33665,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Grabbing",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -32358,6 +33691,17 @@
                         "False",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Animation",
+                        "!=",
+                        "\"IntoRun\""
+                      ]
                     }
                   ],
                   "actions": [
@@ -32369,17 +33713,6 @@
                         "Grabbing",
                         "False",
                         "="
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "TopDownMovementBehavior::MaxSpeed"
-                      },
-                      "parameters": [
-                        "Player",
-                        "TopDownMovement",
-                        "=",
-                        "200"
                       ]
                     }
                   ]
@@ -32470,7 +33803,7 @@
                         "Player",
                         "TopDownMovement",
                         "=",
-                        "50"
+                        "25"
                       ]
                     },
                     {
@@ -32491,21 +33824,6 @@
             }
           ],
           "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyFromTextJustPressed"
-              },
-              "parameters": [
-                "",
-                "\"Tab\""
-              ]
-            }
-          ],
-          "actions": []
         }
       ],
       "layers": [
