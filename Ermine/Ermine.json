@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "MainMenu",
   "gdVersion": {
     "build": 247,
     "major": 5,
@@ -29,14 +29,14 @@
     "minFPS": 20,
     "verticalSync": false,
     "platformSpecificAssets": {
-      "android-icon-144": "",
-      "android-icon-192": "",
-      "android-icon-36": "",
-      "android-icon-48": "",
-      "android-icon-72": "",
-      "android-icon-96": "",
-      "android-windowSplashScreenAnimatedIcon": "",
-      "desktop-icon-512": "",
+      "android-icon-144": "BorealTitleDithered-export.png",
+      "android-icon-192": "BorealTitleDithered-export.png",
+      "android-icon-36": "BorealTitleDithered-export.png",
+      "android-icon-48": "BorealTitleDithered-export.png",
+      "android-icon-72": "BorealTitleDithered-export.png",
+      "android-icon-96": "BorealTitleDithered-export.png",
+      "android-windowSplashScreenAnimatedIcon": "BorealTitleDithered-export.png",
+      "desktop-icon-512": "BorealTitleDithered-export.png",
       "ios-icon-100": "",
       "ios-icon-1024": "",
       "ios-icon-114": "",
@@ -58,14 +58,14 @@
       "ios-icon-87": ""
     },
     "loadingScreen": {
-      "backgroundColor": 0,
+      "backgroundColor": 16510203,
       "backgroundFadeInDuration": 0.2,
-      "backgroundImageResourceName": "",
+      "backgroundImageResourceName": "BorealTitleDithered-export.png",
       "gdevelopLogoStyle": "light",
       "logoAndProgressFadeInDuration": 0.2,
       "logoAndProgressLogoFadeInDelay": 0,
-      "minDuration": 1.5,
-      "progressBarColor": 16777215,
+      "minDuration": 2,
+      "progressBarColor": 13792169,
       "progressBarHeight": 20,
       "progressBarMaxWidth": 200,
       "progressBarMinWidth": 40,
@@ -75,7 +75,7 @@
     },
     "watermark": {
       "placement": "bottom-left",
-      "showWatermark": true
+      "showWatermark": false
     },
     "authorIds": [],
     "authorUsernames": [],
@@ -4925,6 +4925,24 @@
         "name": "tabicon2.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "BorealTitleDithered-export.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BorealTitleDithered-export.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "tundra_ambience(1).ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "tundra_ambience(1).ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ]
   },
@@ -4998,7 +5016,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.432347728232937,
+        "zoomFactor": 1.865525548257102,
         "windowMask": false,
         "selectedLayer": "GUI"
       },
@@ -20770,6 +20788,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlayMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "tundra_ambience(1).ogg",
+                    "3",
+                    "yes",
+                    "30",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "MettreX"
                   },
                   "parameters": [
@@ -20785,6 +20816,14 @@
                   "parameters": [
                     "Tab",
                     "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Tab"
                   ]
                 }
               ]
@@ -20811,6 +20850,12 @@
                     "",
                     "\"Left\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -20899,6 +20944,29 @@
                   "parameters": [
                     "ControlSequence",
                     "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "HuntSequenceFirst",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Cave",
+                    "",
+                    "",
                     ""
                   ]
                 }
@@ -41877,6 +41945,19 @@
                     "80",
                     "1"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlayMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "tundra_ambience(1).ogg",
+                    "3",
+                    "yes",
+                    "30",
+                    "1"
+                  ]
                 }
               ]
             }
@@ -42422,7 +42503,7 @@
                     "",
                     "New sound effect",
                     "",
-                    "75",
+                    "40",
                     "1"
                   ]
                 },
@@ -42469,7 +42550,7 @@
                     "",
                     "New sound effect",
                     "",
-                    "75",
+                    "40",
                     "1"
                   ]
                 },
@@ -42505,7 +42586,7 @@
                     "",
                     "New sound effect",
                     "",
-                    "75",
+                    "40",
                     "1"
                   ]
                 },
@@ -42552,7 +42633,7 @@
                     "",
                     "New sound effect",
                     "",
-                    "75",
+                    "40",
                     "1"
                   ]
                 },
@@ -42599,7 +42680,7 @@
                     "",
                     "New sound effect",
                     "",
-                    "75",
+                    "40",
                     "1"
                   ]
                 },
@@ -42646,7 +42727,7 @@
                     "",
                     "New sound effect",
                     "",
-                    "75",
+                    "40",
                     "1"
                   ]
                 },
@@ -42693,7 +42774,7 @@
                     "",
                     "New sound effect",
                     "",
-                    "75",
+                    "40",
                     "1"
                   ]
                 },
@@ -42740,7 +42821,7 @@
                     "",
                     "New sound effect",
                     "",
-                    "75",
+                    "40",
                     "1"
                   ]
                 },
@@ -42787,7 +42868,7 @@
                     "",
                     "New sound effect",
                     "",
-                    "75",
+                    "40",
                     "1"
                   ]
                 },
@@ -42834,7 +42915,7 @@
                     "",
                     "New sound effect",
                     "",
-                    "75",
+                    "40",
                     "1"
                   ]
                 },
@@ -42881,7 +42962,7 @@
                     "",
                     "New sound effect",
                     "",
-                    "75",
+                    "40",
                     "1"
                   ]
                 },
@@ -42928,7 +43009,7 @@
                     "",
                     "New sound effect",
                     "",
-                    "75",
+                    "40",
                     "1"
                   ]
                 },
