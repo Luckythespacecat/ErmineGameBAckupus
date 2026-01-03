@@ -1,9 +1,9 @@
 {
   "firstLayout": "MainMenu",
   "gdVersion": {
-    "build": 247,
+    "build": 251,
     "major": 5,
-    "minor": 5,
+    "minor": 6,
     "revision": 0
   },
   "properties": {
@@ -3157,6 +3157,70 @@
           "value": 0
         },
         {
+          "name": "Phrases",
+          "type": "structure",
+          "children": [
+            {
+              "folded": true,
+              "name": "0",
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "s"
+                },
+                {
+                  "type": "string",
+                  "value": "w"
+                },
+                {
+                  "type": "string",
+                  "value": "o"
+                },
+                {
+                  "type": "string",
+                  "value": "o"
+                },
+                {
+                  "type": "string",
+                  "value": "s"
+                },
+                {
+                  "type": "string",
+                  "value": "h"
+                }
+              ]
+            },
+            {
+              "name": "1",
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "s"
+                },
+                {
+                  "type": "string",
+                  "value": "w"
+                },
+                {
+                  "type": "string",
+                  "value": "a"
+                },
+                {
+                  "type": "string",
+                  "value": "y"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PhraseNum",
+          "type": "number",
+          "value": 0
+        },
+        {
           "name": "TypePhase",
           "type": "number",
           "value": 0
@@ -3180,6 +3244,11 @@
           "name": "CharacterTyped",
           "type": "string",
           "value": "\"\""
+        },
+        {
+          "name": "AmountOfCharacters",
+          "type": "number",
+          "value": 0
         },
         {
           "name": "Duration",
@@ -19228,6 +19297,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "disabled": true,
           "folded": true,
           "name": "GUI",
           "source": "",
@@ -22542,6 +22612,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Burrow",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -22919,6 +22990,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Gates",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -23694,7 +23766,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Hunting Sequence",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -24103,6 +24174,16 @@
               "actions": [
                 {
                   "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "CharacterTyped",
+                    "=",
+                    "LastPressedKey()"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "StopSoundCanal"
                   },
                   "parameters": [
@@ -24151,10 +24232,33 @@
                     "True",
                     ".5"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Trufflenutstext",
+                    "Text",
+                    "=",
+                    "Phrases[0][TypePhase]"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Organs",
+                    "Text",
+                    "=",
+                    "CharacterTyped"
+                  ]
                 }
               ],
               "events": [
                 {
+                  "disabled": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -24166,18 +24270,7 @@
                       ]
                     }
                   ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetStringVariable"
-                      },
-                      "parameters": [
-                        "CharacterTyped",
-                        "=",
-                        "LastPressedKey()"
-                      ]
-                    }
-                  ]
+                  "actions": []
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -24256,6 +24349,7 @@
                   ]
                 },
                 {
+                  "disabled": true,
                   "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
@@ -24308,6 +24402,7 @@
                       ]
                     },
                     {
+                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -24530,6 +24625,7 @@
                       ]
                     },
                     {
+                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -24752,6 +24848,7 @@
                       ]
                     },
                     {
+                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -24974,6 +25071,7 @@
                       ]
                     },
                     {
+                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -25718,6 +25816,284 @@
                           "parameters": [
                             "Player",
                             "Animation"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnyKeyPressed"
+                      },
+                      "parameters": [
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                      },
+                      "parameters": [
+                        "Words",
+                        "Animation",
+                        "=",
+                        "Phrases[PhraseNum]"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "AmountOfCharacters",
+                        "=",
+                        "VariableChildCount(Phrases[PhraseNum])"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "CharacterTyped",
+                            "=",
+                            "Phrases[PhraseNum][TypePhase]"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeSprite"
+                          },
+                          "parameters": [
+                            "Words",
+                            "+",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "TypePhase",
+                            "+",
+                            "1"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "CharacterTyped",
+                            "!=",
+                            "Phrases[PhraseNum][TypePhase]"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "CharacterTyped",
+                            "!=",
+                            "Phrases[PhraseNum][TypePhase-1]"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Words",
+                            "\"255;255;255\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
+                          },
+                          "parameters": [
+                            "Words",
+                            "ShakeObject_PositionAngle",
+                            ".5",
+                            "5",
+                            "5",
+                            "5",
+                            ".08",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Words",
+                            "\"243;57;57\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            ".5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "PhraseNum",
+                            "=",
+                            "RandomInRange(0,1)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "TypePhase",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "spelling_fail.wav",
+                            "",
+                            "40",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            ".25"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ChangeSprite"
+                          },
+                          "parameters": [
+                            "Words",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Words",
+                            "\"255;255;255\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "AmountOfCharacters",
+                            "=",
+                            "TypePhase"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "InchTowards",
+                            "True",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ChangeSprite"
+                          },
+                          "parameters": [
+                            "Words",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "TypePhase",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "PhraseNum",
+                            "=",
+                            "RandomInRange(0,1)"
                           ]
                         }
                       ]
@@ -30857,7 +31233,7 @@
                       "parameters": [
                         "RandomPhrase",
                         "=",
-                        "RandomInRange(1,6)"
+                        "RandomInRange(1,1)"
                       ]
                     },
                     {
