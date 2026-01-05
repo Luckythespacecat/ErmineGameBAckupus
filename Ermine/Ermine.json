@@ -1,5 +1,5 @@
 {
-  "firstLayout": "MainMenu",
+  "firstLayout": "CatchScene",
   "gdVersion": {
     "build": 251,
     "major": 5,
@@ -2917,6 +2917,78 @@
         "name": "Sway13",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "BackgroundSkyDark.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BackgroundSkyDark.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "BackgroundSkyLight.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BackgroundSkyLight.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "BackgroundTrees.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BackgroundTrees.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "BackgroundNow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BackgroundNow.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "BackgroundNow2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BackgroundNow2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "BackgroundNow3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BackgroundNow3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "ErmineFacingdifferentdirection.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ErmineFacingdifferentdirection.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SnowRabbit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SnowRabbit.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../../../Downloads/SnowRabbit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\..\\..\\Downloads\\SnowRabbit.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -3000,7 +3072,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8141881203710318,
+        "zoomFactor": 0.7370816317994398,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -6060,1362 +6132,6 @@
               ]
             },
             {
-              "name": "Roll",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll3",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll4",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll5",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll6",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll7",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll8",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll9",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll10",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll11",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll12",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll13",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll14",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll15",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll16",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Roll17",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Flap",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player16",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player17",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player18",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player19",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player20",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player21",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player22",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player23",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Snap",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player24",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player25",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 17.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player26",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 18.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player27",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 20.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player28",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 20.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player29",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Player30",
-                      "points": [
-                        {
-                          "name": "Pull",
-                          "x": 5.5,
-                          "y": 14
-                        },
-                        {
-                          "name": "Headwear",
-                          "x": 16.5,
-                          "y": 7.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 1
-                          },
-                          {
-                            "x": 31,
-                            "y": 30
-                          },
-                          {
-                            "x": 11,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "name": "Swoosh",
               "useMultipleDirections": false,
               "directions": [
@@ -8209,6 +6925,1362 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Sway13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Snap",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player24",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player25",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 17.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player26",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 18.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player27",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 20.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player28",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 20.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player29",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player30",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Flap",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player16",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player17",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player18",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player19",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player20",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player21",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player22",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player23",
+                      "points": [
+                        {
+                          "name": "Pull",
+                          "x": 5.5,
+                          "y": 14
+                        },
+                        {
+                          "name": "Headwear",
+                          "x": 16.5,
+                          "y": 7.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Roll",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 30
+                          },
+                          {
+                            "x": 11,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Roll17",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -24627,6 +24699,26 @@
                       "actions": [
                         {
                           "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Animation",
+                            "=",
+                            "PhraseNum+4"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Animation"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "SetBooleanVariable"
                           },
                           "parameters": [
@@ -24763,6 +24855,27 @@
                     },
                     {
                       "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                      },
+                      "parameters": [
+                        "Words",
+                        "Animation",
+                        "=",
+                        "ToNumber(Phrases[PhraseNum])"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "AmountOfCharacters",
+                        "=",
+                        "VariableChildCount(Phrases[PhraseNum])"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "AnimatableCapability::AnimatableBehavior::SetName"
                       },
                       "parameters": [
@@ -24789,27 +24902,6 @@
                       "parameters": [
                         "Player",
                         "Animation"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-                      },
-                      "parameters": [
-                        "Words",
-                        "Animation",
-                        "=",
-                        "ToNumber(Phrases[PhraseNum])"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "AmountOfCharacters",
-                        "=",
-                        "VariableChildCount(Phrases[PhraseNum])"
                       ]
                     }
                   ]
@@ -40712,6 +40804,643 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "CatchScene",
+      "name": "CatchScene",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.6875040483224638,
+        "windowMask": false,
+        "selectedLayer": ""
+      },
+      "objectsGroups": [],
+      "variables": [
+        {
+          "name": "StopMovingTrack",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "SpeedMultiplier",
+          "type": "number",
+          "value": 100
+        }
+      ],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 256,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BackgroundDarkSky",
+          "persistentUuid": "d33138e3-7e0e-4877-9ba1-90161bd55106",
+          "width": 660,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 256,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BackgroundSkyLight",
+          "persistentUuid": "84f15f76-e6a6-4752-a521-3d24ed635561",
+          "width": 641,
+          "x": 0,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 256,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Trees",
+          "persistentUuid": "81d834a0-4263-4ffb-8d50-8de20b0e6ffb",
+          "width": 641,
+          "x": 0,
+          "y": 0,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1.5625,
+          "height": 200,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BackgroundFront",
+          "persistentUuid": "06669a2e-1b34-42a8-8d32-6af6eb1b6824",
+          "width": 1010.9375,
+          "x": -9,
+          "y": 167,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 294,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Ermine",
+          "persistentUuid": "4a639b48-9aae-4d0e-83c0-eb85ce401fae",
+          "width": 236,
+          "x": -149,
+          "y": 331,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Rabbit",
+          "persistentUuid": "dadbd935-b941-4f50-b8cb-0c37262b8e84",
+          "width": 0,
+          "x": 697,
+          "y": 59,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "height": 256,
+          "name": "BackgroundDarkSky",
+          "texture": "BackgroundSkyDark.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 256,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 256,
+          "name": "BackgroundSkyLight",
+          "texture": "BackgroundSkyLight.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 256,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 256,
+          "name": "Trees",
+          "texture": "BackgroundTrees.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 256,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 200,
+          "name": "BackgroundFront",
+          "texture": "BackgroundNow3.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Ermine",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ErmineFacingdifferentdirection.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 14
+                          },
+                          {
+                            "x": 108,
+                            "y": 14
+                          },
+                          {
+                            "x": 108,
+                            "y": 125
+                          },
+                          {
+                            "x": 16,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Rabbit",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\..\\..\\Downloads\\SnowRabbit.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 56
+                          },
+                          {
+                            "x": 287,
+                            "y": 56
+                          },
+                          {
+                            "x": 287,
+                            "y": 237
+                          },
+                          {
+                            "x": 14,
+                            "y": 237
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "BackgroundDarkSky"
+          },
+          {
+            "objectName": "BackgroundSkyLight"
+          },
+          {
+            "objectName": "Trees"
+          },
+          {
+            "objectName": "NewSprite"
+          },
+          {
+            "objectName": "BackgroundFront"
+          },
+          {
+            "objectName": "Ermine"
+          },
+          {
+            "objectName": "Rabbit"
+          }
+        ]
+      },
+      "events": [
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Scenery (I dont know if this is the correct spelling)",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::XOffset"
+                  },
+                  "parameters": [
+                    "BackgroundSkyLight",
+                    "=",
+                    "BackgroundSkyLight.XOffset() + (TimeDelta()*50)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::XOffset"
+                  },
+                  "parameters": [
+                    "BackgroundDarkSky",
+                    "=",
+                    "BackgroundDarkSky.XOffset() + (TimeDelta()*10)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::XOffset"
+                  },
+                  "parameters": [
+                    "BackgroundFront",
+                    "=",
+                    "BackgroundFront.XOffset() + (TimeDelta()*SpeedMultiplier)"
+                  ]
+                }
+              ]
+            },
+            {
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "RepeatEveryXSeconds::Repeat"
+                  },
+                  "parameters": [
+                    "",
+                    "\"SwayTrees\"",
+                    "4",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::XOffset"
+                  },
+                  "parameters": [
+                    "Trees",
+                    "=",
+                    "Trees.XOffset() + (TimeDelta()*50)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+                  },
+                  "parameters": [
+                    "Ermine",
+                    "Tween",
+                    "\"MoveToStart\"",
+                    "-35",
+                    "133",
+                    "\"easeInOutQuart\"",
+                    "5",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+                  },
+                  "parameters": [
+                    "Rabbit",
+                    "Tween",
+                    "\"MoveToStart\"",
+                    "267",
+                    "59",
+                    "\"easeInOutQuart\"",
+                    "4.8",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "3.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "StopMovingTrack",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "StopMovingTrack",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SpeedMultiplier",
+                    ">",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SpeedMultiplier",
+                    "-",
+                    "2"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
         },
         {
           "name": "Tween",
@@ -57541,6 +58270,714 @@
               "label": "An internal counter",
               "hidden": true,
               "name": "Counter"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
+    {
+      "author": "",
+      "category": "Visual effect",
+      "extensionNamespace": "",
+      "fullName": "Sway",
+      "gdevelopVersion": ">=5.5.222",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXN3YXAtaG9yaXpvbnRhbC12YXJpYW50IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTQsNkw4LDEwVjdIMTZBMiwyIDAgMCwxIDE4LDlBMiwyIDAgMCwxIDE2LDExSDhBNCw0IDAgMCwwIDQsMTVBNCw0IDAgMCwwIDgsMTlIMTZWMjJMMjAsMThMMTYsMTRWMTdIOEEyLDIgMCAwLDEgNiwxNUEyLDIgMCAwLDEgOCwxM0gxNkE0LDQgMCAwLDAgMjAsOUE0LDQgMCAwLDAgMTYsNUg4VjJMNCw2WiIgLz48L3N2Zz4=",
+      "name": "Sway",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/swap-horizontal-variant.svg",
+      "shortDescription": "Sway objects like grass in the wind.",
+      "version": "1.1.0",
+      "description": [
+        "This extension makes objects sway at different times.",
+        "",
+        "It can be used to:",
+        "- Simulate grass and plant movement swaying in the wind",
+        "- Animate seaweed in an underwater environment",
+        "- Give flames a flickering look ",
+        "",
+        "Set *Center* and *Origin* points to the center base of the object for best results.",
+        "",
+        "Check out [this demo](https://gd.games/bubble/swayexamples) to see what this extension can do.",
+        ""
+      ],
+      "origin": {
+        "identifier": "Sway",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "tween",
+        "sway",
+        "wobble",
+        "shake",
+        "grass",
+        "plant",
+        "snake",
+        "flame",
+        "fire",
+        "candle"
+      ],
+      "authorIds": [
+        "d3W2ZbWOpKRw2rXfBTscZztY7GH2"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Sway multiple instances of an object at different times - useful for random grass swaying.",
+          "fullName": "Sway",
+          "name": "Sway",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onCreated",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 102,
+                    "g": 210,
+                    "r": 233,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Start the tweens"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Angle the object to the right"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Increase the y scale of the object"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleYTween"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"YScaleMax\"",
+                        "YScaleMax",
+                        "\"easeInOutSine\"",
+                        "RandomInRange(YScaleMin * 1000,YScaleTimeMax * 1000)",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectAngleTween"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"AngleRight\"",
+                        "AngleRight",
+                        "\"easeInOutSine\"",
+                        "RandomInRange(AngleTimeMin * 1000,AngleTimeMax * 1000)",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sway::Sway",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPostEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Angle the object to the left"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Tween::HasFinished"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"AngleRight\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::RemoveTween"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"AngleRight\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectAngleTween"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"AngleLeft\"",
+                        "AngleLeft",
+                        "\"easeInOutSine\"",
+                        "RandomInRange(AngleTimeMin * 1000,AngleTimeMax * 1000)",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Angle the object to the right"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Tween::HasFinished"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"AngleLeft\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::RemoveTween"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"AngleLeft\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectAngleTween"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"AngleRight\"",
+                        "AngleRight",
+                        "\"easeInOutSine\"",
+                        "RandomInRange(AngleTimeMin * 1000,AngleTimeMax * 1000)",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Decrease the y scale of the object"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Tween::HasFinished"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"YScaleMax\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::RemoveTween"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"YScaleMax\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleYTween"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"YScaleMin\"",
+                        "YScaleMin",
+                        "\"easeInOutSine\"",
+                        "RandomInRange(YScaleTimeMin * 1000,YScaleTimeMax * 1000)",
+                        "",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Increase the y scale of the object"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Tween::HasFinished"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"YScaleMin\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::RemoveTween"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"YScaleMin\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleYTween"
+                      },
+                      "parameters": [
+                        "Object",
+                        "TweenBehavior",
+                        "\"YScaleMax\"",
+                        "YScaleMax",
+                        "\"easeInOutSine\"",
+                        "RandomInRange(YScaleTimeMin * 1000,YScaleTimeMax * 1000)",
+                        "",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sway::Sway",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Set sway angle left and right.",
+              "fullName": "Set sway angle left and right",
+              "functionType": "Action",
+              "group": "Sway angle",
+              "name": "ChangeSwayAngle",
+              "sentence": "Sway the angle of _PARAM0_ to _PARAM2_° to the left and to _PARAM3_° to the right",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "AngleLeft",
+                        "=",
+                        "AngleLeftChanged"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "AngleRight",
+                        "=",
+                        "AngleRightChanged"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sway::Sway",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Angle to the left (degrees) - Use negative number",
+                  "name": "AngleLeftChanged",
+                  "type": "expression"
+                },
+                {
+                  "description": "Angle to the right (degrees) - Use positive number",
+                  "name": "AngleRightChanged",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Set sway angle time range.",
+              "fullName": "Set sway angle time range",
+              "functionType": "Action",
+              "group": "Sway angle",
+              "name": "ChangeSwayAngleTime",
+              "sentence": "Tween angle time range for _PARAM0_, set minimum to _PARAM2_ seconds and maximum to _PARAM3_ seconds",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "AngleTimeMin",
+                        "=",
+                        "AngleTimeMinChanged"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "AngleTimeMax",
+                        "=",
+                        "AngleTimeMaxChanged"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sway::Sway",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Angle tween time minimum (seconds)",
+                  "name": "AngleTimeMinChanged",
+                  "type": "expression"
+                },
+                {
+                  "description": "Angle tween time maximum (seconds)",
+                  "name": "AngleTimeMaxChanged",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Set sway Y scale mininum and maximum.",
+              "fullName": "Set sway Y scale mininum and maximum",
+              "functionType": "Action",
+              "group": "Sway Y scale",
+              "name": "ChangeSwayYScale",
+              "sentence": "Sway the Y scale of _PARAM0_ from _PARAM2_ to _PARAM3_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "YScaleMin",
+                        "=",
+                        "YScaleMinChanged"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "YScaleMax",
+                        "=",
+                        "YScaleMaxChanged"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sway::Sway",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Minimum Y scale",
+                  "name": "YScaleMinChanged",
+                  "type": "expression"
+                },
+                {
+                  "description": "Maximum Y scale",
+                  "name": "YScaleMaxChanged",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Set Y scale time range.",
+              "fullName": "Set sway Y scale time range",
+              "functionType": "Action",
+              "group": "Sway Y scale",
+              "name": "ChangeSwayYScaleTime",
+              "sentence": "Tween Y scale time range for _PARAM0_, set minimum to _PARAM2_ seconds and maximum to _PARAM3_ seconds",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "YScaleTimeMax",
+                        "=",
+                        "YScaleTimeMaxChanged"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "YScaleTimeMin",
+                        "=",
+                        "YScaleTimeMinChanged"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sway::Sway",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Y scale tween time minimum (seconds)",
+                  "name": "YScaleTimeMinChanged",
+                  "type": "expression"
+                },
+                {
+                  "description": "Y scale tween time maximum (seconds)",
+                  "name": "YScaleTimeMaxChanged",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "Scalable capability",
+              "extraInformation": [
+                "ScalableCapability::ScalableBehavior"
+              ],
+              "choices": [],
+              "name": "Scale"
+            },
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "Sway uses the tween behavior",
+              "extraInformation": [
+                "Tween::TweenBehavior"
+              ],
+              "choices": [],
+              "name": "TweenBehavior"
+            },
+            {
+              "value": "-5",
+              "type": "Number",
+              "label": "Maximum angle to the left (in degrees) - Use a negative number",
+              "group": "Angle",
+              "name": "AngleLeft"
+            },
+            {
+              "value": "5",
+              "type": "Number",
+              "label": "Maximum angle to the right (in degrees) - Use a positive number",
+              "group": "Angle",
+              "name": "AngleRight"
+            },
+            {
+              "value": "1",
+              "type": "Number",
+              "label": "Mininum value for random tween time range for angle (seconds)",
+              "group": "Angle",
+              "name": "AngleTimeMin"
+            },
+            {
+              "value": "3",
+              "type": "Number",
+              "label": "Maximum value for random tween time range for angle (seconds)",
+              "group": "Angle",
+              "name": "AngleTimeMax"
+            },
+            {
+              "value": "1",
+              "type": "Number",
+              "label": "Minimum Y scale amount",
+              "group": "Y scale",
+              "name": "YScaleMin"
+            },
+            {
+              "value": "1.2",
+              "type": "Number",
+              "label": "Maximum Y scale amount",
+              "group": "Y scale",
+              "name": "YScaleMax"
+            },
+            {
+              "value": "1",
+              "type": "Number",
+              "label": "Mininum value for random tween time range for Y scale (seconds)",
+              "group": "Y scale",
+              "name": "YScaleTimeMin"
+            },
+            {
+              "value": "3",
+              "type": "Number",
+              "label": "Maximum value for random tween time range for Y scale (seconds)",
+              "group": "Y scale",
+              "name": "YScaleTimeMax"
             }
           ],
           "sharedPropertyDescriptors": []
