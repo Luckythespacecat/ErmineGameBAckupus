@@ -1,5 +1,5 @@
 {
-  "firstLayout": "CatchScene",
+  "firstLayout": "MainMenu",
   "gdVersion": {
     "build": 251,
     "major": 5,
@@ -2987,6 +2987,38 @@
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\..\\..\\..\\Downloads\\SnowRabbit.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/BackgroundTrees.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "BackgroundTrees.png2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/BackgroundTrees.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/BackgroundTrees.png3.png\"}",
+        "name": "BackgroundTrees.png3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/BackgroundTrees.png4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "BackgroundTrees.png4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/BackgroundTrees.png5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/BackgroundTrees.png5.png\"}",
+        "name": "BackgroundTrees.png5",
         "smoothed": false,
         "userAdded": false
       }
@@ -40833,7 +40865,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6875040483224638,
+        "zoomFactor": 0.6650774182501562,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -40848,6 +40880,174 @@
           "name": "SpeedMultiplier",
           "type": "number",
           "value": 100
+        },
+        {
+          "name": "SpeedMultiplier2",
+          "type": "number",
+          "value": 100
+        },
+        {
+          "name": "InchTowardsSound",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "ControlSequence",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "HuntSequenceFirst",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "CharacterTyped",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "TypePhase",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "PhraseNum",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "SafeGracePeriod",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Phrases",
+          "type": "structure",
+          "children": [
+            {
+              "folded": true,
+              "name": "0",
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "s"
+                },
+                {
+                  "type": "string",
+                  "value": "w"
+                },
+                {
+                  "type": "string",
+                  "value": "o"
+                },
+                {
+                  "type": "string",
+                  "value": "o"
+                },
+                {
+                  "type": "string",
+                  "value": "s"
+                },
+                {
+                  "type": "string",
+                  "value": "h"
+                }
+              ]
+            },
+            {
+              "name": "1",
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "s"
+                },
+                {
+                  "type": "string",
+                  "value": "w"
+                },
+                {
+                  "type": "string",
+                  "value": "a"
+                },
+                {
+                  "type": "string",
+                  "value": "y"
+                }
+              ]
+            },
+            {
+              "name": "2",
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "s"
+                },
+                {
+                  "type": "string",
+                  "value": "n"
+                },
+                {
+                  "type": "string",
+                  "value": "a"
+                },
+                {
+                  "type": "string",
+                  "value": "p"
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "f"
+                },
+                {
+                  "type": "string",
+                  "value": "l"
+                },
+                {
+                  "type": "string",
+                  "value": "a"
+                },
+                {
+                  "type": "string",
+                  "value": "p"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AmountOfCharacters",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "InchTowards",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "ControlsAllowed",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "RandomPhrase",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Duration",
+          "type": "number",
+          "value": 4
         }
       ],
       "instances": [
@@ -40922,15 +41122,49 @@
         {
           "angle": 0,
           "customSize": true,
+          "depth": 1,
+          "height": 512,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Trees",
+          "persistentUuid": "4c4dfd4c-185b-48fc-a18c-48bfdcbdd7d2",
+          "width": 645,
+          "x": -3,
+          "y": -283,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 256,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Trees2",
+          "persistentUuid": "2df24726-f6bc-410b-b0f4-6a994899b361",
+          "width": 638,
+          "x": 2,
+          "y": -25,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
           "depth": 0,
           "height": 294,
           "keepRatio": true,
           "layer": "",
           "name": "Ermine",
-          "persistentUuid": "4a639b48-9aae-4d0e-83c0-eb85ce401fae",
+          "persistentUuid": "7a6c9adf-632e-4d48-beb7-a4e590e617f2",
           "width": 236,
-          "x": -149,
-          "y": 331,
+          "x": -164,
+          "y": 374,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -40943,11 +41177,28 @@
           "keepRatio": true,
           "layer": "",
           "name": "Rabbit",
-          "persistentUuid": "dadbd935-b941-4f50-b8cb-0c37262b8e84",
+          "persistentUuid": "f9c0e421-9079-447c-8ea4-85373e934f5c",
           "width": 0,
-          "x": 697,
-          "y": 59,
+          "x": 643,
+          "y": 40,
           "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 192,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Words",
+          "persistentUuid": "8c6cf1a3-0047-4221-9d8e-4a7acfedb56f",
+          "width": 512,
+          "x": 77,
+          "y": 73,
+          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -40978,11 +41229,11 @@
         },
         {
           "assetStoreId": "",
-          "height": 256,
+          "height": 512,
           "name": "Trees",
-          "texture": "BackgroundTrees.png",
+          "texture": "BackgroundTrees.png2",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 256,
+          "width": 512,
           "variables": [],
           "effects": [],
           "behaviors": []
@@ -41138,6 +41389,1264 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Words",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ShakeObject_PositionAngle",
+              "type": "ShakeObject::ShakeObject_PositionAngle"
+            }
+          ],
+          "animations": [
+            {
+              "name": "Swoosh",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sway",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words17",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Snap",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words18",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words19",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words20",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words21",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Flap",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Flap",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Flap2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Flap3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Flap4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Roll",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words22",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words23",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words24",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words25",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words26",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Spin",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Spin4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Spin",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Spin2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Spin3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "words12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 9
+                          },
+                          {
+                            "x": 119,
+                            "y": 40
+                          },
+                          {
+                            "x": 10,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 512,
+          "name": "Trees2",
+          "texture": "BackgroundTrees.png5",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -41147,10 +42656,16 @@
             "objectName": "BackgroundDarkSky"
           },
           {
+            "objectName": "Words"
+          },
+          {
             "objectName": "BackgroundSkyLight"
           },
           {
             "objectName": "Trees"
+          },
+          {
+            "objectName": "Trees2"
           },
           {
             "objectName": "NewSprite"
@@ -41167,6 +42682,976 @@
         ]
       },
       "events": [
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Hunting Sequence",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Move a bit while suceeding"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "InchTowards",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    ".5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Duration",
+                    "-",
+                    ".5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InchTowards",
+                    "False",
+                    ".5"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "7"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_7.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "6"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_6.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_5.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_4.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_2.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_3.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "InchTowardsSound",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "correct_spell_1.wav",
+                    "",
+                    "60",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlSequence",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "StopSoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ShowLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Type\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "HuntSequenceFirst",
+                    "True",
+                    ".5"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnyKeyPressed"
+                      },
+                      "parameters": [
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "CharacterTyped",
+                        "=",
+                        "LastPressedKey()"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "CharacterTyped",
+                            "=",
+                            "Phrases[PhraseNum][TypePhase]"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeSprite"
+                          },
+                          "parameters": [
+                            "Words",
+                            "+",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "TypePhase",
+                            "+",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "InchTowards",
+                            "True",
+                            ".5"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BooleanVariable"
+                          },
+                          "parameters": [
+                            "SafeGracePeriod",
+                            "True",
+                            "Phrases[PhraseNum][TypePhase]"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "CharacterTyped",
+                            "!=",
+                            "Phrases[PhraseNum][TypePhase]"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "CharacterTyped",
+                            "!=",
+                            "Phrases[PhraseNum][TypePhase-1]"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Words",
+                            "\"255;255;255\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
+                          },
+                          "parameters": [
+                            "Words",
+                            "ShakeObject_PositionAngle",
+                            ".5",
+                            "5",
+                            "5",
+                            "5",
+                            ".08",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Words",
+                            "\"243;57;57\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            ".5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "PhraseNum",
+                            "=",
+                            "RandomInRange(0,3)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "TypePhase",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "AmountOfCharacters",
+                            "=",
+                            "VariableChildCount(Phrases[PhraseNum])"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                          },
+                          "parameters": [
+                            "Words",
+                            "Animation",
+                            "=",
+                            "PhraseNum"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "spelling_fail.wav",
+                            "",
+                            "40",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            ".25"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ChangeSprite"
+                          },
+                          "parameters": [
+                            "Words",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Words",
+                            "\"255;255;255\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "Phrases[PhraseNum][TypePhase]",
+                            "=",
+                            "\"0\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "InchTowards",
+                            "True",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "PhraseNum",
+                            "=",
+                            "RandomInRange(0,3)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                          },
+                          "parameters": [
+                            "Words",
+                            "Animation",
+                            "=",
+                            "PhraseNum"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ChangeSprite"
+                          },
+                          "parameters": [
+                            "Words",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "TypePhase",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "AmountOfCharacters",
+                            "=",
+                            "VariableChildCount(Phrases[PhraseNum])"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "SafeGracePeriod",
+                            "False",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            ".35"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "SafeGracePeriod",
+                            "True",
+                            "0"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "disabled": true,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "TypePhase",
+                            "=",
+                            "Words.AnimationFrameCount()"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "InchTowards",
+                            "True",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "PhraseNum",
+                            "=",
+                            "RandomInRange(0,3)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                          },
+                          "parameters": [
+                            "Words",
+                            "Animation",
+                            "=",
+                            "PhraseNum"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ChangeSprite"
+                          },
+                          "parameters": [
+                            "Words",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "TypePhase",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "AmountOfCharacters",
+                            "=",
+                            "VariableChildCount(Phrases[PhraseNum])"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "SafeGracePeriod",
+                            "False",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            ".35"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "SafeGracePeriod",
+                            "True",
+                            "0"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "When Sequence starts"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "RandomPhrase",
+                        "=",
+                        "RandomInRange(0,3)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "TypePhase",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                      },
+                      "parameters": [
+                        "Words",
+                        "Animation",
+                        "=",
+                        "ToNumber(Phrases[PhraseNum])"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "AmountOfCharacters",
+                        "=",
+                        "VariableChildCount(Phrases[PhraseNum])"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": []
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlSequence",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Type\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlsAllowed",
+                    "True",
+                    ".5"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
         {
           "colorB": 228,
           "colorG": 176,
@@ -41209,6 +43694,26 @@
                     "=",
                     "BackgroundFront.XOffset() + (TimeDelta()*SpeedMultiplier)"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::XOffset"
+                  },
+                  "parameters": [
+                    "Trees",
+                    "=",
+                    "BackgroundFront.XOffset() + (TimeDelta()*(SpeedMultiplier2*4))"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::XOffset"
+                  },
+                  "parameters": [
+                    "Trees2",
+                    "=",
+                    "BackgroundFront.XOffset() + (TimeDelta()*(SpeedMultiplier2/2))"
+                  ]
                 }
               ]
             },
@@ -41236,7 +43741,7 @@
                   "parameters": [
                     "Trees",
                     "=",
-                    "Trees.XOffset() + (TimeDelta()*50)"
+                    "BackgroundFront.XOffset() + (TimeDelta()*SpeedMultiplier)"
                   ]
                 }
               ]
@@ -41254,6 +43759,25 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ControlSequence",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
+                  },
+                  "parameters": [
+                    "Words",
+                    "Animation"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Tween::TweenBehavior::AddObjectPositionTween2"
@@ -41335,6 +43859,43 @@
                   },
                   "parameters": [
                     "SpeedMultiplier",
+                    "-",
+                    "2"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "StopMovingTrack",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SpeedMultiplier2",
+                    ">",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SpeedMultiplier2",
                     "-",
                     "2"
                   ]
@@ -41441,6 +44002,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "ShakeObject_PositionAngle",
+          "type": "ShakeObject::ShakeObject_PositionAngle"
         },
         {
           "name": "Tween",
