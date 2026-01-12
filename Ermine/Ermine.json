@@ -3021,6 +3021,54 @@
         "name": "BackgroundTrees.png5",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "spidurcle1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spidurcle1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "spidurcle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spidurcle2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "spidurcle3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spidurcle3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "spidurcle4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spidurcle4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "spidurcle5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spidurcle5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "spidurcle6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spidurcle6.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -3104,7 +3152,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7370816317994398,
+        "zoomFactor": 0.9934433498260102,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -3493,8 +3541,8 @@
           "name": "Player",
           "persistentUuid": "331e4479-354a-478a-983e-22d3d1d5dee8",
           "width": 0,
-          "x": -388,
-          "y": -564,
+          "x": 458,
+          "y": 277,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -5256,7 +5304,7 @@
           "persistentUuid": "09451d9f-6122-4d8e-8166-2453ccd4ab16",
           "width": 425,
           "x": -560,
-          "y": -85,
+          "y": -88,
           "zOrder": 84,
           "numberProperties": [],
           "stringProperties": [],
@@ -5535,6 +5583,39 @@
           "x": 549,
           "y": 80,
           "zOrder": 98,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "SpiderOracle",
+          "persistentUuid": "cdf30f30-5726-4e22-8533-19b649f223ac",
+          "width": 0,
+          "x": -438,
+          "y": -542,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 31,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "5c06b7f2-f162-41ea-9f2e-1a771b52cc41",
+          "width": 45,
+          "x": -430,
+          "y": -512,
+          "zOrder": 77,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18560,6 +18641,246 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "SpiderOracle",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.16666666666666666,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "spidurcle1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 1
+                          },
+                          {
+                            "x": 57,
+                            "y": 1
+                          },
+                          {
+                            "x": 57,
+                            "y": 59
+                          },
+                          {
+                            "x": 8,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "spidurcle2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 1
+                          },
+                          {
+                            "x": 57,
+                            "y": 1
+                          },
+                          {
+                            "x": 57,
+                            "y": 59
+                          },
+                          {
+                            "x": 8,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "spidurcle3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 1
+                          },
+                          {
+                            "x": 57,
+                            "y": 1
+                          },
+                          {
+                            "x": 57,
+                            "y": 59
+                          },
+                          {
+                            "x": 8,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "spidurcle4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 1
+                          },
+                          {
+                            "x": 57,
+                            "y": 1
+                          },
+                          {
+                            "x": 57,
+                            "y": 59
+                          },
+                          {
+                            "x": 8,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "spidurcle5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 1
+                          },
+                          {
+                            "x": 57,
+                            "y": 1
+                          },
+                          {
+                            "x": 57,
+                            "y": 59
+                          },
+                          {
+                            "x": 8,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "spidurcle6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 1
+                          },
+                          {
+                            "x": 57,
+                            "y": 1
+                          },
+                          {
+                            "x": 57,
+                            "y": 59
+                          },
+                          {
+                            "x": 8,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -18587,6 +18908,9 @@
           },
           {
             "objectName": "Player"
+          },
+          {
+            "objectName": "SpiderOracle"
           },
           {
             "objectName": "Fedora"
@@ -41185,23 +41509,6 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 192,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Words",
-          "persistentUuid": "8c6cf1a3-0047-4221-9d8e-4a7acfedb56f",
-          "width": 512,
-          "x": 77,
-          "y": 73,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
         }
       ],
       "objects": [
@@ -43020,6 +43327,8 @@
               ]
             },
             {
+              "disabled": true,
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -43065,6 +43374,7 @@
               ],
               "events": [
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
