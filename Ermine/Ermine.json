@@ -1,9 +1,9 @@
 {
   "firstLayout": "MainMenu",
   "gdVersion": {
-    "build": 251,
+    "build": 243,
     "major": 5,
-    "minor": 6,
+    "minor": 5,
     "revision": 0
   },
   "properties": {
@@ -81,7 +81,6 @@
     "authorUsernames": [],
     "categories": [],
     "playableDevices": [
-      "mobile",
       "mobile"
     ],
     "extensionProperties": [],
@@ -3069,8 +3068,103 @@
         "name": "spidurcle6.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "creatureoftheuknown.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "creatureoftheuknown.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "creatureoftheuknownV2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "creatureoftheuknownV2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lightdirection.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lightdirection.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lightdirection2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lightdirection2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lightdirection3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lightdirection3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lightdirection4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lightdirection4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "mapDesolate.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mapDesolate.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "mapDesolate2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mapDesolate2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled - 20260117_122816.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Untitled - 20260117_122816.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled(2).wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Untitled(2).wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled(3).wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Untitled(3).wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
-    ]
+    ],
+    "resourceFolders": []
   },
   "objects": [],
   "objectsFolderStructure": {
@@ -3145,14 +3239,12 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
-        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
-        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9934433498260102,
+        "zoomFactor": 0.604083874998923,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -3258,6 +3350,23 @@
             },
             {
               "name": "NewSprite"
+            }
+          ]
+        },
+        {
+          "name": "SnowParticles",
+          "objects": [
+            {
+              "name": "Snow1"
+            },
+            {
+              "name": "Snow2"
+            },
+            {
+              "name": "Snow3"
+            },
+            {
+              "name": "Snow4"
             }
           ]
         }
@@ -3496,6 +3605,11 @@
           "value": true
         },
         {
+          "name": "SnowType",
+          "type": "string",
+          "value": "\"Boreal\""
+        },
+        {
           "name": "RabbitOrgans",
           "type": "number",
           "value": 0
@@ -3529,6 +3643,26 @@
           "name": "IntoDone",
           "type": "boolean",
           "value": false
+        },
+        {
+          "name": "RandomTintValue1",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "RandomTintValue2",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "RandomTintValue3",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "RandomTintValue4",
+          "type": "number",
+          "value": 0
         }
       ],
       "instances": [
@@ -4628,8 +4762,8 @@
           "name": "TallTree",
           "persistentUuid": "a6b42995-ca88-4cc6-a3a7-1a097a54c5c8",
           "width": 0,
-          "x": 799,
-          "y": 235,
+          "x": 818,
+          "y": 224,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -4992,14 +5126,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 821,
+          "height": 734,
           "keepRatio": true,
           "layer": "",
           "name": "Collision",
           "persistentUuid": "6d7efbb7-8484-4667-82a7-9c4a923dbe38",
           "width": 68,
           "x": 143,
-          "y": -24,
+          "y": 63,
           "zOrder": 72,
           "numberProperties": [],
           "stringProperties": [],
@@ -5014,27 +5148,10 @@
           "layer": "",
           "name": "Collision",
           "persistentUuid": "a12a2676-0c89-4802-bfc4-e08d3cf835b0",
-          "width": 694,
+          "width": 1532,
           "x": 198,
           "y": 763,
           "zOrder": 73,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 727,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Collision",
-          "persistentUuid": "68046751-cffd-4b1c-8969-7a133efbf10e",
-          "width": 64,
-          "x": 853,
-          "y": 57,
-          "zOrder": 74,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5048,7 +5165,7 @@
           "layer": "",
           "name": "Collision",
           "persistentUuid": "167a6796-adbe-447d-b1af-5430fbc88868",
-          "width": 731,
+          "width": 704,
           "x": 147,
           "y": 60,
           "zOrder": 75,
@@ -5319,7 +5436,7 @@
           "layer": "",
           "name": "BottomScreenCollision",
           "persistentUuid": "f2e6b3c3-53d4-4757-ae84-efe72ed904f9",
-          "width": 785,
+          "width": 566,
           "x": 163,
           "y": 686,
           "zOrder": 85,
@@ -5483,8 +5600,8 @@
           "name": "FingerPointer",
           "persistentUuid": "7b3d95cd-6681-47bf-af96-6e57c9ff9d2a",
           "width": 0,
-          "x": 924,
-          "y": 493,
+          "x": 1017,
+          "y": -357,
           "zOrder": 94,
           "numberProperties": [],
           "stringProperties": [],
@@ -5616,6 +5733,38 @@
           "x": -430,
           "y": -512,
           "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GUI",
+          "name": "FPS",
+          "persistentUuid": "70ba7264-305a-4838-b322-b39f04e74a01",
+          "width": 0,
+          "x": 7,
+          "y": 288,
+          "zOrder": 104,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "DesolateMap",
+          "persistentUuid": "622da5cd-1574-4003-bed2-386e441b17b3",
+          "width": 0,
+          "x": 852,
+          "y": -35,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12636,24 +12785,78 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 13,
-                            "y": 23
+                            "x": 22,
+                            "y": 13.5
                           },
                           {
-                            "x": 32.5,
-                            "y": 4.5
+                            "x": 32,
+                            "y": 4
                           },
                           {
-                            "x": 50.5,
+                            "x": 42,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 42,
+                            "y": 16
+                          },
+                          {
+                            "x": 22,
+                            "y": 16
+                          }
+                        ],
+                        [
+                          {
+                            "x": 22,
+                            "y": 16
+                          },
+                          {
+                            "x": 42,
+                            "y": 16
+                          },
+                          {
+                            "x": 50,
                             "y": 24
                           },
                           {
-                            "x": 60.5,
-                            "y": 101
+                            "x": 14,
+                            "y": 24
+                          }
+                        ],
+                        [
+                          {
+                            "x": 20,
+                            "y": 24
                           },
                           {
-                            "x": 4,
-                            "y": 100.5
+                            "x": 45.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 56.5,
+                            "y": 120.5
+                          },
+                          {
+                            "x": 9.5,
+                            "y": 120
+                          }
+                        ],
+                        [
+                          {
+                            "x": 26,
+                            "y": 120
+                          },
+                          {
+                            "x": 38,
+                            "y": 119.5
+                          },
+                          {
+                            "x": 38,
+                            "y": 128
+                          },
+                          {
+                            "x": 26,
+                            "y": 128
                           }
                         ]
                       ]
@@ -18881,6 +19084,134 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "PlayerLight",
+          "type": "Lighting::LightObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "radius": 500,
+            "color": "255;255;255",
+            "debugMode": false,
+            "texture": "Lightdirection4.png"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "FPS",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "000",
+          "font": "StepalangeShort-p7GZd.otf",
+          "textAlignment": "left",
+          "characterSize": 60,
+          "color": {
+            "b": 246,
+            "g": 214,
+            "r": 172
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 10,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "000",
+            "font": "StepalangeShort-p7GZd.otf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 60,
+            "lineHeight": 0,
+            "color": "172;214;246"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "DesolateMap",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "mapDesolate2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 800
+                          },
+                          {
+                            "x": 0,
+                            "y": 800
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -18932,6 +19263,9 @@
           },
           {
             "objectName": "Trufflenutstext"
+          },
+          {
+            "objectName": "FPS"
           },
           {
             "objectName": "Organs"
@@ -19070,6 +19404,15 @@
           },
           {
             "objectName": "GatesText"
+          },
+          {
+            "objectName": "NewSprite4"
+          },
+          {
+            "objectName": "PlayerLight"
+          },
+          {
+            "objectName": "DesolateMap"
           }
         ]
       },
@@ -19761,6 +20104,57 @@
                         ""
                       ]
                     }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Lighting",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "PlayerLight",
+                    "=",
+                    "Player.CenterX()",
+                    "=",
+                    "Player.CenterY()"
+                  ]
+                }
+              ]
+            },
+            {
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "PlayerLight",
+                    "=",
+                    "Player.CenterX()+500",
+                    "=",
+                    "Player.CenterY()-500"
                   ]
                 }
               ]
@@ -23722,7 +24116,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "On Start",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -23793,6 +24186,17 @@
                     "",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "FPS",
+                    "Text",
+                    "=",
+                    "\"FPS:\"+ToString(ceil(FPS::FPS()))"
+                  ]
                 }
               ]
             },
@@ -23821,7 +24225,7 @@
                     "",
                     "212",
                     "125",
-                    "850",
+                    "1642",
                     "760",
                     "\"PinkGlow\"",
                     ""
@@ -23835,7 +24239,7 @@
                     "",
                     "212",
                     "125",
-                    "850",
+                    "1642",
                     "760",
                     "\"Background\"",
                     ""
@@ -23849,7 +24253,7 @@
                     "",
                     "212",
                     "125",
-                    "850",
+                    "1642",
                     "760",
                     "\"Draw\"",
                     ""
@@ -23863,11 +24267,100 @@
                     "",
                     "212",
                     "125",
-                    "850",
+                    "1642",
                     "760",
                     "",
                     ""
                   ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "DesolateMap",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "212",
+                    "125",
+                    "1642",
+                    "760",
+                    "\"PinkGlow\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "212",
+                    "125",
+                    "1642",
+                    "760",
+                    "\"Background\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "212",
+                    "125",
+                    "1642",
+                    "760",
+                    "\"Draw\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "212",
+                    "125",
+                    "1642",
+                    "760",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": []
                 }
               ]
             },
@@ -24242,6 +24735,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Hunting Sequence",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -27355,87 +27849,10 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Weather",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "Snow1",
-                    "+",
-                    "1",
-                    "+",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "Snow2",
-                    "+",
-                    "1",
-                    "+",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "Snow3",
-                    "+",
-                    "2",
-                    "+",
-                    "2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "Snow4",
-                    "+",
-                    "2",
-                    "+",
-                    "2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ZoomCamera"
-                  },
-                  "parameters": [
-                    "",
-                    "2",
-                    "\"Snow\"",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVolumeMusicCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "10",
-                    "=",
-                    "0"
-                  ]
-                }
-              ]
-            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -27544,6 +27961,852 @@
               ]
             },
             {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "SnowStop",
+                    "=",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "SnowType",
+                    "=",
+                    "\"Desolate\""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "folded": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "RepeatEveryXSeconds::Repeat"
+                      },
+                      "parameters": [
+                        "",
+                        "\"snow1\"",
+                        "1",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Snow1",
+                        "RandomInRange(-300,640)",
+                        "-50",
+                        "\"Snow\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "RandomTintValue1",
+                        "=",
+                        "RandomInRange(1,150)"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue1",
+                            ">",
+                            "100"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Snow1",
+                            "\"204;204;142\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "20"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Snow1",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue1",
+                            "<=",
+                            "50"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Snow1",
+                            "\"85;85;104\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "20"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Snow1",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue1",
+                            ">",
+                            "50"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue1",
+                            "<=",
+                            "100"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Snow1",
+                            "\"160;160;139\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "20"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Snow1",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "folded": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "RepeatEveryXSeconds::Repeat"
+                      },
+                      "parameters": [
+                        "",
+                        "\"snow2\"",
+                        "1",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Snow2",
+                        "RandomInRange(-300,640)",
+                        "-50",
+                        "\"Snow\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "RandomTintValue2",
+                        "=",
+                        "RandomInRange(1,150)"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue2",
+                            ">",
+                            "100"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "SnowType",
+                            "=",
+                            "\"Desolate\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Snow2",
+                            "\"204;204;142\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "20"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Snow2",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue2",
+                            "<=",
+                            "50"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "SnowType",
+                            "=",
+                            "\"Desolate\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Snow2",
+                            "\"85;85;104\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "20"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Snow2",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue2",
+                            ">",
+                            "50"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue2",
+                            "<=",
+                            "100"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "SnowType",
+                            "=",
+                            "\"Desolate\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Snow2",
+                            "\"160;160;139\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "20"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Snow2",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "folded": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "RepeatEveryXSeconds::Repeat"
+                      },
+                      "parameters": [
+                        "",
+                        "\"snow3\"",
+                        ".3",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Snow3",
+                        "RandomInRange(-300,640)",
+                        "-50",
+                        "\"Snow\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "RandomTintValue3",
+                        "=",
+                        "RandomInRange(1,150)"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue3",
+                            ">",
+                            "100"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "SnowType",
+                            "=",
+                            "\"Desolate\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Snow3",
+                            "\"204;204;142\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "20"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Snow3",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue3",
+                            "<=",
+                            "50"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "SnowType",
+                            "=",
+                            "\"Desolate\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Snow3",
+                            "\"85;85;104\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "20"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Snow3",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue3",
+                            ">",
+                            "50"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue3",
+                            "<=",
+                            "100"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "SnowType",
+                            "=",
+                            "\"Desolate\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Snow3",
+                            "\"160;160;139\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "20"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Snow3",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "folded": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "RepeatEveryXSeconds::Repeat"
+                      },
+                      "parameters": [
+                        "",
+                        "\"snow4\"",
+                        ".3",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Snow4",
+                        "RandomInRange(-300,640)",
+                        "-50",
+                        "\"Snow\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "RandomTintValue4",
+                        "=",
+                        "RandomInRange(1,150)"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue4",
+                            ">",
+                            "100"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "SnowType",
+                            "=",
+                            "\"Desolate\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Snow4",
+                            "\"204;204;142\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "20"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Snow4",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue4",
+                            "<=",
+                            "50"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "SnowType",
+                            "=",
+                            "\"Desolate\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Snow4",
+                            "\"85;85;104\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "20"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Snow4",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue4",
+                            ">",
+                            "50"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue4",
+                            "<=",
+                            "100"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "SnowType",
+                            "=",
+                            "\"Desolate\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "Snow4",
+                            "\"160;160;139\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "20"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Snow4",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -27555,6 +28818,16 @@
                     "SnowStop",
                     "=",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "SnowType",
+                    "=",
+                    "\"Boreal\""
                   ]
                 }
               ],
@@ -27593,7 +28866,7 @@
                         "value": "Wait"
                       },
                       "parameters": [
-                        "10"
+                        "20"
                       ]
                     },
                     {
@@ -27601,7 +28874,7 @@
                         "value": "Delete"
                       },
                       "parameters": [
-                        "Snow2",
+                        "Snow1",
                         ""
                       ]
                     }
@@ -27637,10 +28910,20 @@
                     },
                     {
                       "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "RandomTintValue2",
+                        "=",
+                        "RandomInRange(1,150)"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "Wait"
                       },
                       "parameters": [
-                        "10"
+                        "20"
                       ]
                     },
                     {
@@ -27684,10 +28967,20 @@
                     },
                     {
                       "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "RandomTintValue3",
+                        "=",
+                        "RandomInRange(1,150)"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "Wait"
                       },
                       "parameters": [
-                        "10"
+                        "20"
                       ]
                     },
                     {
@@ -27731,10 +29024,20 @@
                     },
                     {
                       "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "RandomTintValue4",
+                        "=",
+                        "RandomInRange(1,150)"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "Wait"
                       },
                       "parameters": [
-                        "10"
+                        "20"
                       ]
                     },
                     {
@@ -27770,49 +29073,444 @@
                   "parameters": []
                 }
               ],
-              "actions": [
+              "actions": [],
+              "events": [
                 {
-                  "type": {
-                    "value": "PlayMusicCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "a lonely ermine different bell.ogg",
-                    "1",
-                    "no",
-                    "80",
-                    "1"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Map",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "SnowType",
+                        "=",
+                        "\"Boreal\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlayMusicCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "a lonely ermine different bell.ogg",
+                        "1",
+                        "no",
+                        "80",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlayMusicCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "porkstore_percussive_layer.ogg",
+                        "10",
+                        "yes",
+                        "100",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "109"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "SnowStop",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVolumeMusicCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "10",
+                        "=",
+                        "0"
+                      ]
+                    }
                   ]
                 },
                 {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Player",
+                        "DesolateMap",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "SnowType",
+                        "=",
+                        "\"Desolate\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlayMusicCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Untitled(3).wav",
+                        "1",
+                        "no",
+                        "80",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "207"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "SnowStop",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
                   "type": {
-                    "value": "PlayMusicCanal"
+                    "value": "StringVariable"
                   },
                   "parameters": [
-                    "",
-                    "porkstore_percussive_layer.ogg",
-                    "10",
-                    "yes",
-                    "100",
-                    "1"
+                    "SnowType",
+                    "=",
+                    "\"Boreal\""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Snow1",
+                        "+",
+                        "1",
+                        "+",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Snow2",
+                        "+",
+                        "1",
+                        "+",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Snow3",
+                        "+",
+                        "2",
+                        "+",
+                        "2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Snow4",
+                        "+",
+                        "2",
+                        "+",
+                        "2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ZoomCamera"
+                      },
+                      "parameters": [
+                        "",
+                        "2",
+                        "\"Snow\"",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "SnowType",
+                    "=",
+                    "\"Desolate\""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Snow1",
+                        "+",
+                        ".25",
+                        "+",
+                        ".25"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Snow2",
+                        "+",
+                        ".25",
+                        "+",
+                        ".25"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Snow3",
+                        "+",
+                        ".45",
+                        "+",
+                        ".45"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Snow4",
+                        "+",
+                        ".45",
+                        "+",
+                        ".45"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ZoomCamera"
+                      },
+                      "parameters": [
+                        "",
+                        "2",
+                        "\"Snow\"",
+                        ""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "109"
-                  ]
+                  "disabled": true,
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "SnowParticles",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": []
                 },
                 {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "SnowStop",
-                    "True",
-                    ""
+                  "disabled": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "RandomTintValue1",
+                        "=",
+                        "RandomInRange(1,150)"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue1",
+                            ">",
+                            "100"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "SnowParticles",
+                            "\"204;204;142\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue1",
+                            "<=",
+                            "50"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "SnowParticles",
+                            "\"85;85;104\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue1",
+                            ">",
+                            "50"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "RandomTintValue1",
+                            "<=",
+                            "100"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeColor"
+                          },
+                          "parameters": [
+                            "SnowParticles",
+                            "\"160;160;139\""
+                          ]
+                        }
+                      ]
+                    }
                   ]
                 }
               ]
@@ -28547,7 +30245,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -28619,7 +30316,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -28671,11 +30367,11 @@
               },
               "stringParameters": {
                 "color": "255;255;255",
-                "shadowQuality": "medium",
+                "shadowQuality": "high",
                 "top": "Z+"
               },
               "booleanParameters": {
-                "isCastingShadow": true
+                "isCastingShadow": false
               }
             },
             {
@@ -28696,7 +30392,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -28764,7 +30459,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -28818,7 +30512,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -28872,7 +30565,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -28926,7 +30618,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -28980,7 +30671,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -29034,7 +30724,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -29088,7 +30777,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -29137,6 +30825,24 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 245,
+          "ambientLightColorG": 245,
+          "ambientLightColorR": 245,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "defaultCameraBehavior": "do-nothing",
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "isLocked": false,
+          "name": "Lighting",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
         }
       ],
       "behaviorsSharedData": [
@@ -29209,10 +30915,8 @@
         "gridType": "rectangular",
         "gridWidth": 4,
         "gridHeight": 4,
-        "gridDepth": 4,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
-        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
@@ -34509,7 +36213,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -34625,10 +36328,8 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
-        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
-        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
@@ -35728,7 +37429,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -35793,7 +37493,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -35894,10 +37593,8 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
-        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
-        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
@@ -38997,7 +40694,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -39074,7 +40770,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -40996,7 +42691,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -41073,7 +42767,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -41182,14 +42875,12 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
-        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
-        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6650774182501562,
+        "zoomFactor": 0.4934517391481275,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -41496,16 +43187,18 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 0,
+          "flippedX": true,
+          "height": 398,
           "keepRatio": true,
           "layer": "",
-          "name": "Rabbit",
-          "persistentUuid": "f9c0e421-9079-447c-8ea4-85373e934f5c",
-          "width": 0,
-          "x": 643,
-          "y": 40,
-          "zOrder": 5,
+          "name": "Bear",
+          "persistentUuid": "86dc078f-3ddd-4626-93af-20708e186c9c",
+          "width": 176,
+          "x": 671,
+          "y": -115,
+          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -42954,6 +44647,71 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Bear",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "creatureoftheuknownV2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 3
+                          },
+                          {
+                            "x": 86,
+                            "y": 3
+                          },
+                          {
+                            "x": 86,
+                            "y": 198
+                          },
+                          {
+                            "x": 4,
+                            "y": 198
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -42985,6 +44743,9 @@
           },
           {
             "objectName": "Rabbit"
+          },
+          {
+            "objectName": "Bear"
           }
         ]
       },
@@ -44120,6 +45881,21 @@
                 },
                 {
                   "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+                  },
+                  "parameters": [
+                    "Bear",
+                    "Tween",
+                    "\"MoveToStart\"",
+                    "354",
+                    "-115",
+                    "\"easeInOutQuart\"",
+                    "4.8",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -44226,7 +46002,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -61853,6 +63628,476 @@
               "label": "Maximum value for random tween time range for Y scale (seconds)",
               "group": "Y scale",
               "name": "YScaleTimeMax"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
+    {
+      "author": "Ahnaf30e",
+      "category": "Advanced",
+      "extensionNamespace": "",
+      "fullName": "Frames per second (FPS)",
+      "gdevelopVersion": ">=5.5.222",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBkPSJNMzAsM2gtMkg0SDJDMS40LDMsMSwzLjQsMSw0czAuNCwxLDEsMWgxdjE2YzAsMC42LDAuNCwxLDEsMWg5LjhsLTUuNSw2LjNjLTAuNCwwLjQtMC4zLDEsMC4xLDEuNEM4LjUsMjkuOSw4LjgsMzAsOSwzMA0KCWMwLjMsMCwwLjYtMC4xLDAuOC0wLjNsNS4yLTZWMjhjMCwwLjYsMC40LDEsMSwxczEtMC40LDEtMXYtNC4zbDUuMiw2YzAuMiwwLjIsMC41LDAuMywwLjgsMC4zYzAuMiwwLDAuNS0wLjEsMC43LTAuMg0KCWMwLjQtMC40LDAuNS0xLDAuMS0xLjRMMTguMiwyMkgyOGMwLjYsMCwxLTAuNCwxLTFWNWgxYzAuNiwwLDEtMC40LDEtMVMzMC42LDMsMzAsM3ogTTI0LjgsOC42bC00LDZjLTAuMywwLjQtMC44LDAuNi0xLjMsMC4zDQoJTDE1LjgsMTNoLTMuNGwtMy43LDMuN0M4LjUsMTYuOSw4LjMsMTcsOCwxN3MtMC41LTAuMS0wLjctMC4zYy0wLjQtMC40LTAuNC0xLDAtMS40bDQtNGMwLjItMC4yLDAuNC0wLjMsMC43LTAuM2g0DQoJYzAuMiwwLDAuMywwLDAuNCwwLjFsMy4yLDEuNmwzLjUtNS4zYzAuMy0wLjUsMC45LTAuNiwxLjQtMC4zQzI1LDcuNSwyNS4xLDguMSwyNC44LDguNnoiLz4NCjwvc3ZnPg0K",
+      "name": "FPS",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/Glyphster Pack/Master/SVG/SEO/SEO_board_performance_profit.svg",
+      "shortDescription": "Calculate and display the frames per second (FPS) of the game.",
+      "version": "1.2.1",
+      "description": [
+        "Provides an expression to get the current FPS and a text object behavior to display the current FPS.",
+        "",
+        "Frames Per Second (FPS) describes how many times in the last second your game logic was executed. ",
+        "This includes running behaviors and events, and then rendering the new game state into the game window. The higher the FPS, the more fluid and performant your game looks.",
+        "",
+        "Note: Use the Performance Profiler (inside in the Debugger) for detailed performance information about your game."
+      ],
+      "origin": {
+        "identifier": "FPS",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "fps",
+        "frames",
+        "per",
+        "second",
+        "performance",
+        "speed"
+      ],
+      "authorIds": [
+        "onPsboRtDkUHNOsx7OPr8R8G1oj2",
+        "gqDaZjCfevOOxBYkK6zlhtZnXCg1"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [
+        {
+          "folded": true,
+          "name": "FrameTimestamps",
+          "type": "array",
+          "children": []
+        },
+        {
+          "folded": true,
+          "name": "TimeElapsed",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "eventsFunctions": [
+        {
+          "fullName": "",
+          "functionType": "Action",
+          "name": "onSceneLoaded",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PushNumber"
+                  },
+                  "parameters": [
+                    "FrameTimestamps",
+                    "Time(\"timestamp\")"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "fullName": "",
+          "functionType": "Action",
+          "name": "onScenePostEvents",
+          "sentence": "",
+          "events": [
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Keep timestamps for every frame inside the lookback period",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Record how much time has elapsed"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "TimeElapsed",
+                        "=",
+                        "Time(\"timestamp\") - FrameTimestamps[0]"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Remove any data before the last second from the beginning of the array"
+                },
+                {
+                  "infiniteLoopWarning": true,
+                  "type": "BuiltinCommonInstructions::While",
+                  "whileConditions": [
+                    {
+                      "type": {
+                        "value": "VariableChildCount"
+                      },
+                      "parameters": [
+                        "FrameTimestamps",
+                        ">",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "FrameTimestamps[0]",
+                        "<",
+                        "Time(\"timestamp\") - 1000"
+                      ]
+                    }
+                  ],
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "RemoveVariableAt"
+                      },
+                      "parameters": [
+                        "FrameTimestamps",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Add the current timestamp to the end of the array"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PushNumber"
+                      },
+                      "parameters": [
+                        "FrameTimestamps",
+                        "Time(\"timestamp\")"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Frames per second (FPS) during the last second.",
+          "fullName": "Frames Per Second (FPS)",
+          "functionType": "Expression",
+          "name": "FPS",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetReturnNumber"
+                  },
+                  "parameters": [
+                    "VariableChildCount(FrameTimestamps) / (TimeElapsed / 1000)"
+                  ]
+                }
+              ]
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Frames per second (FPS) during the last second. [Deprecated]",
+          "fullName": "Frames Per Second (FPS) [Deprecated]",
+          "functionType": "Expression",
+          "name": "PreciseFPS",
+          "private": true,
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetReturnNumber"
+                  },
+                  "parameters": [
+                    "FPS::FPS()"
+                  ]
+                }
+              ]
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The accuracy of the FPS",
+              "longDescription": "This tells how many numbers after the period should be shown.",
+              "name": "accuracy",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Makes a text object display the current FPS.",
+          "fullName": "FPS Displayer",
+          "name": "FPSDisplayer",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Generate the raw FPS text"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "UnformattedFPS",
+                        "=",
+                        "ToString(roundTo(FPS::FPS(), DecimalDigits))"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Add trailing zeroes, if needed"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::CompareNumbers"
+                          },
+                          "parameters": [
+                            "DecimalDigits",
+                            ">",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::CompareNumbers"
+                          },
+                          "parameters": [
+                            "StrFind(UnformattedFPS, \".\")",
+                            "=",
+                            "-1"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetStringVariable"
+                              },
+                              "parameters": [
+                                "UnformattedFPS",
+                                "+",
+                                "\".\""
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Repeat",
+                          "repeatExpression": "DecimalDigits",
+                          "conditions": [],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetStringVariable"
+                              },
+                              "parameters": [
+                                "UnformattedFPS",
+                                "+",
+                                "\"0\""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Show the formatted FPS text including the prefix"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Text",
+                            "=",
+                            "prefix + UnformattedFPS"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "variables": [
+                    {
+                      "folded": true,
+                      "name": "UnformattedFPS",
+                      "type": "string",
+                      "value": ""
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "FPS::FPSDisplayer",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "Text capability",
+              "extraInformation": [
+                "TextContainerCapability::TextContainerBehavior"
+              ],
+              "choices": [],
+              "name": "Text"
+            },
+            {
+              "value": "FPS: ",
+              "type": "String",
+              "label": "FPS counter prefix",
+              "name": "prefix"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "unit": "Dimensionless",
+              "label": "Number of decimal digits",
+              "name": "DecimalDigits"
             }
           ],
           "sharedPropertyDescriptors": []
