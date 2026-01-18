@@ -3162,6 +3162,46 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "DryTree.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DryTree.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TeethTower1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TeethTower1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TeethTower2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TeethTower2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TeethTower3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TeethTower3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TeethTower4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TeethTower4.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -3244,7 +3284,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.604083874998923,
+        "zoomFactor": 0.5290357402157179,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -3367,6 +3407,20 @@
             },
             {
               "name": "Snow4"
+            }
+          ]
+        },
+        {
+          "name": "Trees",
+          "objects": [
+            {
+              "name": "TallTree"
+            },
+            {
+              "name": "BristleConePineTree"
+            },
+            {
+              "name": "TeethTower"
             }
           ]
         }
@@ -3603,6 +3657,11 @@
           "name": "SnowStop",
           "type": "boolean",
           "value": true
+        },
+        {
+          "name": "AmbientLightLayer",
+          "type": "number",
+          "value": 255
         },
         {
           "name": "SnowType",
@@ -5165,7 +5224,7 @@
           "layer": "",
           "name": "Collision",
           "persistentUuid": "167a6796-adbe-447d-b1af-5430fbc88868",
-          "width": 704,
+          "width": 1558,
           "x": 147,
           "y": 60,
           "zOrder": 75,
@@ -5765,6 +5824,216 @@
           "x": 852,
           "y": -35,
           "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Lighting",
+          "name": "NewLight",
+          "persistentUuid": "ce2441b9-2872-4721-82b5-e2a9d8af4409",
+          "width": 0,
+          "x": 1264,
+          "y": -125,
+          "zOrder": 105,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BristleConePineTree",
+          "persistentUuid": "55dd4f5a-fce0-4187-be3b-de5a9823bc0a",
+          "width": 0,
+          "x": 1185,
+          "y": 115,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BristleConePineTree",
+          "persistentUuid": "268ce98a-f8b6-48e9-9904-4cafde8c1905",
+          "width": 0,
+          "x": 1020,
+          "y": 435,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BristleConePineTree",
+          "persistentUuid": "a7c2f35d-0345-4536-968e-8fac6a464cb9",
+          "width": 0,
+          "x": 970,
+          "y": 671,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BristleConePineTree",
+          "persistentUuid": "5e1004ba-8907-4873-a33c-fbfb58830506",
+          "width": 0,
+          "x": 1542,
+          "y": 635,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BristleConePineTree",
+          "persistentUuid": "6c198add-0eed-46dc-9a6a-bcfa23dbc09a",
+          "width": 0,
+          "x": 1549,
+          "y": 323,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BristleConePineTree",
+          "persistentUuid": "cce1445e-cadd-4fcb-bab2-259a2b2bf0b2",
+          "width": 0,
+          "x": 1543,
+          "y": 13,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 932,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "21eb4d79-ac7a-4c3f-84d1-e6134e5e29f9",
+          "width": 64,
+          "x": 1647,
+          "y": -119,
+          "zOrder": 107,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 126,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Collision",
+          "persistentUuid": "24e5e8d9-3b15-414a-9f53-60f274bc529b",
+          "width": 192,
+          "x": 1244,
+          "y": 284,
+          "zOrder": 108,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TeethTower",
+          "persistentUuid": "01a4267d-4d90-4e29-b152-93179d84c9f1",
+          "width": 0,
+          "x": 1562,
+          "y": 634,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TeethTower",
+          "persistentUuid": "d00943fa-472d-4cd8-9885-0dd44c865d6d",
+          "width": 0,
+          "x": 1498,
+          "y": 335,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TeethTower",
+          "persistentUuid": "26085b1d-3d4c-4acc-8f03-d54db38f08e4",
+          "width": 0,
+          "x": 1261,
+          "y": 358,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TeethTower",
+          "persistentUuid": "9c98cce0-7e36-4ca7-90e0-13a77a8c9dee",
+          "width": 0,
+          "x": 1093,
+          "y": 153,
+          "zOrder": 109,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12834,29 +13103,11 @@
                           },
                           {
                             "x": 56.5,
-                            "y": 120.5
+                            "y": 104
                           },
                           {
                             "x": 9.5,
-                            "y": 120
-                          }
-                        ],
-                        [
-                          {
-                            "x": 26,
-                            "y": 120
-                          },
-                          {
-                            "x": 38,
-                            "y": 119.5
-                          },
-                          {
-                            "x": 38,
-                            "y": 128
-                          },
-                          {
-                            "x": 26,
-                            "y": 128
+                            "y": 104.5
                           }
                         ]
                       ]
@@ -19212,6 +19463,248 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "BristleConePineTree",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "DryTree.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 32.5,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 46.5,
+                            "y": 19.5
+                          },
+                          {
+                            "x": 47.5,
+                            "y": 32
+                          },
+                          {
+                            "x": 1.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 9,
+                            "y": 13
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "TeethTower",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "FleshMovin",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3333333333333333,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TeethTower1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 64,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 64,
+                            "y": 76.5
+                          },
+                          {
+                            "x": 0.5,
+                            "y": 76
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TeethTower2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 64,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 64,
+                            "y": 76.5
+                          },
+                          {
+                            "x": 0.5,
+                            "y": 76
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TeethTower3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 64,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 64,
+                            "y": 76.5
+                          },
+                          {
+                            "x": 0.5,
+                            "y": 76
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TeethTower4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 64,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 64,
+                            "y": 76.5
+                          },
+                          {
+                            "x": 0.5,
+                            "y": 76
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -19254,6 +19747,9 @@
           },
           {
             "objectName": "TallTree"
+          },
+          {
+            "objectName": "BristleConePineTree"
           },
           {
             "objectName": "Map"
@@ -19413,6 +19909,9 @@
           },
           {
             "objectName": "DesolateMap"
+          },
+          {
+            "objectName": "TeethTower"
           }
         ]
       },
@@ -19422,7 +19921,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Collision",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -19741,7 +20239,7 @@
                   },
                   "parameters": [
                     "Player",
-                    "TallTree",
+                    "Trees",
                     "",
                     "",
                     ""
@@ -19754,7 +20252,7 @@
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
-                    "TallTree",
+                    "Trees",
                     "Tween",
                     "\"Fade\"",
                     "100",
@@ -19768,7 +20266,7 @@
                     "value": "ChangePlan"
                   },
                   "parameters": [
-                    "TallTree",
+                    "Trees",
                     "=",
                     "Player.ZOrder()+2"
                   ]
@@ -19785,7 +20283,7 @@
                   },
                   "parameters": [
                     "Player",
-                    "TallTree",
+                    "Trees",
                     "",
                     "",
                     ""
@@ -19798,7 +20296,7 @@
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
-                    "TallTree",
+                    "Trees",
                     "Tween",
                     "\"Show\"",
                     "255",
@@ -19812,7 +20310,7 @@
                     "value": "ChangePlan"
                   },
                   "parameters": [
-                    "TallTree",
+                    "Trees",
                     "=",
                     "Player.ZOrder()-1"
                   ]
@@ -20122,6 +20620,22 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetLayerAmbientLightColor"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Lighting\"",
+                    "ToString(AmbientLightLayer)+\";\"+ToString(AmbientLightLayer)+\";\"+ToString(AmbientLightLayer)"
+                  ]
+                }
+              ]
+            },
+            {
               "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
@@ -20167,7 +20681,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "disabled": true,
           "folded": true,
           "name": "GUI",
           "source": "",
@@ -20230,12 +20743,6 @@
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
-            },
-            {
-              "folded": true,
-              "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
@@ -20271,6 +20778,19 @@
                   "parameters": [
                     "Player",
                     "Map",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "DesolateMap",
                     "",
                     "",
                     ""
@@ -24116,6 +24636,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "On Start",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -24202,6 +24723,24 @@
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "NewLight",
+                    "=",
+                    "Player.CenterX()",
+                    "=",
+                    "Player.CenterY()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
@@ -24276,6 +24815,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -27849,6 +28389,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Weather",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -27961,6 +28502,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -29058,6 +29600,65 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Map",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "SnowType",
+                    "=",
+                    "\"Boreal\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "DesolateMap",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "SnowType",
+                    "=",
+                    "\"Desolate\""
+                  ]
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
                     "value": "BooleanVariable"
                   },
                   "parameters": [
@@ -29092,16 +29693,6 @@
                     }
                   ],
                   "actions": [
-                    {
-                      "type": {
-                        "value": "SetStringVariable"
-                      },
-                      "parameters": [
-                        "SnowType",
-                        "=",
-                        "\"Boreal\""
-                      ]
-                    },
                     {
                       "type": {
                         "value": "PlayMusicCanal"
@@ -29176,16 +29767,6 @@
                     }
                   ],
                   "actions": [
-                    {
-                      "type": {
-                        "value": "SetStringVariable"
-                      },
-                      "parameters": [
-                        "SnowType",
-                        "=",
-                        "\"Desolate\""
-                      ]
-                    },
                     {
                       "type": {
                         "value": "PlayMusicCanal"
@@ -29301,6 +29882,33 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "AmbientLightLayer",
+                        "<",
+                        "250"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "AmbientLightLayer",
+                        "+",
+                        "1"
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -29386,28 +29994,17 @@
                   ]
                 },
                 {
-                  "disabled": true,
-                  "type": "BuiltinCommonInstructions::ForEach",
-                  "object": "SnowParticles",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": []
-                },
-                {
-                  "disabled": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
-                        "value": "BuiltinCommonInstructions::Once"
+                        "value": "NumberVariable"
                       },
-                      "parameters": []
+                      "parameters": [
+                        "AmbientLightLayer",
+                        ">",
+                        "100"
+                      ]
                     }
                   ],
                   "actions": [
@@ -29416,99 +30013,9 @@
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
-                        "RandomTintValue1",
-                        "=",
-                        "RandomInRange(1,150)"
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "RandomTintValue1",
-                            ">",
-                            "100"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "ChangeColor"
-                          },
-                          "parameters": [
-                            "SnowParticles",
-                            "\"204;204;142\""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "RandomTintValue1",
-                            "<=",
-                            "50"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "ChangeColor"
-                          },
-                          "parameters": [
-                            "SnowParticles",
-                            "\"85;85;104\""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "RandomTintValue1",
-                            ">",
-                            "50"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "RandomTintValue1",
-                            "<=",
-                            "100"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "ChangeColor"
-                          },
-                          "parameters": [
-                            "SnowParticles",
-                            "\"160;160;139\""
-                          ]
-                        }
+                        "AmbientLightLayer",
+                        "-",
+                        "1"
                       ]
                     }
                   ]
@@ -42880,7 +43387,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4934517391481275,
+        "zoomFactor": 0.7594242003895901,
         "windowMask": false,
         "selectedLayer": ""
       },
