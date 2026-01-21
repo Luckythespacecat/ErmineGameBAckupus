@@ -3210,6 +3210,38 @@
         "name": "Towermap.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "TowermapBackdrop.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TowermapBackdrop.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TowermapBackdrop2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TowermapBackdrop2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TowermapBackdrop3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TowermapBackdrop3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "TowermapBackdrop4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TowermapBackdrop4.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -3292,7 +3324,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.353003667872322,
+        "zoomFactor": 0.7876290101674326,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -3475,6 +3507,16 @@
           "name": "ControlsAllowed",
           "type": "boolean",
           "value": true
+        },
+        {
+          "name": "PlayerPastPosX",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "PlayerPastPosY",
+          "type": "number",
+          "value": 0
         },
         {
           "name": "SwingingAxe",
@@ -8123,7 +8165,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 5,
+          "height": 2,
           "keepRatio": true,
           "layer": "",
           "name": "Collision",
@@ -8132,6 +8174,22 @@
           "x": -554,
           "y": 983,
           "zOrder": 112,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TowerBackground",
+          "persistentUuid": "5f082c65-7608-44cb-98ca-fe2e2fae2b81",
+          "width": 0,
+          "x": -1241,
+          "y": 416,
+          "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -21863,6 +21921,66 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "TowerBackground",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "TowermapBackdrop4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1268,
+                            "y": 0
+                          },
+                          {
+                            "x": 1268,
+                            "y": 1170
+                          },
+                          {
+                            "x": 0,
+                            "y": 1170
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -22073,6 +22191,9 @@
           },
           {
             "objectName": "TowerTop"
+          },
+          {
+            "objectName": "TowerBackground"
           }
         ]
       },
@@ -41434,6 +41555,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "GUI",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -41503,7 +41625,7 @@
                   },
                   "parameters": [
                     "Player",
-                    "",
+                    "TowerTop",
                     "",
                     "",
                     ""
@@ -42998,6 +43120,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Lighting",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -43026,6 +43149,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Burrow",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -45599,7 +45723,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Controls",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -45613,6 +45736,283 @@
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"d\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "PlayerPastPosX",
+                        "!=",
+                        "Player.X()"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"LShift\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreX"
+                          },
+                          "parameters": [
+                            "TowerBackground",
+                            "-",
+                            ".25"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreX"
+                          },
+                          "parameters": [
+                            "TowerBackground",
+                            "-",
+                            ".15"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"a\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "PlayerPastPosX",
+                        "!=",
+                        "Player.X()"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"LShift\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreX"
+                          },
+                          "parameters": [
+                            "TowerBackground",
+                            "+",
+                            ".25"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreX"
+                          },
+                          "parameters": [
+                            "TowerBackground",
+                            "+",
+                            ".15"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"s\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "PlayerPastPosY",
+                        "!=",
+                        "Player.Y()"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"LShift\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreY"
+                          },
+                          "parameters": [
+                            "TowerBackground",
+                            "-",
+                            ".25"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreY"
+                          },
+                          "parameters": [
+                            "TowerBackground",
+                            "-",
+                            ".15"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "folded": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"w\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "PlayerPastPosY",
+                        "!=",
+                        "Player.Y()"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"LShift\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreY"
+                          },
+                          "parameters": [
+                            "TowerBackground",
+                            "+",
+                            ".25"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreY"
+                          },
+                          "parameters": [
+                            "TowerBackground",
+                            "+",
+                            ".15"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
@@ -45645,6 +46045,16 @@
                         "Player",
                         "TopDownMovement"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "PlayerPastPosX",
+                        "=",
+                        "Player.X()"
+                      ]
                     }
                   ],
                   "events": [
@@ -45673,6 +46083,205 @@
                             "yes"
                           ]
                         }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"a\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "ControlsAllowed",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TopDownMovementBehavior::SimulateLeftKey"
+                      },
+                      "parameters": [
+                        "Player",
+                        "TopDownMovement"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "PlayerPastPosX",
+                        "=",
+                        "Player.X()"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Space\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Flippable",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"s\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "ControlsAllowed",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TopDownMovementBehavior::SimulateDownKey"
+                      },
+                      "parameters": [
+                        "Player",
+                        "TopDownMovement"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "PlayerPastPosY",
+                        "=",
+                        "Player.Y()"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"w\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "ControlsAllowed",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TopDownMovementBehavior::SimulateUpKey"
+                      },
+                      "parameters": [
+                        "Player",
+                        "TopDownMovement"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "PlayerPastPosY",
+                        "=",
+                        "Player.Y()"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Down\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "ControlsAllowed",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TopDownMovementBehavior::SimulateDownKey"
+                      },
+                      "parameters": [
+                        "Player",
+                        "TopDownMovement"
                       ]
                     }
                   ]
@@ -45797,71 +46406,6 @@
                   ]
                 },
                 {
-                  "folded": true,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyFromTextPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "\"a\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "ControlsAllowed",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "TopDownMovementBehavior::SimulateLeftKey"
-                      },
-                      "parameters": [
-                        "Player",
-                        "TopDownMovement"
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "KeyFromTextPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Space\""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "FlippableCapability::FlippableBehavior::FlipX"
-                          },
-                          "parameters": [
-                            "Player",
-                            "Flippable",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -45921,111 +46465,6 @@
                             ""
                           ]
                         }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyFromTextPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "\"s\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "ControlsAllowed",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "TopDownMovementBehavior::SimulateDownKey"
-                      },
-                      "parameters": [
-                        "Player",
-                        "TopDownMovement"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyFromTextPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Down\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "ControlsAllowed",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "TopDownMovementBehavior::SimulateDownKey"
-                      },
-                      "parameters": [
-                        "Player",
-                        "TopDownMovement"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyFromTextPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "\"w\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "ControlsAllowed",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "TopDownMovementBehavior::SimulateUpKey"
-                      },
-                      "parameters": [
-                        "Player",
-                        "TopDownMovement"
                       ]
                     }
                   ]
